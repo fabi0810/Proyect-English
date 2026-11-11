@@ -1,0 +1,25 @@
+node_modules
+dist
+*.log
+.DS_Store
+.env
+.env.*
+coverage
+# Archivos internos de Visual Studio
+.vs/
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de compilación
+bin/
+obj/
+dist/
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Archivos temporales
+*.log
+*.tmp

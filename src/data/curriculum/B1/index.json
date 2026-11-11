@@ -1,0 +1,386 @@
+{
+  "level": "B1",
+  "modules": [
+    {
+      "id": "b1-01",
+      "file": "b1-01-past-continuous.json",
+      "order": 1,
+      "title": "Past Continuous",
+      "titleEs": "Pasado continuo",
+      "summary": "Acciones en progreso en el pasado.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-02",
+      "file": "b1-02-past-simple-vs-continuous.json",
+      "order": 2,
+      "title": "Past Simple vs Past Continuous",
+      "titleEs": "Pasado simple vs continuo",
+      "summary": "when / while.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-03",
+      "file": "b1-03-used-to.json",
+      "order": 3,
+      "title": "Used To",
+      "titleEs": "Used to",
+      "summary": "Hábitos y estados pasados.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-04",
+      "file": "b1-04-present-perfect.json",
+      "order": 4,
+      "title": "Present Perfect",
+      "titleEs": "Presente perfecto",
+      "summary": "just, already, yet, for, since.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-05",
+      "file": "b1-05-present-perfect-vs-past-simple.json",
+      "order": 5,
+      "title": "Present Perfect vs Past Simple",
+      "titleEs": "Presente perfecto vs pasado simple",
+      "summary": "Tiempo terminado frente a no terminado.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-06",
+      "file": "b1-06-present-perfect-continuous.json",
+      "order": 6,
+      "title": "Present Perfect Continuous",
+      "titleEs": "Presente perfecto continuo",
+      "summary": "Duración hasta ahora.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-07",
+      "file": "b1-07-past-perfect.json",
+      "order": 7,
+      "title": "Past Perfect",
+      "titleEs": "Pasado perfecto",
+      "summary": "Anterioridad en el pasado.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-08",
+      "file": "b1-08-future-forms.json",
+      "order": 8,
+      "title": "Future Forms",
+      "titleEs": "Formas de futuro",
+      "summary": "Repaso integrado y oraciones temporales.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-09",
+      "file": "b1-09-zero-conditional.json",
+      "order": 9,
+      "title": "Zero Conditional",
+      "titleEs": "Condicional cero",
+      "summary": "Verdades generales.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-10",
+      "file": "b1-10-first-conditional.json",
+      "order": 10,
+      "title": "First Conditional",
+      "titleEs": "Primer condicional",
+      "summary": "Situaciones reales futuras; unless, as soon as.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-11",
+      "file": "b1-11-second-conditional.json",
+      "order": 11,
+      "title": "Second Conditional",
+      "titleEs": "Segundo condicional",
+      "summary": "Situaciones hipotéticas.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-12",
+      "file": "b1-12-passive-voice.json",
+      "order": 12,
+      "title": "Passive Voice",
+      "titleEs": "Voz pasiva",
+      "summary": "Presente y pasado.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-13",
+      "file": "b1-13-reported-speech.json",
+      "order": 13,
+      "title": "Reported Speech",
+      "titleEs": "Estilo indirecto",
+      "summary": "Afirmaciones.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-14",
+      "file": "b1-14-relative-clauses.json",
+      "order": 14,
+      "title": "Relative Clauses",
+      "titleEs": "Oraciones de relativo",
+      "summary": "who, which, that, where, whose.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-15",
+      "file": "b1-15-gerunds-infinitives.json",
+      "order": 15,
+      "title": "Gerunds and Infinitives",
+      "titleEs": "Gerundios e infinitivos",
+      "summary": "Verbos + -ing / to.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-16",
+      "file": "b1-16-modals-possibility-deduction.json",
+      "order": 16,
+      "title": "Modal Verbs: Possibility and Deduction",
+      "titleEs": "Modales: posibilidad y deducción",
+      "summary": "may, might, could, must, can't.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-17",
+      "file": "b1-17-question-tags.json",
+      "order": 17,
+      "title": "Question Tags",
+      "titleEs": "Question tags",
+      "summary": "isn't it?, don't you?",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-18",
+      "file": "b1-18-phrasal-verbs.json",
+      "order": 18,
+      "title": "Phrasal Verbs",
+      "titleEs": "Phrasal verbs",
+      "summary": "Frecuentes; separables e inseparables.",
+      "skills": [
+        "grammar",
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-19",
+      "file": "b1-19-linking-words.json",
+      "order": 19,
+      "title": "Linking Words",
+      "titleEs": "Conectores",
+      "summary": "although, however, therefore…",
+      "skills": [
+        "grammar",
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-20",
+      "file": "b1-20-complex-sentence-construction.json",
+      "order": 20,
+      "title": "Complex Sentence Construction",
+      "titleEs": "Construcción de oraciones complejas",
+      "summary": "Coordinación y subordinación.",
+      "skills": [
+        "construction"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-21",
+      "file": "b1-21-advanced-vocabulary-b1.json",
+      "order": 21,
+      "title": "Advanced Vocabulary B1",
+      "titleEs": "Vocabulario avanzado B1",
+      "summary": "Temas B1.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-22",
+      "file": "b1-22-reading-comprehension-b1.json",
+      "order": 22,
+      "title": "Reading Comprehension B1",
+      "titleEs": "Comprensión lectora B1",
+      "summary": "Textos de 250–450 palabras.",
+      "skills": [
+        "reading"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b1-23",
+      "file": "b1-23-writing-paragraphs-essays.json",
+      "order": 23,
+      "title": "Writing Paragraphs and Essays",
+      "titleEs": "Escritura de párrafos y ensayos",
+      "summary": "Párrafos y ensayos de opinión.",
+      "skills": [
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    }
+  ],
+  "finalExam": {
+    "id": "B1-final",
+    "title": "B1 Final Exam",
+    "sections": [
+      {
+        "id": "grammar",
+        "title": "Grammar",
+        "weight": 0.3,
+        "count": 20,
+        "source": {
+          "kind": "modules",
+          "skills": [
+            "grammar"
+          ]
+        }
+      },
+      {
+        "id": "vocabulary",
+        "title": "Vocabulary",
+        "weight": 0.15,
+        "count": 10,
+        "source": {
+          "kind": "vocabulary"
+        }
+      },
+      {
+        "id": "reading",
+        "title": "Reading",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "reading"
+        }
+      },
+      {
+        "id": "listening",
+        "title": "Listening",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "listening"
+        }
+      },
+      {
+        "id": "translation",
+        "title": "Translation",
+        "weight": 0.1,
+        "count": 4,
+        "source": {
+          "kind": "exam",
+          "pool": "translation"
+        }
+      },
+      {
+        "id": "construction",
+        "title": "Sentence Construction",
+        "weight": 0.05,
+        "count": 3,
+        "source": {
+          "kind": "modules",
+          "types": [
+            "word_order",
+            "sentence_building"
+          ]
+        }
+      },
+      {
+        "id": "writing",
+        "title": "Writing",
+        "weight": 0.1,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "writing"
+        }
+      }
+    ]
+  }
+}

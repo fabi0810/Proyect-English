@@ -1,0 +1,775 @@
+[
+  {
+    "id": "a1-ls01",
+    "level": "A1",
+    "title": "A New Classmate",
+    "topic": "greetings",
+    "kind": "dialogue",
+    "intro": "Dos estudiantes se conocen el primer día de clase.",
+    "lines": [
+      {
+        "speaker": "Anna",
+        "text": "Hi! Are you new here?",
+        "es": "¡Hola! ¿Eres nuevo aquí?"
+      },
+      {
+        "speaker": "Mateo",
+        "text": "Yes, I am. I'm Mateo.",
+        "es": "Sí. Soy Mateo."
+      },
+      {
+        "speaker": "Anna",
+        "text": "Nice to meet you, Mateo. I'm Anna. Where are you from?",
+        "es": "Encantada, Mateo. Soy Anna. ¿De dónde eres?"
+      },
+      {
+        "speaker": "Mateo",
+        "text": "I'm from Uruguay. And you?",
+        "es": "Soy de Uruguay. ¿Y tú?"
+      },
+      {
+        "speaker": "Anna",
+        "text": "I'm from Poland. How do you spell your last name?",
+        "es": "Soy de Polonia. ¿Cómo se deletrea tu apellido?"
+      },
+      {
+        "speaker": "Mateo",
+        "text": "It's Silva. S-I-L-V-A.",
+        "es": "Es Silva. S-I-L-V-A."
+      },
+      {
+        "speaker": "Anna",
+        "text": "Great. Our teacher is Mr. Brown. He's very nice.",
+        "es": "Genial. Nuestro profesor es el señor Brown. Es muy simpático."
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls01-q1",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "Where is Mateo from?",
+        "options": [
+          "Uruguay",
+          "Paraguay",
+          "Poland",
+          "Portugal"
+        ],
+        "answer": 0,
+        "explanation": "«I'm from Uruguay.»"
+      },
+      {
+        "id": "a1-ls01-q2",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "Where is Anna from?",
+        "options": [
+          "Poland",
+          "Holland",
+          "Uruguay",
+          "Italy"
+        ],
+        "answer": 0,
+        "explanation": "«I'm from Poland.»"
+      },
+      {
+        "id": "a1-ls01-q3",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "How do you spell Mateo's last name?",
+        "options": [
+          "S-I-L-V-A",
+          "S-E-L-V-A",
+          "C-I-L-V-A",
+          "S-I-L-B-A"
+        ],
+        "answer": 0,
+        "explanation": "«S-I-L-V-A.»"
+      },
+      {
+        "id": "a1-ls01-q4",
+        "type": "dictation",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "text": "Our teacher is Mr. Brown.",
+        "explanation": "Our teacher is Mr. Brown.",
+        "answers": [
+          "Our teacher is Mister Brown."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a1-ls02",
+    "level": "A1",
+    "title": "At the Hotel",
+    "topic": "numbers-big",
+    "kind": "dialogue",
+    "intro": "Una clienta llega a la recepción de un hotel.",
+    "lines": [
+      {
+        "speaker": "Receptionist",
+        "text": "Good evening. Welcome to the Park Hotel.",
+        "es": "Buenas noches. Bienvenida al hotel Park."
+      },
+      {
+        "speaker": "Guest",
+        "text": "Good evening. I have a reservation. My name is Laura Gómez.",
+        "es": "Buenas noches. Tengo una reserva. Me llamo Laura Gómez."
+      },
+      {
+        "speaker": "Receptionist",
+        "text": "Yes, Ms. Gómez. Two nights, a single room. Your room is two hundred and thirteen, on the second floor.",
+        "es": "Sí, señora Gómez. Dos noches, habitación individual. Su habitación es la 213, en el segundo piso."
+      },
+      {
+        "speaker": "Guest",
+        "text": "Thank you. What time is breakfast?",
+        "es": "Gracias. ¿A qué hora es el desayuno?"
+      },
+      {
+        "speaker": "Receptionist",
+        "text": "Breakfast is from seven to ten in the restaurant. The Wi-Fi password is on your key card.",
+        "es": "El desayuno es de siete a diez en el restaurante. La contraseña del wifi está en su tarjeta llave."
+      },
+      {
+        "speaker": "Guest",
+        "text": "Perfect. Thanks a lot.",
+        "es": "Perfecto. Muchas gracias."
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls02-q1",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "How many nights does Laura stay?",
+        "options": [
+          "Two",
+          "Three",
+          "One",
+          "Seven"
+        ],
+        "answer": 0,
+        "explanation": "«Two nights.»"
+      },
+      {
+        "id": "a1-ls02-q2",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "What is her room number?",
+        "options": [
+          "213",
+          "230",
+          "203",
+          "313"
+        ],
+        "answer": 0,
+        "explanation": "«two hundred and thirteen» = 213."
+      },
+      {
+        "id": "a1-ls02-q3",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "When is breakfast?",
+        "options": [
+          "7–10",
+          "7–11",
+          "6–10",
+          "8–10"
+        ],
+        "answer": 0,
+        "explanation": "«from seven to ten»."
+      },
+      {
+        "id": "a1-ls02-q4",
+        "type": "true_false",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "statement": "The Wi-Fi password is on the key card.",
+        "answer": true,
+        "explanation": "«The Wi-Fi password is on your key card.»"
+      }
+    ]
+  },
+  {
+    "id": "a1-ls03",
+    "level": "A1",
+    "title": "A Message from Mom",
+    "topic": "telling-time",
+    "kind": "monologue",
+    "intro": "Un mensaje de voz de una madre a su hijo.",
+    "lines": [
+      {
+        "speaker": "Mom",
+        "text": "Hi, Sam, it's Mom. I'm at work and I finish late today, at seven thirty.",
+        "es": "Hola, Sam, soy mamá. Estoy en el trabajo y hoy salgo tarde, a las siete y media."
+      },
+      {
+        "speaker": "Mom",
+        "text": "Please take the dog for a walk at five. The food for dinner is in the fridge.",
+        "es": "Por favor, saca a pasear al perro a las cinco. La comida para la cena está en la nevera."
+      },
+      {
+        "speaker": "Mom",
+        "text": "Your grandmother calls at six. Don't forget! Her birthday is on Friday.",
+        "es": "Tu abuela llama a las seis. ¡No lo olvides! Su cumpleaños es el viernes."
+      },
+      {
+        "speaker": "Mom",
+        "text": "See you later. Love you!",
+        "es": "Hasta luego. ¡Te quiero!"
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls03-q1",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "What time does Mom finish work today?",
+        "options": [
+          "7:30",
+          "7:00",
+          "5:30",
+          "6:30"
+        ],
+        "answer": 0,
+        "explanation": "«at seven thirty»."
+      },
+      {
+        "id": "a1-ls03-q2",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "What does Sam do at five?",
+        "options": [
+          "He takes the dog for a walk.",
+          "He calls his grandmother.",
+          "He cooks dinner.",
+          "He goes to work."
+        ],
+        "answer": 0,
+        "explanation": "«take the dog for a walk at five»."
+      },
+      {
+        "id": "a1-ls03-q3",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "When is the grandmother's birthday?",
+        "options": [
+          "On Friday",
+          "Today",
+          "On Sunday",
+          "On Thursday"
+        ],
+        "answer": 0,
+        "explanation": "«Her birthday is on Friday.»"
+      },
+      {
+        "id": "a1-ls03-q4",
+        "type": "dictation",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "text": "The food for dinner is in the fridge.",
+        "explanation": "The food for dinner is in the fridge."
+      }
+    ]
+  },
+  {
+    "id": "a1-ls04",
+    "level": "A1",
+    "title": "Lunch Order",
+    "topic": "ordering-food",
+    "kind": "dialogue",
+    "intro": "Un cliente pide el almuerzo en un restaurante.",
+    "lines": [
+      {
+        "speaker": "Waitress",
+        "text": "Hello! Are you ready to order?",
+        "es": "¡Hola! ¿Listo para pedir?"
+      },
+      {
+        "speaker": "Customer",
+        "text": "Yes. I'd like the tomato soup and a chicken salad, please.",
+        "es": "Sí. Quisiera la sopa de tomate y una ensalada de pollo, por favor."
+      },
+      {
+        "speaker": "Waitress",
+        "text": "Anything to drink?",
+        "es": "¿Algo para beber?"
+      },
+      {
+        "speaker": "Customer",
+        "text": "Can I have a glass of water? No ice, please.",
+        "es": "¿Me da un vaso de agua? Sin hielo, por favor."
+      },
+      {
+        "speaker": "Waitress",
+        "text": "Of course. Would you like dessert?",
+        "es": "Por supuesto. ¿Quiere postre?"
+      },
+      {
+        "speaker": "Customer",
+        "text": "No, thank you. Can I have the bill?",
+        "es": "No, gracias. ¿Me trae la cuenta?"
+      },
+      {
+        "speaker": "Waitress",
+        "text": "Sure. That's eighteen dollars.",
+        "es": "Claro. Son dieciocho dólares."
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls04-q1",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "What soup does the customer order?",
+        "options": [
+          "Tomato",
+          "Chicken",
+          "Onion",
+          "Fish"
+        ],
+        "answer": 0,
+        "explanation": "«the tomato soup»."
+      },
+      {
+        "id": "a1-ls04-q2",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "What does he drink?",
+        "options": [
+          "Water without ice",
+          "Orange juice",
+          "Coffee",
+          "Water with ice"
+        ],
+        "answer": 0,
+        "explanation": "«a glass of water? No ice»."
+      },
+      {
+        "id": "a1-ls04-q3",
+        "type": "true_false",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "statement": "The customer orders a dessert.",
+        "answer": false,
+        "explanation": "«No, thank you.»"
+      },
+      {
+        "id": "a1-ls04-q4",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "How much is the bill?",
+        "options": [
+          "$18",
+          "$80",
+          "$8",
+          "$19"
+        ],
+        "answer": 0,
+        "explanation": "«eighteen dollars»."
+      }
+    ]
+  },
+  {
+    "id": "a1-ls05",
+    "level": "A1",
+    "title": "Airport Announcement",
+    "topic": "numbers-big",
+    "kind": "announcement",
+    "intro": "Un anuncio en el aeropuerto.",
+    "lines": [
+      {
+        "speaker": "Announcer",
+        "text": "Good afternoon, passengers. Flight AB three five two to Miami is now boarding at gate fourteen.",
+        "es": "Buenas tardes, pasajeros. El vuelo AB 352 a Miami está embarcando en la puerta 14."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "Flight CD seven one to Madrid is delayed. It now leaves at five forty-five.",
+        "es": "El vuelo CD 71 a Madrid está retrasado. Ahora sale a las cinco y cuarenta y cinco."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "Please have your passport and boarding pass ready. Thank you.",
+        "es": "Por favor, tengan listos su pasaporte y su tarjeta de embarque. Gracias."
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls05-q1",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "Which gate is the Miami flight?",
+        "options": [
+          "14",
+          "40",
+          "4",
+          "41"
+        ],
+        "answer": 0,
+        "explanation": "«gate fourteen» = 14."
+      },
+      {
+        "id": "a1-ls05-q2",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "What is the number of the Miami flight?",
+        "options": [
+          "AB 352",
+          "AB 325",
+          "AB 532",
+          "AD 352"
+        ],
+        "answer": 0,
+        "explanation": "«AB three five two»."
+      },
+      {
+        "id": "a1-ls05-q3",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "When does the Madrid flight leave now?",
+        "options": [
+          "5:45",
+          "5:15",
+          "4:45",
+          "7:45"
+        ],
+        "answer": 0,
+        "explanation": "«five forty-five»."
+      },
+      {
+        "id": "a1-ls05-q4",
+        "type": "true_false",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "statement": "Passengers need their passport.",
+        "answer": true,
+        "explanation": "«Please have your passport and boarding pass ready.»"
+      }
+    ]
+  },
+  {
+    "id": "a1-ls06",
+    "level": "A1",
+    "title": "Where's the Pharmacy?",
+    "topic": "prepositions-place",
+    "kind": "dialogue",
+    "intro": "Una turista pregunta por una farmacia.",
+    "lines": [
+      {
+        "speaker": "Tourist",
+        "text": "Excuse me, is there a pharmacy near here?",
+        "es": "Disculpe, ¿hay una farmacia cerca de aquí?"
+      },
+      {
+        "speaker": "Man",
+        "text": "Yes, there is. It's on Lake Street, next to the bank.",
+        "es": "Sí, hay una. Está en la calle Lake, al lado del banco."
+      },
+      {
+        "speaker": "Tourist",
+        "text": "Next to the bank? Is it far?",
+        "es": "¿Al lado del banco? ¿Está lejos?"
+      },
+      {
+        "speaker": "Man",
+        "text": "No, it isn't. It's about five minutes on foot. It's opposite a big supermarket.",
+        "es": "No. Está a unos cinco minutos a pie. Está enfrente de un supermercado grande."
+      },
+      {
+        "speaker": "Tourist",
+        "text": "Thank you very much!",
+        "es": "¡Muchas gracias!"
+      },
+      {
+        "speaker": "Man",
+        "text": "You're welcome.",
+        "es": "De nada."
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls06-q1",
+        "type": "multiple_choice",
+        "topic": "prepositions-place",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "Where is the pharmacy?",
+        "options": [
+          "Next to the bank",
+          "Next to the supermarket",
+          "In the supermarket",
+          "Behind the bank"
+        ],
+        "answer": 0,
+        "explanation": "«next to the bank»."
+      },
+      {
+        "id": "a1-ls06-q2",
+        "type": "multiple_choice",
+        "topic": "prepositions-place",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "What is opposite the pharmacy?",
+        "options": [
+          "A big supermarket",
+          "A bank",
+          "A hotel",
+          "A school"
+        ],
+        "answer": 0,
+        "explanation": "«It's opposite a big supermarket.»"
+      },
+      {
+        "id": "a1-ls06-q3",
+        "type": "true_false",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "statement": "The pharmacy is far from here.",
+        "answer": false,
+        "explanation": "«No, it isn't. It's about five minutes on foot.»"
+      },
+      {
+        "id": "a1-ls06-q4",
+        "type": "dictation",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "text": "Is there a pharmacy near here?",
+        "explanation": "Is there a pharmacy near here?"
+      }
+    ]
+  },
+  {
+    "id": "a1-ls07",
+    "level": "A1",
+    "title": "My Weekends",
+    "topic": "frequency-adverbs",
+    "kind": "monologue",
+    "intro": "Paula habla de sus fines de semana.",
+    "lines": [
+      {
+        "speaker": "Paula",
+        "text": "On Saturdays I usually get up at nine. I always have pancakes for breakfast.",
+        "es": "Los sábados normalmente me levanto a las nueve. Siempre desayuno panqueques."
+      },
+      {
+        "speaker": "Paula",
+        "text": "I often go to the gym in the morning, and in the afternoon I sometimes meet my friends in the park.",
+        "es": "A menudo voy al gimnasio por la mañana y por la tarde a veces quedo con mis amigos en el parque."
+      },
+      {
+        "speaker": "Paula",
+        "text": "On Sundays I never work. I visit my parents and we have lunch together.",
+        "es": "Los domingos nunca trabajo. Visito a mis padres y almorzamos juntos."
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls07-q1",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "What time does Paula usually get up on Saturdays?",
+        "options": [
+          "At nine",
+          "At seven",
+          "At ten",
+          "At eight"
+        ],
+        "answer": 0,
+        "explanation": "«I usually get up at nine.»"
+      },
+      {
+        "id": "a1-ls07-q2",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "What does she always have for breakfast?",
+        "options": [
+          "Pancakes",
+          "Eggs",
+          "Fruit",
+          "Toast"
+        ],
+        "answer": 0,
+        "explanation": "«I always have pancakes.»"
+      },
+      {
+        "id": "a1-ls07-q3",
+        "type": "multiple_choice",
+        "topic": "frequency-adverbs",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "How often does she go to the gym?",
+        "options": [
+          "Often",
+          "Never",
+          "Always",
+          "Sometimes"
+        ],
+        "answer": 0,
+        "explanation": "«I often go to the gym.»"
+      },
+      {
+        "id": "a1-ls07-q4",
+        "type": "true_false",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 1,
+        "statement": "Paula works on Sundays.",
+        "answer": false,
+        "explanation": "«On Sundays I never work.»"
+      }
+    ]
+  },
+  {
+    "id": "a1-ls08",
+    "level": "A1",
+    "title": "Contact Details",
+    "topic": "alphabet-spelling",
+    "kind": "dialogue",
+    "intro": "Una recepcionista toma los datos de un nuevo cliente del gimnasio.",
+    "lines": [
+      {
+        "speaker": "Receptionist",
+        "text": "What's your name, please?",
+        "es": "¿Cuál es su nombre, por favor?"
+      },
+      {
+        "speaker": "Client",
+        "text": "Carlos Peña.",
+        "es": "Carlos Peña."
+      },
+      {
+        "speaker": "Receptionist",
+        "text": "Can you spell your last name?",
+        "es": "¿Puede deletrear su apellido?"
+      },
+      {
+        "speaker": "Client",
+        "text": "Sure. P-E-N-A.",
+        "es": "Claro. P-E-N-A."
+      },
+      {
+        "speaker": "Receptionist",
+        "text": "And what's your phone number?",
+        "es": "¿Y su número de teléfono?"
+      },
+      {
+        "speaker": "Client",
+        "text": "It's five five five, eight two zero, four one nine six.",
+        "es": "Es 555-820-4196."
+      },
+      {
+        "speaker": "Receptionist",
+        "text": "And your email?",
+        "es": "¿Y su correo?"
+      },
+      {
+        "speaker": "Client",
+        "text": "It's carlos dot pena at mail dot com.",
+        "es": "Es carlos punto pena arroba mail punto com."
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1-ls08-q1",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "What is Carlos's phone number?",
+        "options": [
+          "555-820-4196",
+          "555-280-4196",
+          "555-820-4169",
+          "555-802-4196"
+        ],
+        "answer": 0,
+        "explanation": "«five five five, eight two zero, four one nine six»."
+      },
+      {
+        "id": "a1-ls08-q2",
+        "type": "multiple_choice",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "question": "What is his email?",
+        "options": [
+          "carlos.pena@mail.com",
+          "carlospena@mail.com",
+          "carlos.pena@gmail.com",
+          "carlos-pena@mail.com"
+        ],
+        "answer": 0,
+        "explanation": "dot = punto (.), at = arroba (@)."
+      },
+      {
+        "id": "a1-ls08-q3",
+        "type": "multiple_choice",
+        "topic": "alphabet-spelling",
+        "skill": "listening",
+        "difficulty": 1,
+        "question": "In an email address, «at» means…",
+        "options": [
+          "@",
+          "punto",
+          "guion",
+          "barra"
+        ],
+        "answer": 0,
+        "explanation": "at = @; dot = ."
+      },
+      {
+        "id": "a1-ls08-q4",
+        "type": "dictation",
+        "topic": "listening-detail",
+        "skill": "listening",
+        "difficulty": 2,
+        "text": "Can you spell your last name?",
+        "explanation": "Can you spell your last name?"
+      }
+    ]
+  }
+]

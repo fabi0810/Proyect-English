@@ -1,0 +1,776 @@
+{
+  "questions": [
+    {
+      "id": "dx-a1-01",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "be-affirmative",
+      "module": "a1-03",
+      "question": "She ___ a doctor.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "She → is."
+    },
+    {
+      "id": "dx-a1-02",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "be-questions",
+      "module": "a1-03",
+      "question": "___ you from Mexico?",
+      "options": [
+        "Are",
+        "Is",
+        "Do",
+        "Am"
+      ],
+      "answer": 0,
+      "explanation": "Preguntas con be: Are you…?"
+    },
+    {
+      "id": "dx-a1-03",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "article-a-an",
+      "module": "a1-05",
+      "question": "I have ___ umbrella.",
+      "options": [
+        "an",
+        "a",
+        "some",
+        "two"
+      ],
+      "answer": 0,
+      "explanation": "An delante de sonido vocálico: an umbrella."
+    },
+    {
+      "id": "dx-a1-04",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "plural-irregular",
+      "module": "a1-06",
+      "question": "Two ___ live in that house.",
+      "options": [
+        "children",
+        "childs",
+        "child",
+        "childrens"
+      ],
+      "answer": 0,
+      "explanation": "child → children (plural irregular)."
+    },
+    {
+      "id": "dx-a1-05",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "third-person-s",
+      "module": "a1-11",
+      "question": "My brother ___ in a bank.",
+      "options": [
+        "works",
+        "work",
+        "working",
+        "is work"
+      ],
+      "answer": 0,
+      "explanation": "Tercera persona del presente simple: works."
+    },
+    {
+      "id": "dx-a1-06",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "ps-yes-no-questions",
+      "module": "a1-12",
+      "question": "___ your sister like coffee?",
+      "options": [
+        "Does",
+        "Do",
+        "Is",
+        "Are"
+      ],
+      "answer": 0,
+      "explanation": "Con he/she/it: Does…?"
+    },
+    {
+      "id": "dx-a1-07",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "there-is-are",
+      "module": "a1-15",
+      "question": "There ___ two chairs in the kitchen.",
+      "options": [
+        "are",
+        "is",
+        "be",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "Plural → there are."
+    },
+    {
+      "id": "dx-a1-08",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "possessive-adjectives",
+      "module": "a1-07",
+      "question": "Ana and Luis love ___ dog.",
+      "options": [
+        "their",
+        "they",
+        "them",
+        "there"
+      ],
+      "answer": 0,
+      "explanation": "Their = su (de ellos)."
+    },
+    {
+      "id": "dx-a1-09",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "can-ability",
+      "module": "a1-17",
+      "question": "I ___ swim very well.",
+      "options": [
+        "can",
+        "can to",
+        "cans",
+        "am can"
+      ],
+      "answer": 0,
+      "explanation": "can + verbo base, sin to ni -s."
+    },
+    {
+      "id": "dx-a1-10",
+      "level": "A1",
+      "skill": "reading",
+      "topic": "reading-detail",
+      "module": "a1-14",
+      "question": "How does Tom go to work?",
+      "options": [
+        "By bus",
+        "By car",
+        "On foot",
+        "By train"
+      ],
+      "answer": 0,
+      "explanation": "«…and go to work by bus.»",
+      "context": "Hi, I'm Tom. I get up at seven, have breakfast and go to work by bus."
+    },
+    {
+      "id": "dx-a1-11",
+      "level": "A1",
+      "skill": "grammar",
+      "topic": "prepositions-place",
+      "module": "a1-16",
+      "question": "The keys are ___ the table.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "of"
+      ],
+      "answer": 0,
+      "explanation": "Sobre una superficie: on the table."
+    },
+    {
+      "id": "dx-a1-12",
+      "level": "A1",
+      "skill": "vocabulary",
+      "topic": "be-expressions",
+      "module": "a1-03",
+      "question": "«Tengo 20 años» =",
+      "options": [
+        "I'm 20 years old.",
+        "I have 20 years.",
+        "I have 20 years old.",
+        "I'm 20 years."
+      ],
+      "answer": 0,
+      "explanation": "La edad va con be: I'm 20 (years old)."
+    },
+    {
+      "id": "dx-a2-01",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "past-simple",
+      "module": "a2-05",
+      "question": "Yesterday I ___ to the cinema with my friends.",
+      "options": [
+        "went",
+        "go",
+        "goed",
+        "was go"
+      ],
+      "answer": 0,
+      "explanation": "go → went (pasado irregular)."
+    },
+    {
+      "id": "dx-a2-02",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "past-be",
+      "module": "a2-03",
+      "question": "___ you at home last night?",
+      "options": [
+        "Were",
+        "Was",
+        "Did",
+        "Are"
+      ],
+      "answer": 0,
+      "explanation": "Pasado de be con you: were."
+    },
+    {
+      "id": "dx-a2-03",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present-continuous",
+      "module": "a2-01",
+      "question": "Listen! The baby ___.",
+      "options": [
+        "is crying",
+        "cries",
+        "cry",
+        "crying"
+      ],
+      "answer": 0,
+      "explanation": "Acción en curso: is crying."
+    },
+    {
+      "id": "dx-a2-04",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "comparatives",
+      "module": "a2-11",
+      "question": "My house is ___ than yours.",
+      "options": [
+        "bigger",
+        "more big",
+        "biggest",
+        "more bigger"
+      ],
+      "answer": 0,
+      "explanation": "Adjetivo corto: big → bigger."
+    },
+    {
+      "id": "dx-a2-05",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "future-forms",
+      "module": "a2-14",
+      "question": "We ___ visit our grandparents next weekend. We already have the tickets.",
+      "options": [
+        "are going to",
+        "will to",
+        "going",
+        "are go to"
+      ],
+      "answer": 0,
+      "explanation": "Plan decidido: be going to."
+    },
+    {
+      "id": "dx-a2-06",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "past-simple",
+      "module": "a2-06",
+      "question": "She didn't ___ her homework.",
+      "options": [
+        "do",
+        "did",
+        "does",
+        "done"
+      ],
+      "answer": 0,
+      "explanation": "didn't + verbo base."
+    },
+    {
+      "id": "dx-a2-07",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "countable-uncountable",
+      "module": "a2-10",
+      "question": "How ___ water do you drink every day?",
+      "options": [
+        "much",
+        "many",
+        "a lot",
+        "few"
+      ],
+      "answer": 0,
+      "explanation": "Water es incontable: how much."
+    },
+    {
+      "id": "dx-a2-08",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "obligation-modals",
+      "module": "a2-17",
+      "question": "You ___ wear a seatbelt in the car. It's the law.",
+      "options": [
+        "must",
+        "mustn't",
+        "don't have to",
+        "can't"
+      ],
+      "answer": 0,
+      "explanation": "Obligación: must."
+    },
+    {
+      "id": "dx-a2-09",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "object-pronouns",
+      "module": "a2-07",
+      "question": "This is Maria's bag. Give it to ___.",
+      "options": [
+        "her",
+        "she",
+        "hers",
+        "his"
+      ],
+      "answer": 0,
+      "explanation": "Después de una preposición: pronombre objeto (her)."
+    },
+    {
+      "id": "dx-a2-10",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "present-perfect",
+      "module": "a2-21",
+      "question": "Have you ever ___ sushi?",
+      "options": [
+        "eaten",
+        "ate",
+        "eat",
+        "eating"
+      ],
+      "answer": 0,
+      "explanation": "have + participio: eaten."
+    },
+    {
+      "id": "dx-a2-11",
+      "level": "A2",
+      "skill": "grammar",
+      "topic": "prepositions-time",
+      "module": "a2-18",
+      "question": "The film starts ___ 8 p.m. ___ Friday.",
+      "options": [
+        "at / on",
+        "on / at",
+        "in / on",
+        "at / in"
+      ],
+      "answer": 0,
+      "explanation": "at + hora; on + día."
+    },
+    {
+      "id": "dx-a2-12",
+      "level": "A2",
+      "skill": "reading",
+      "topic": "reading-detail",
+      "module": "a2-25",
+      "question": "Why didn't Sara go to Lima?",
+      "options": [
+        "She didn't have time.",
+        "She didn't like it.",
+        "It was closed.",
+        "She was sick."
+      ],
+      "answer": 0,
+      "explanation": "«…because she didn't have time.»",
+      "context": "Last summer, Sara traveled to Peru. She visited Machu Picchu, but she didn't go to Lima because she didn't have time."
+    },
+    {
+      "id": "dx-b1-01",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "present-perfect",
+      "module": "b1-04",
+      "question": "I've lived here ___ 2015.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "during"
+      ],
+      "answer": 0,
+      "explanation": "since + punto de inicio."
+    },
+    {
+      "id": "dx-b1-02",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "present-perfect",
+      "module": "b1-05",
+      "question": "I ___ him yesterday at the supermarket.",
+      "options": [
+        "saw",
+        "have seen",
+        "have saw",
+        "was see"
+      ],
+      "answer": 0,
+      "explanation": "Tiempo pasado terminado (yesterday): past simple."
+    },
+    {
+      "id": "dx-b1-03",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "past-continuous",
+      "module": "b1-02",
+      "question": "I ___ a shower when the phone rang.",
+      "options": [
+        "was taking",
+        "took",
+        "am taking",
+        "have taken"
+      ],
+      "answer": 0,
+      "explanation": "Acción en curso interrumpida: past continuous."
+    },
+    {
+      "id": "dx-b1-04",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionals",
+      "module": "b1-10",
+      "question": "If it ___ tomorrow, we'll stay at home.",
+      "options": [
+        "rains",
+        "will rain",
+        "rained",
+        "would rain"
+      ],
+      "answer": 0,
+      "explanation": "Primer condicional: if + presente, will + verbo."
+    },
+    {
+      "id": "dx-b1-05",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "conditionals",
+      "module": "b1-11",
+      "question": "If I ___ a lot of money, I would travel around the world.",
+      "options": [
+        "had",
+        "have",
+        "will have",
+        "would have"
+      ],
+      "answer": 0,
+      "explanation": "Segundo condicional: if + pasado, would + verbo."
+    },
+    {
+      "id": "dx-b1-06",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "passive-voice",
+      "module": "b1-12",
+      "question": "This bridge ___ in 1920.",
+      "options": [
+        "was built",
+        "built",
+        "is built",
+        "has built"
+      ],
+      "answer": 0,
+      "explanation": "Pasiva en pasado: was + participio."
+    },
+    {
+      "id": "dx-b1-07",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "reported-speech",
+      "module": "b1-13",
+      "question": "She said that she ___ tired.",
+      "options": [
+        "was",
+        "were",
+        "be",
+        "been"
+      ],
+      "answer": 0,
+      "explanation": "Estilo indirecto: am → was."
+    },
+    {
+      "id": "dx-b1-08",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "relative-clauses",
+      "module": "b1-14",
+      "question": "That's the woman ___ lives next door.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": 0,
+      "explanation": "Personas: who."
+    },
+    {
+      "id": "dx-b1-09",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "gerunds-infinitives",
+      "module": "b1-15",
+      "question": "I enjoy ___ in the mountains.",
+      "options": [
+        "walking",
+        "to walk",
+        "walk",
+        "walked"
+      ],
+      "answer": 0,
+      "explanation": "enjoy + -ing."
+    },
+    {
+      "id": "dx-b1-10",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "modals-deduction",
+      "module": "b1-16",
+      "question": "He isn't answering his phone. He ___ be in a meeting.",
+      "options": [
+        "might",
+        "must to",
+        "can",
+        "should to"
+      ],
+      "answer": 0,
+      "explanation": "Posibilidad: might + verbo."
+    },
+    {
+      "id": "dx-b1-11",
+      "level": "B1",
+      "skill": "grammar",
+      "topic": "used-to",
+      "module": "b1-03",
+      "question": "I ___ play the piano when I was a child, but I don't now.",
+      "options": [
+        "used to",
+        "use to",
+        "was used to",
+        "am used to"
+      ],
+      "answer": 0,
+      "explanation": "Hábito pasado: used to + verbo."
+    },
+    {
+      "id": "dx-b1-12",
+      "level": "B1",
+      "skill": "reading",
+      "topic": "reading-inference",
+      "module": "b1-22",
+      "question": "Why did Mark go to the restaurant?",
+      "options": [
+        "The food reminded him of his grandmother's cooking.",
+        "It was cheap.",
+        "His grandmother worked there.",
+        "It was near his office."
+      ],
+      "answer": 0,
+      "explanation": "«The food reminded him of his grandmother's cooking.»",
+      "context": "Although the restaurant was expensive, Mark went there every Friday. The food reminded him of his grandmother's cooking."
+    },
+    {
+      "id": "dx-b2-01",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "mixed-conditionals",
+      "module": "b2-05",
+      "question": "If I had studied harder, I ___ the exam.",
+      "options": [
+        "would have passed",
+        "would pass",
+        "will pass",
+        "had passed"
+      ],
+      "answer": 0,
+      "explanation": "Tercer condicional: would have + participio."
+    },
+    {
+      "id": "dx-b2-02",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "mixed-conditionals",
+      "module": "b2-06",
+      "question": "If I had taken that job, I ___ in London now.",
+      "options": [
+        "would be living",
+        "would have lived",
+        "will live",
+        "had lived"
+      ],
+      "answer": 0,
+      "explanation": "Condicional mixto: pasado → consecuencia presente (now)."
+    },
+    {
+      "id": "dx-b2-03",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "wishes",
+      "module": "b2-07",
+      "question": "I wish I ___ more time to read.",
+      "options": [
+        "had",
+        "have",
+        "will have",
+        "am having"
+      ],
+      "answer": 0,
+      "explanation": "wish + pasado para deseos sobre el presente."
+    },
+    {
+      "id": "dx-b2-04",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "modals-deduction",
+      "module": "b2-08",
+      "question": "The window is broken. Someone ___ it last night.",
+      "options": [
+        "must have broken",
+        "must break",
+        "can't have broken",
+        "should break"
+      ],
+      "answer": 0,
+      "explanation": "Deducción sobre el pasado: must have + participio."
+    },
+    {
+      "id": "dx-b2-05",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive-voice",
+      "module": "b2-09",
+      "question": "The president ___ to be considering a new plan.",
+      "options": [
+        "is said",
+        "says",
+        "is saying",
+        "said"
+      ],
+      "answer": 0,
+      "explanation": "Pasiva impersonal: be said to…"
+    },
+    {
+      "id": "dx-b2-06",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "inversion",
+      "module": "b2-18",
+      "question": "Never ___ such a beautiful view.",
+      "options": [
+        "have I seen",
+        "I have seen",
+        "I saw",
+        "did I saw"
+      ],
+      "answer": 0,
+      "explanation": "Inversión tras never: have I seen."
+    },
+    {
+      "id": "dx-b2-07",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "future-forms",
+      "module": "b2-04",
+      "question": "By the time you arrive, we ___ dinner.",
+      "options": [
+        "will have finished",
+        "finish",
+        "are finishing",
+        "have finished"
+      ],
+      "answer": 0,
+      "explanation": "Futuro perfecto: acción completada antes de un momento futuro."
+    },
+    {
+      "id": "dx-b2-08",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "passive-voice",
+      "module": "b2-09",
+      "question": "I'm going to ___ my hair cut tomorrow.",
+      "options": [
+        "have",
+        "make",
+        "do",
+        "take"
+      ],
+      "answer": 0,
+      "explanation": "Causativa: have something done."
+    },
+    {
+      "id": "dx-b2-09",
+      "level": "B2",
+      "skill": "vocabulary",
+      "topic": "advanced-vocabulary",
+      "module": "b2-14",
+      "question": "We need to ___ attention to the details.",
+      "options": [
+        "pay",
+        "do",
+        "make",
+        "put"
+      ],
+      "answer": 0,
+      "explanation": "Colocación: pay attention."
+    },
+    {
+      "id": "dx-b2-10",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "linking-words",
+      "module": "b2-16",
+      "question": "___ the heavy rain, the match continued.",
+      "options": [
+        "Despite",
+        "Although",
+        "However",
+        "Even"
+      ],
+      "answer": 0,
+      "explanation": "Despite + sustantivo."
+    },
+    {
+      "id": "dx-b2-11",
+      "level": "B2",
+      "skill": "reading",
+      "topic": "reading-inference",
+      "module": "b2-21",
+      "question": "What can we infer from the text?",
+      "options": [
+        "Opinions about the policy are divided.",
+        "Everybody supports the policy.",
+        "Business leaders wrote the policy.",
+        "The policy has already destroyed jobs."
+      ],
+      "answer": 0,
+      "explanation": "Unos la apoyan y otros advierten riesgos: opiniones divididas.",
+      "context": "The new policy was welcomed by environmental groups, while business leaders warned that it could cost thousands of jobs."
+    },
+    {
+      "id": "dx-b2-12",
+      "level": "B2",
+      "skill": "grammar",
+      "topic": "inversion",
+      "module": "b2-18",
+      "question": "Hardly ___ arrived when it started to rain.",
+      "options": [
+        "had we",
+        "we had",
+        "did we",
+        "we have"
+      ],
+      "answer": 0,
+      "explanation": "Hardly + inversión con past perfect: Hardly had we arrived…"
+    }
+  ]
+}

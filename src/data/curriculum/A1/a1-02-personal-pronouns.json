@@ -1,0 +1,164 @@
+{
+"id": "a1-02",
+"level": "A1",
+"title": "Personal Pronouns",
+"titleEs": "Pronombres personales",
+"description": "Los pronombres sujeto (I, you, he, she, it, we, they) y la regla más importante para hispanohablantes: en inglés el sujeto es obligatorio.",
+"objectives": [
+  "Sustituir nombres de personas, animales y cosas por el pronombre sujeto correcto.",
+  "Distinguir he, she, it y they.",
+  "Escribir siempre el sujeto, incluido el «it» impersonal (It's cold, It's late).",
+  "Usar «I» siempre con mayúscula y en el orden correcto (Ana and I)."
+],
+"lessons": [
+{
+  "id": "a1-02-l1",
+  "title": "Subject Pronouns",
+  "titleEs": "Pronombres personales sujeto",
+  "objective": "Elegir el pronombre sujeto correcto para personas, animales y cosas.",
+  "learn": ["Los siete pronombres sujeto del inglés.", "La diferencia entre he, she, it y they.", "Por qué «you» puede ser tú, usted o ustedes."],
+  "why": "Los pronombres aparecen en casi todas las oraciones. Si eliges mal entre he, she, it o they, el mensaje cambia o resulta confuso.",
+  "theory": [
+    {"type": "glossary", "items": [{"term": "Pronombre", "definition": "palabra que sustituye a un nombre para no repetirlo: *Carlos* is my friend. *He* is from Lima."}, {"term": "Pronombre sujeto", "definition": "el pronombre que realiza la acción y va antes del verbo: *She* works."}]},
+    {"type": "table", "title": "Los pronombres sujeto", "headers": ["Pronombre", "Español", "Ejemplo"], "rows": [
+      ["I", "yo", "I speak Spanish."],
+      ["you", "tú / usted / ustedes", "You are my friend. / You are my friends."],
+      ["he", "él (hombre o niño)", "He is my brother."],
+      ["she", "ella (mujer o niña)", "She is my sister."],
+      ["it", "cosa, animal o lugar (sin equivalente en español)", "It is a big city."],
+      ["we", "nosotros / nosotras", "We are students."],
+      ["they", "ellos / ellas / esas cosas", "They are my books."]
+    ]},
+    {"type": "rule", "title": "«I» siempre en mayúscula", "formula": "I (nunca «i»)", "body": "El pronombre **I** se escribe con mayúscula en cualquier posición: `My friend and I are here.`"},
+    {"type": "rule", "title": "«it» para cosas y animales", "formula": "una cosa / un animal / un lugar → it", "body": "`The house is big.` → `It is big.`\n`My dog is small.` → `It is small.` (si es tu mascota y conoces su sexo, también se usa he o she).\n`Paris is beautiful.` → `It is beautiful.`"},
+    {"type": "warning", "title": "«they» sirve para personas y para cosas", "body": "En plural no hay diferencia entre personas y cosas: `My parents are at home. They are tired.` / `The books are new. They are on the table.`"},
+    {"type": "examples", "title": "Sustituir el nombre por el pronombre", "items": [
+      {"en": "Carlos is my brother. → He is my brother.", "es": "Carlos es mi hermano. → Él es mi hermano."},
+      {"en": "Laura is a doctor. → She is a doctor.", "es": "Laura es médica. → Ella es médica."},
+      {"en": "The phone is new. → It is new.", "es": "El teléfono es nuevo. → Es nuevo."},
+      {"en": "Ana and I are friends. → We are friends.", "es": "Ana y yo somos amigos. → Somos amigos."},
+      {"en": "Tom and Lisa live in Miami. → They live in Miami.", "es": "Tom y Lisa viven en Miami. → Viven en Miami."}
+    ]},
+    {"type": "compare", "items": [
+      {"wrong": "My car is new. She is red.", "right": "My car is new. It is red.", "why": "Un coche es una cosa: **it**. En inglés las cosas no son masculinas ni femeninas."},
+      {"wrong": "i am from Peru.", "right": "I am from Peru.", "why": "**I** siempre va en mayúscula."},
+      {"wrong": "Me and Ana are students.", "right": "Ana and I are students.", "why": "Como sujeto se usa **I** (no me), y por cortesía se nombra primero a la otra persona."}
+    ]},
+    {"type": "tip", "title": "«you» es singular y plural", "body": "**You** significa tú, usted y ustedes. El contexto aclara de quién se habla: You are my friend (tú) / You are my friends (ustedes)."}
+  ],
+  "guided": [
+    {"id": "a1-02-l1-g1", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 1, "question": "Laura is a nurse. → ___ is a nurse.", "options": ["She", {"text": "He", "why": "He se usa para un hombre; Laura es una mujer.", "error": "pronoun-choice"}, {"text": "It", "why": "It se usa para cosas y animales, no para personas.", "error": "pronoun-choice"}, {"text": "They", "why": "They es plural; Laura es una sola persona.", "error": "pronoun-choice"}], "answer": 0, "explanation": "Laura = una mujer → she."},
+    {"id": "a1-02-l1-g2", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 1, "question": "The table is old. → ___ is old.", "options": ["It", {"text": "She", "why": "Una mesa no tiene género en inglés: se usa it.", "error": "pronoun-choice"}, {"text": "He", "why": "Las cosas son siempre it.", "error": "pronoun-choice"}, {"text": "They", "why": "La mesa es una sola cosa.", "error": "pronoun-choice"}], "answer": 0, "explanation": "Una cosa en singular → it."},
+    {"id": "a1-02-l1-g3", "type": "matching", "topic": "subject-pronouns", "skill": "vocabulary", "difficulty": 1, "pairs": [["I", "yo"], ["he", "él"], ["she", "ella"], ["we", "nosotros"], ["they", "ellos / ellas"]], "explanation": "Los pronombres sujeto básicos."},
+    {"id": "a1-02-l1-g4", "type": "fill_blank", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 1, "text": "My friends are from Chile. ___ are very nice.", "blanks": [{"answers": ["They"], "feedback": {"we": "@pronoun-choice|We incluye a quien habla; aquí hablas de tus amigos.", "he": "@pronoun-choice|My friends es plural."}}], "explanation": "My friends (plural) → they."},
+    {"id": "a1-02-l1-g5", "type": "true_false", "topic": "subject-pronouns", "skill": "comprehension", "difficulty": 1, "statement": "«They» se usa para personas y también para cosas en plural.", "answer": true, "explanation": "Verdadero: My parents → they; The books → they."}
+  ],
+  "independent": [
+    {"id": "a1-02-l1-i1", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "question": "Pedro and I are cousins. → ___ are cousins.", "options": ["We", {"text": "They", "why": "They no incluye a quien habla; «Pedro and I» te incluye a ti.", "error": "pronoun-choice"}, {"text": "You", "why": "You se refiere a quien escucha.", "error": "pronoun-choice"}, {"text": "He", "why": "Son dos personas.", "error": "pronoun-choice"}], "answer": 0, "explanation": "Otra persona + yo = we (nosotros)."},
+    {"id": "a1-02-l1-i2", "type": "error_correction", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "sentence": "My phone is new. She is very fast.", "answers": ["My phone is new. It is very fast.", "My phone is new. It's very fast."], "errorTag": "pronoun-choice", "explanation": "Un teléfono es una cosa: it."},
+    {"id": "a1-02-l1-i3", "type": "error_identification", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "segments": ["My sister and", "me", "live", "in Bogotá."], "errorIndex": 1, "correction": ["I"], "errorTag": "object-pronoun", "explanation": "En la posición de sujeto (antes del verbo) se usa I, no me: My sister and I live in Bogotá."},
+    {"id": "a1-02-l1-i4", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "subject-pronouns", "skill": "translation", "difficulty": 2, "source": "Ellos viven en Lima.", "answers": ["They live in Lima."], "keyConcepts": [["they"], ["live"], ["lima"]], "notes": "En español «ellos» se puede omitir («Viven en Lima»); en inglés **they** es obligatorio.", "explanation": "They live in Lima."},
+    {"id": "a1-02-l1-i5", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "question": "Mr. and Mrs. Smith are teachers. ___ work at my school.", "options": ["They", {"text": "He", "why": "Son dos personas.", "error": "pronoun-choice"}, {"text": "We", "why": "We incluiría a quien habla.", "error": "pronoun-choice"}, {"text": "It", "why": "It no se usa para personas.", "error": "pronoun-choice"}], "answer": 0, "explanation": "Dos personas → they."},
+    {"id": "a1-02-l1-i6", "type": "matching", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "leftTitle": "Nombre", "rightTitle": "Pronombre", "pairs": [["my mother", "she"], ["my father", "he"], ["the computer", "it"], ["my friends and I", "we"], ["the students", "they"]], "explanation": "Mujer → she; hombre → he; cosa → it; yo + otros → we; varias personas → they."},
+    {"id": "a1-02-l1-i7", "type": "word_order", "topic": "subject-pronouns", "skill": "construction", "difficulty": 1, "tokens": ["Ana", "and", "I", "are", "friends"], "clue": "Ana y yo somos amigas.", "errorTag": "object-pronoun", "explanation": "Como sujeto se usa I, y la otra persona va primero: Ana and I."}
+  ],
+  "summary": [
+    "Pronombres sujeto: I, you, he, she, it, we, they.",
+    "I siempre en mayúscula.",
+    "He = hombre, she = mujer, it = cosa, animal o lugar.",
+    "They = ellos/ellas y también varias cosas.",
+    "You = tú, usted y ustedes; como sujeto se dice «Ana and I», no «me and Ana»."
+  ],
+  "quiz": [
+    {"id": "a1-02-l1-q1", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 1, "question": "My brother is a student. ___ is 18.", "options": ["He", {"text": "She", "why": "Brother = hermano (hombre).", "error": "pronoun-choice"}, {"text": "It", "why": "It no se usa para personas.", "error": "pronoun-choice"}, {"text": "We", "why": "We es plural e incluye a quien habla.", "error": "pronoun-choice"}], "answer": 0, "explanation": "My brother = hombre → he."},
+    {"id": "a1-02-l1-q2", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 1, "question": "The books are on the desk. ___ are new.", "options": ["They", {"text": "It", "why": "Books es plural.", "error": "pronoun-choice"}, {"text": "She", "why": "Las cosas no son masculinas ni femeninas.", "error": "pronoun-choice"}, {"text": "We", "why": "We se refiere a personas que incluyen a quien habla.", "error": "pronoun-choice"}], "answer": 0, "explanation": "Varias cosas → they."},
+    {"id": "a1-02-l1-q3", "type": "fill_blank", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 1, "text": "This is my cat. ___ is black and white.", "blanks": [{"answers": ["It", "She", "He"], "feedback": {"they": "@pronoun-choice|Es un solo gato."}}], "explanation": "Para animales se usa it; si es tu mascota y conoces su sexo, también he o she."},
+    {"id": "a1-02-l1-q4", "type": "error_identification", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "segments": ["Me and Carlos", "are", "in the same", "class."], "errorIndex": 0, "correction": ["Carlos and I"], "errorTag": "object-pronoun", "explanation": "Como sujeto se usa I, no me. Además se nombra primero a la otra persona: Carlos and I."},
+    {"id": "a1-02-l1-q5", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "subject-pronouns", "skill": "translation", "difficulty": 2, "source": "Nosotros hablamos inglés.", "answers": ["We speak English."], "keyConcepts": [["we"], ["speak"], ["english"]], "notes": "Los idiomas van con mayúscula en inglés: **English**.", "explanation": "We speak English."},
+    {"id": "a1-02-l1-q6", "type": "true_false", "topic": "subject-pronouns", "skill": "comprehension", "difficulty": 1, "statement": "Para hablar de una ciudad se usa «it»: Paris is beautiful. It is very old.", "answer": true, "explanation": "Verdadero: lugares y cosas → it."},
+    {"id": "a1-02-l1-q7", "type": "matching", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 1, "pairs": [["Sofía", "she"], ["Mr. Brown", "he"], ["London", "it"], ["Tom and Jerry", "they"]], "explanation": "Mujer → she; hombre → he; lugar → it; dos personajes → they."},
+    {"id": "a1-02-l1-q8", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "question": "¿Qué oración es correcta?", "options": ["My mother and I are at home.", {"text": "My mother and me are at home.", "why": "Como sujeto se usa I, no me.", "error": "object-pronoun"}, {"text": "My mother and i are at home.", "why": "I siempre va en mayúscula.", "error": "capital-i"}, {"text": "I and my mother are at home.", "why": "Por cortesía se nombra primero a la otra persona."}], "answer": 0, "explanation": "Sujeto con I y la otra persona primero: My mother and I."},
+    {"id": "a1-02-l1-q9", "type": "word_order", "topic": "subject-pronouns", "skill": "construction", "difficulty": 1, "tokens": ["they", "are", "my", "parents"], "clue": "Ellos son mis padres.", "explanation": "They (sujeto) + are (verbo) + my parents."},
+    {"id": "a1-02-l1-q10", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "comprehension", "difficulty": 2, "question": "Un profesor dice a toda la clase: «___ are very good students.»", "options": ["You", {"text": "They", "why": "They se refiere a otras personas, no a quienes escuchan.", "error": "pronoun-choice"}, {"text": "We", "why": "We incluiría al profesor.", "error": "pronoun-choice"}, {"text": "He", "why": "Habla a varias personas.", "error": "pronoun-choice"}], "answer": 0, "explanation": "You también es plural (ustedes)."}
+  ]
+},
+{
+  "id": "a1-02-l2",
+  "title": "The Subject Is Always Necessary",
+  "titleEs": "El sujeto siempre es necesario",
+  "objective": "Escribir siempre el sujeto, incluido el «it» impersonal para el clima, la hora y otras situaciones.",
+  "learn": ["Por qué el español puede omitir el sujeto y el inglés no.", "El «it» impersonal: It's cold, It's late, It's Monday.", "Cómo traducir oraciones españolas sin sujeto."],
+  "why": "Omitir el sujeto es el error número uno de los hispanohablantes («Is cold», «Are my friends»). Corregirlo desde el principio hace que tu inglés suene natural.",
+  "theory": [
+    {"type": "text", "title": "¿Por qué el inglés necesita sujeto?", "body": "En español el verbo cambia con cada persona (hablo, hablas, hablamos), así que el sujeto se puede omitir. En inglés el verbo cambia muy poco (I speak, you speak, we speak, they speak), por eso **el sujeto es obligatorio**: sin él no sabríamos quién hace la acción."},
+    {"type": "table", "title": "Del español al inglés", "headers": ["Español (sin sujeto)", "Inglés (con sujeto)"], "rows": [
+      ["Es tarde.", "**It** is late."], ["Hace frío.", "**It** is cold."], ["Llueve. / Está lloviendo.", "**It** is raining."], ["Son las tres.", "**It** is three o'clock."], ["Es lunes.", "**It** is Monday."], ["Es mi hermano.", "**He** is my brother."], ["Somos amigos.", "**We** are friends."], ["Están en casa.", "**They** are at home."]
+    ]},
+    {"type": "rule", "title": "El «it» impersonal", "formula": "It + is + clima / hora / día / distancia / situación", "body": "Cuando en español no hay sujeto real (hace frío, es tarde, llueve), el inglés usa **it** como sujeto «vacío»:\n`It's hot today.` `It's 7 o'clock.` `It's far.` `It's important.`"},
+    {"type": "compare", "items": [
+      {"wrong": "Is raining.", "right": "It is raining.", "why": "El clima necesita el sujeto **it**."},
+      {"wrong": "Are my friends.", "right": "They are my friends.", "why": "Hay que decir quiénes son: **they**."},
+      {"wrong": "Is my brother.", "right": "He is my brother.", "why": "El sujeto **he** es obligatorio."},
+      {"wrong": "Is very late.", "right": "It is very late.", "why": "Para la hora y el momento se usa **it**."}
+    ]},
+    {"type": "exception", "title": "Cuándo NO hay sujeto", "body": "En las **instrucciones** (imperativo): Open the door. Sit down, please. Y en respuestas muy breves e informales: «Thanks!», «See you!». En el resto de oraciones, el sujeto es obligatorio."},
+    {"type": "tip", "title": "It's me", "body": "Al abrir la puerta o al teléfono: «Who is it?» — «**It's me**, Ana.» (Soy yo.)"},
+    {"type": "examples", "items": [
+      {"en": "It's cold in the morning.", "es": "Hace frío por la mañana."},
+      {"en": "It's Friday!", "es": "¡Es viernes!"},
+      {"en": "She is from Mexico. She is a teacher.", "es": "Es de México. Es profesora.", "note": "En inglés el sujeto se repite en cada oración."}
+    ]}
+  ],
+  "guided": [
+    {"id": "a1-02-l2-g1", "type": "multiple_choice", "topic": "subject-required", "skill": "grammar", "difficulty": 1, "question": "Traducción de «Hace frío»:", "options": ["It is cold.", {"text": "Is cold.", "why": "Falta el sujeto: en inglés hay que decir it.", "error": "subject-omitted"}, {"text": "Makes cold.", "why": "Traducción literal; el clima se expresa con it is.", "error": "translation-literal"}, {"text": "He is cold.", "why": "He is cold significa «él tiene frío».", "error": "pronoun-choice"}], "answer": 0, "explanation": "Clima → It is + adjetivo: It is cold."},
+    {"id": "a1-02-l2-g2", "type": "fill_blank", "topic": "subject-required", "skill": "grammar", "difficulty": 1, "text": "___ is ten o'clock.", "blanks": [{"answers": ["It"], "feedback": {"is": "@subject-omitted"}}], "explanation": "La hora se dice con it: It is ten o'clock."},
+    {"id": "a1-02-l2-g3", "type": "true_false", "topic": "subject-required", "skill": "comprehension", "difficulty": 1, "statement": "«Are my friends» es una oración correcta en inglés.", "answer": false, "errorTag": "subject-omitted", "explanation": "Falso. Falta el sujeto: They are my friends."},
+    {"id": "a1-02-l2-g4", "type": "error_correction", "topic": "subject-required", "skill": "grammar", "difficulty": 1, "sentence": "Is raining.", "answers": ["It is raining.", "It's raining."], "errorTag": "subject-omitted", "explanation": "Llueve = It is raining (con sujeto it)."}
+  ],
+  "independent": [
+    {"id": "a1-02-l2-i1", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "subject-required", "skill": "translation", "difficulty": 1, "source": "Es tarde.", "answers": ["It is late.", "It's late."], "keyConcepts": [["it"], ["late"]], "notes": "El español no tiene sujeto; el inglés usa **it**.", "explanation": "It is late."},
+    {"id": "a1-02-l2-i2", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "subject-required", "skill": "translation", "difficulty": 2, "source": "Somos colombianos.", "answers": ["We are Colombian.", "We are Colombians."], "keyConcepts": [["we"], ["colombian", "colombians"]], "notes": "Hay que añadir **we**. Las nacionalidades van con mayúscula: Colombian.", "explanation": "We are Colombian."},
+    {"id": "a1-02-l2-i3", "type": "multiple_choice", "topic": "subject-required", "skill": "grammar", "difficulty": 2, "question": "—Who is it? (llaman a la puerta) —___", "options": ["It's me.", {"text": "Is me.", "why": "Falta el sujeto it.", "error": "subject-omitted"}, {"text": "I'm it.", "why": "La fórmula fija es It's me."}, {"text": "Me is.", "why": "No es una estructura correcta."}], "answer": 0, "explanation": "Fórmula fija: It's me (soy yo)."},
+    {"id": "a1-02-l2-i4", "type": "error_identification", "topic": "subject-required", "skill": "grammar", "difficulty": 2, "segments": ["Maria is my sister.", "Is a doctor", "in Madrid."], "errorIndex": 1, "correction": ["She is a doctor", "She's a doctor"], "errorTag": "subject-omitted", "explanation": "La segunda oración necesita su propio sujeto: She is a doctor."},
+    {"id": "a1-02-l2-i5", "type": "sentence_building", "topic": "subject-required", "skill": "construction", "difficulty": 2, "cue": "Di que hoy es lunes (Monday).", "answers": ["It is Monday[ today].", "It's Monday[ today].", "Today is Monday."], "explanation": "Los días también usan it: It's Monday (o Today is Monday)."},
+    {"id": "a1-02-l2-i6", "type": "multiple_choice", "topic": "subject-required", "skill": "grammar", "difficulty": 2, "question": "¿Qué oración NO es correcta?", "options": ["Is very hot today.", {"text": "It is very hot today.", "why": "Es correcta: tiene el sujeto it."}, {"text": "Open the window, please.", "why": "Es correcta: el imperativo no lleva sujeto."}, {"text": "They are at school.", "why": "Es correcta: tiene sujeto (they)."}], "answer": 0, "errorTag": "subject-omitted", "explanation": "«Is very hot today» no tiene sujeto. Lo correcto es It is very hot today."},
+    {"id": "a1-02-l2-i7", "type": "translation", "direction": "en-es", "unit": "sentence", "topic": "subject-required", "skill": "translation", "difficulty": 1, "source": "It is very cold today.", "answers": ["Hoy hace mucho frío.", "Hace mucho frío hoy.", "Hoy hace muchísimo frío."], "keyConcepts": [["frio"], ["hoy"]], "notes": "«It is cold» no se traduce «Eso es frío»: el «it» impersonal desaparece en español y se usa **hacer**: hace frío.", "explanation": "It is very cold today = Hoy hace mucho frío."}
+  ],
+  "summary": [
+    "En inglés toda oración necesita sujeto (excepto el imperativo).",
+    "It es el sujeto para el clima, la hora, los días, las distancias y las situaciones: It's cold, It's late.",
+    "Repite el sujeto en cada oración: She is from Mexico. She is a teacher.",
+    "It's me = soy yo."
+  ],
+  "quiz": [
+    {"id": "a1-02-l2-q1", "type": "multiple_choice", "topic": "subject-required", "skill": "grammar", "difficulty": 1, "question": "«Es muy temprano» en inglés:", "options": ["It is very early.", {"text": "Is very early.", "why": "Falta el sujeto it.", "error": "subject-omitted"}, {"text": "He is very early.", "why": "He se refiere a un hombre.", "error": "pronoun-choice"}, {"text": "Very early is.", "why": "Orden incorrecto y sin sujeto.", "error": "word-order"}], "answer": 0, "explanation": "It is very early."},
+    {"id": "a1-02-l2-q2", "type": "fill_blank", "topic": "subject-required", "skill": "grammar", "difficulty": 1, "text": "Look outside! ___ is snowing.", "blanks": [{"answers": ["It"]}], "explanation": "El clima usa it: It is snowing (está nevando)."},
+    {"id": "a1-02-l2-q3", "type": "error_correction", "topic": "subject-required", "skill": "grammar", "difficulty": 1, "sentence": "Are my best friends.", "answers": ["They are my best friends.", "They're my best friends.", "You are my best friends.", "You're my best friends."], "errorTag": "subject-omitted", "explanation": "Falta el sujeto: They are my best friends (o You are…, según a quién hables)."},
+    {"id": "a1-02-l2-q4", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "subject-required", "skill": "translation", "difficulty": 2, "source": "Es mi profesora.", "answers": ["She is my teacher.", "She's my teacher."], "keyConcepts": [["she"], ["teacher"]], "notes": "En inglés hay que decir **she**; el español lo omite.", "explanation": "She is my teacher."},
+    {"id": "a1-02-l2-q5", "type": "true_false", "topic": "subject-required", "skill": "comprehension", "difficulty": 1, "statement": "En el imperativo (Open the door) no se usa sujeto.", "answer": true, "explanation": "Verdadero: es la principal excepción a la regla del sujeto obligatorio."},
+    {"id": "a1-02-l2-q6", "type": "multiple_choice", "topic": "subject-required", "skill": "grammar", "difficulty": 2, "question": "My grandfather lives in Cali. ___ 80 years old.", "context": "«Mi abuelo vive en Cali. Tiene 80 años.»", "options": ["He is", {"text": "Is", "why": "Falta el sujeto he.", "error": "subject-omitted"}, {"text": "He has", "why": "La edad se dice con be: He is 80.", "error": "be-age"}, {"text": "It is", "why": "It no se usa para personas.", "error": "pronoun-choice"}], "answer": 0, "explanation": "My grandfather lives in Cali. He is 80 (years old)."},
+    {"id": "a1-02-l2-q7", "type": "error_identification", "topic": "subject-required", "skill": "grammar", "difficulty": 2, "segments": ["I like this city.", "Is beautiful", "and very old."], "errorIndex": 1, "correction": ["It is beautiful", "It's beautiful"], "errorTag": "subject-omitted", "explanation": "La ciudad es una cosa: It is beautiful."},
+    {"id": "a1-02-l2-q8", "type": "sentence_building", "topic": "subject-required", "skill": "construction", "difficulty": 2, "cue": "Contesta al teléfono: «Soy yo, Daniel.»", "answers": ["It's me, Daniel.", "It is me, Daniel."], "explanation": "It's me = soy yo."},
+    {"id": "a1-02-l2-q9", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "subject-required", "skill": "translation", "difficulty": 2, "source": "Llueve mucho.", "answers": ["It rains a lot.", "It is raining a lot.", "It's raining a lot."], "keyConcepts": [["it"], ["rain", "rains", "raining"]], "notes": "Llover no tiene sujeto en español; en inglés: **It** rains / **It** is raining.", "explanation": "It rains a lot (o It is raining a lot)."},
+    {"id": "a1-02-l2-q10", "type": "word_order", "topic": "subject-required", "skill": "construction", "difficulty": 1, "tokens": ["it", "is", "very", "hot", "today"], "clue": "Hoy hace mucho calor.", "explanation": "It (sujeto) + is + very hot + today."}
+  ]
+}
+],
+"integrative": [
+  {"id": "a1-02-x1", "type": "reading_comprehension", "topic": "subject-pronouns", "skill": "reading", "difficulty": 2, "title": "My new school", "passage": "Hi! I'm Valeria. I'm from Medellín. This is my new school. It is big and modern. My teacher is Mr. Davis. He is from Canada. My best friends are Lucía and Tomás. They are very funny. Lucía and I are in the same class. We love music. It's Friday today, so we are happy!", "explanation": "Texto breve con todos los pronombres sujeto.", "questions": [
+    {"id": "a1-02-x1-1", "type": "multiple_choice", "topic": "reading-detail", "skill": "reading", "difficulty": 1, "question": "In the text, «It is big and modern» refers to…", "options": ["the school", "Medellín", "Mr. Davis", "music"], "answer": 0, "explanation": "«This is my new school. It is big…»: it = the school."},
+    {"id": "a1-02-x1-2", "type": "multiple_choice", "topic": "reading-detail", "skill": "reading", "difficulty": 1, "question": "Who is from Canada?", "options": ["Mr. Davis", "Valeria", "Lucía", "Tomás"], "answer": 0, "explanation": "«My teacher is Mr. Davis. He is from Canada.»"},
+    {"id": "a1-02-x1-3", "type": "multiple_choice", "topic": "reading-detail", "skill": "reading", "difficulty": 2, "question": "In «We love music», «we» means…", "options": ["Lucía and Valeria", "Lucía and Tomás", "Mr. Davis and Valeria", "all the students"], "answer": 0, "explanation": "«Lucía and I are in the same class. We love music.» We = Lucía + Valeria."},
+    {"id": "a1-02-x1-4", "type": "true_false", "topic": "reading-detail", "skill": "reading", "difficulty": 1, "statement": "Today is Monday.", "answer": false, "explanation": "«It's Friday today.»"}
+  ]},
+  {"id": "a1-02-x2", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "question": "My computer is very old. ___ is slow.", "options": ["It", {"text": "He", "why": "Un ordenador es una cosa.", "error": "pronoun-choice"}, {"text": "She", "why": "Las cosas no tienen género en inglés.", "error": "pronoun-choice"}, {"text": "Is", "why": "Falta el sujeto.", "error": "subject-omitted"}], "answer": 0, "explanation": "Cosa → it, y el sujeto es obligatorio."},
+  {"id": "a1-02-x3", "type": "fill_blank", "topic": "subject-pronouns", "skill": "grammar", "difficulty": 2, "text": "Tom and Anna are from London. ___ live in a small flat. ___ is near the river.", "blanks": [{"answers": ["They"]}, {"answers": ["It"], "feedback": {"they": "@pronoun-choice|Se refiere al apartamento (a small flat): una cosa."}}], "explanation": "Tom and Anna → they; the flat → it."},
+  {"id": "a1-02-x4", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "subject-required", "skill": "translation", "difficulty": 2, "source": "Ana y yo somos amigas.", "answers": ["Ana and I are friends."], "keyConcepts": [["ana"], ["i"], ["friends"]], "notes": "Como sujeto: **Ana and I** (no «me and Ana»).", "errorTag": "object-pronoun", "explanation": "Ana and I are friends."},
+  {"id": "a1-02-x5", "type": "error_correction", "topic": "subject-required", "skill": "grammar", "difficulty": 2, "sentence": "Carlos is my cousin. Is twenty.", "answers": ["Carlos is my cousin. He is twenty.", "Carlos is my cousin. He's twenty.", "Carlos is my cousin. He is twenty years old.", "Carlos is my cousin. He's twenty years old.", "Carlos is my cousin. He is 20.", "Carlos is my cousin. He's 20."], "errorTag": "subject-omitted", "explanation": "La segunda oración necesita sujeto: He is twenty."},
+  {"id": "a1-02-x6", "type": "multiple_choice", "topic": "subject-pronouns", "skill": "comprehension", "difficulty": 2, "question": "Hablas con dos compañeros: «___ are late again!»", "options": ["You", {"text": "They", "why": "Les hablas directamente a ellos: you.", "error": "pronoun-choice"}, {"text": "We", "why": "We te incluiría a ti.", "error": "pronoun-choice"}, {"text": "It", "why": "It no se usa para personas.", "error": "pronoun-choice"}], "answer": 0, "explanation": "You = ustedes cuando les hablas directamente."},
+  {"id": "a1-02-x7", "type": "word_order", "topic": "subject-required", "skill": "construction", "difficulty": 2, "tokens": ["it", "is", "Monday", "and", "it", "is", "cold"], "clue": "Es lunes y hace frío.", "explanation": "Cada idea lleva su sujeto: it is Monday and it is cold."},
+  {"id": "a1-02-x8", "type": "true_false", "topic": "subject-pronouns", "skill": "comprehension", "difficulty": 1, "statement": "«i» puede escribirse en minúscula si va en medio de la oración.", "answer": false, "errorTag": "capital-i", "explanation": "Falso: I va siempre con mayúscula."},
+  {"id": "a1-02-x9", "type": "matching", "topic": "subject-required", "skill": "translation", "difficulty": 2, "pairs": [["Hace calor.", "It's hot."], ["Son las dos.", "It's two o'clock."], ["Es domingo.", "It's Sunday."], ["Está lejos.", "It's far."]], "explanation": "Clima, hora, días y distancias usan el sujeto it."},
+  {"id": "a1-02-x10", "type": "sentence_building", "topic": "subject-pronouns", "skill": "construction", "difficulty": 2, "cue": "Presenta a tu hermana Paula: es estudiante.", "answers": ["This is my sister Paula. She is a student.", "This is my sister, Paula. She's a student.", "This is my sister Paula. She's a student.", "This is my sister, Paula. She is a student.", "My sister is Paula. She is a student.", "My sister's name is Paula. She is a student."], "explanation": "Cada oración lleva su sujeto: This is my sister Paula. She is a student."}
+]
+}

@@ -1,0 +1,413 @@
+{
+  "level": "A2",
+  "modules": [
+    {
+      "id": "a2-01",
+      "file": "a2-01-present-continuous.json",
+      "order": 1,
+      "title": "Present Continuous",
+      "titleEs": "Presente continuo",
+      "summary": "Acciones en curso y situaciones temporales.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-02",
+      "file": "a2-02-present-simple-vs-continuous.json",
+      "order": 2,
+      "title": "Present Simple vs Present Continuous",
+      "titleEs": "Presente simple vs continuo",
+      "summary": "Hábitos frente a acciones en curso; verbos de estado.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-03",
+      "file": "a2-03-was-and-were.json",
+      "order": 3,
+      "title": "Was and Were",
+      "titleEs": "Was y were",
+      "summary": "Pasado del verbo be.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-04",
+      "file": "a2-04-past-simple-regular.json",
+      "order": 4,
+      "title": "Past Simple: Regular Verbs",
+      "titleEs": "Pasado simple: verbos regulares",
+      "summary": "-ed: ortografía y pronunciación.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-05",
+      "file": "a2-05-past-simple-irregular.json",
+      "order": 5,
+      "title": "Past Simple: Irregular Verbs",
+      "titleEs": "Pasado simple: verbos irregulares",
+      "summary": "Irregulares más frecuentes.",
+      "skills": [
+        "grammar",
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-06",
+      "file": "a2-06-past-simple-questions-negatives.json",
+      "order": 6,
+      "title": "Past Simple: Questions and Negatives",
+      "titleEs": "Pasado simple: preguntas y negativas",
+      "summary": "did / didn't + infinitivo.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-07",
+      "file": "a2-07-object-pronouns.json",
+      "order": 7,
+      "title": "Object Pronouns",
+      "titleEs": "Pronombres objeto",
+      "summary": "me, you, him, her, it, us, them.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-08",
+      "file": "a2-08-possessive-pronouns.json",
+      "order": 8,
+      "title": "Possessive Pronouns",
+      "titleEs": "Pronombres posesivos",
+      "summary": "mine, yours, his, hers, ours, theirs y whose.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-09",
+      "file": "a2-09-countable-uncountable.json",
+      "order": 9,
+      "title": "Countable and Uncountable Nouns",
+      "titleEs": "Contables e incontables",
+      "summary": "Sustantivos contables e incontables.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-10",
+      "file": "a2-10-some-any-much-many.json",
+      "order": 10,
+      "title": "Some, Any, Much and Many",
+      "titleEs": "Some, any, much y many",
+      "summary": "Cuantificadores: a lot of, a few, a little.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-11",
+      "file": "a2-11-comparatives.json",
+      "order": 11,
+      "title": "Comparatives",
+      "titleEs": "Comparativos",
+      "summary": "-er, more, than, as … as.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-12",
+      "file": "a2-12-superlatives.json",
+      "order": 12,
+      "title": "Superlatives",
+      "titleEs": "Superlativos",
+      "summary": "-est, the most, in/of.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-13",
+      "file": "a2-13-future-will.json",
+      "order": 13,
+      "title": "Future with Will",
+      "titleEs": "Futuro con will",
+      "summary": "Predicciones, decisiones espontáneas, promesas.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-14",
+      "file": "a2-14-going-to.json",
+      "order": 14,
+      "title": "Going To",
+      "titleEs": "Going to",
+      "summary": "Planes, intenciones y evidencias.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-15",
+      "file": "a2-15-will-vs-going-to.json",
+      "order": 15,
+      "title": "Future: Will vs Going To",
+      "titleEs": "Futuro: will vs going to",
+      "summary": "Elegir la forma de futuro adecuada.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-16",
+      "file": "a2-16-modal-verbs.json",
+      "order": 16,
+      "title": "Modal Verbs",
+      "titleEs": "Verbos modales",
+      "summary": "could, may, would like, shall.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-17",
+      "file": "a2-17-must-have-to-should.json",
+      "order": 17,
+      "title": "Must, Have To and Should",
+      "titleEs": "Must, have to y should",
+      "summary": "Obligación, ausencia de obligación y consejo.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-18",
+      "file": "a2-18-prepositions-of-time.json",
+      "order": 18,
+      "title": "Prepositions of Time",
+      "titleEs": "Preposiciones de tiempo",
+      "summary": "in/on/at completos y excepciones.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-19",
+      "file": "a2-19-adverbs.json",
+      "order": 19,
+      "title": "Adverbs",
+      "titleEs": "Adverbios",
+      "summary": "Modo, grado y posición.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-20",
+      "file": "a2-20-basic-connectors.json",
+      "order": 20,
+      "title": "Basic Connectors",
+      "titleEs": "Conectores básicos",
+      "summary": "and, but, or, because, so, then, when.",
+      "skills": [
+        "grammar",
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-21",
+      "file": "a2-21-present-perfect-experiences.json",
+      "order": 21,
+      "title": "Present Perfect: Experiences",
+      "titleEs": "Presente perfecto: experiencias",
+      "summary": "Have you ever…? never.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-22",
+      "file": "a2-22-travel-transportation.json",
+      "order": 22,
+      "title": "Travel and Transportation Vocabulary",
+      "titleEs": "Vocabulario: viajes y transporte",
+      "summary": "Aeropuerto, estación, direcciones.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-23",
+      "file": "a2-23-work-education.json",
+      "order": 23,
+      "title": "Work and Education Vocabulary",
+      "titleEs": "Vocabulario: trabajo y educación",
+      "summary": "Profesiones, estudios, lugar de trabajo.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-24",
+      "file": "a2-24-shopping-services.json",
+      "order": 24,
+      "title": "Shopping and Services",
+      "titleEs": "Compras y servicios",
+      "summary": "Tiendas, precios, banco, correo.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "a2-25",
+      "file": "a2-25-reading-writing-a2.json",
+      "order": 25,
+      "title": "Reading and Writing A2",
+      "titleEs": "Lectura y escritura A2",
+      "summary": "Correos informales y narraciones breves.",
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    }
+  ],
+  "finalExam": {
+    "id": "A2-final",
+    "title": "A2 Final Exam",
+    "sections": [
+      {
+        "id": "grammar",
+        "title": "Grammar",
+        "weight": 0.3,
+        "count": 20,
+        "source": {
+          "kind": "modules",
+          "skills": [
+            "grammar"
+          ]
+        }
+      },
+      {
+        "id": "vocabulary",
+        "title": "Vocabulary",
+        "weight": 0.15,
+        "count": 10,
+        "source": {
+          "kind": "vocabulary"
+        }
+      },
+      {
+        "id": "reading",
+        "title": "Reading",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "reading"
+        }
+      },
+      {
+        "id": "listening",
+        "title": "Listening",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "listening"
+        }
+      },
+      {
+        "id": "translation",
+        "title": "Translation",
+        "weight": 0.1,
+        "count": 4,
+        "source": {
+          "kind": "exam",
+          "pool": "translation"
+        }
+      },
+      {
+        "id": "construction",
+        "title": "Sentence Construction",
+        "weight": 0.05,
+        "count": 3,
+        "source": {
+          "kind": "modules",
+          "types": [
+            "word_order",
+            "sentence_building"
+          ]
+        }
+      },
+      {
+        "id": "writing",
+        "title": "Writing",
+        "weight": 0.1,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "writing"
+        }
+      }
+    ]
+  }
+}

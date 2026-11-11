@@ -1,0 +1,964 @@
+{
+  "level": "A1",
+  "reading": [
+    {
+      "id": "a1-exr1",
+      "type": "reading_comprehension",
+      "topic": "reading-detail",
+      "skill": "reading",
+      "difficulty": 2,
+      "title": "A Postcard from London",
+      "passage": "Dear Grandma,\nI'm in London with my friend Sara. The city is big and beautiful, but it's very cold! Our hotel is next to a park and it's near the river. Every day we visit museums. They are free here. Sara loves the shops, but I prefer the parks. We can see the London Eye from our window. We go home on Sunday.\nLove,\nNina",
+      "explanation": "Postal con lugar, clima, ubicación y planes.",
+      "questions": [
+        {
+          "id": "a1-exr1-1",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "Who is Nina with?",
+          "options": [
+            "Her friend Sara",
+            "Her grandma",
+            "Her parents",
+            "A group of students"
+          ],
+          "answer": 0,
+          "explanation": "«I'm in London with my friend Sara.»"
+        },
+        {
+          "id": "a1-exr1-2",
+          "type": "true_false",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "statement": "The weather in London is warm.",
+          "answer": false,
+          "explanation": "«it's very cold!»"
+        },
+        {
+          "id": "a1-exr1-3",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "Where is the hotel?",
+          "options": [
+            "Next to a park",
+            "Next to a museum",
+            "In front of the river",
+            "Behind a shop"
+          ],
+          "answer": 0,
+          "explanation": "«Our hotel is next to a park.»"
+        },
+        {
+          "id": "a1-exr1-4",
+          "type": "true_false",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 2,
+          "statement": "The museums in London are expensive.",
+          "answer": false,
+          "explanation": "«They are free here.»"
+        },
+        {
+          "id": "a1-exr1-5",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "When do they go home?",
+          "options": [
+            "On Sunday",
+            "On Saturday",
+            "Tomorrow",
+            "Every day"
+          ],
+          "answer": 0,
+          "explanation": "«We go home on Sunday.»"
+        }
+      ]
+    },
+    {
+      "id": "a1-exr2",
+      "type": "reading_comprehension",
+      "topic": "reading-detail",
+      "skill": "reading",
+      "difficulty": 2,
+      "title": "Job Advertisement",
+      "passage": "CAFÉ ASSISTANT WANTED\nSunny Café, 18 Hill Road\nWe need a friendly person to work in our café on Saturdays and Sundays, from 9 a.m. to 3 p.m.\nYou make coffee, clean the tables and help in the kitchen. You don't need experience, but you must speak English and some Spanish.\nPay: $14 an hour + free lunch.\nCall Mike on 555-0173 or send an email to jobs@sunnycafe.com.",
+      "explanation": "Anuncio de trabajo con horario, tareas, requisitos y contacto.",
+      "questions": [
+        {
+          "id": "a1-exr2-1",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 2,
+          "question": "When is the job?",
+          "options": [
+            "On weekends",
+            "Every day",
+            "From Monday to Friday",
+            "Only on Sundays"
+          ],
+          "answer": 0,
+          "explanation": "«on Saturdays and Sundays» = el fin de semana."
+        },
+        {
+          "id": "a1-exr2-2",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 3,
+          "question": "How many hours a day is the job?",
+          "options": [
+            "Six",
+            "Nine",
+            "Three",
+            "Twelve"
+          ],
+          "answer": 0,
+          "explanation": "De 9 a. m. a 3 p. m. son seis horas."
+        },
+        {
+          "id": "a1-exr2-3",
+          "type": "true_false",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "statement": "You need experience for this job.",
+          "answer": false,
+          "explanation": "«You don't need experience.»"
+        },
+        {
+          "id": "a1-exr2-4",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "What languages do you need?",
+          "options": [
+            "English and some Spanish",
+            "Only English",
+            "Only Spanish",
+            "English and French"
+          ],
+          "answer": 0,
+          "explanation": "«you must speak English and some Spanish»."
+        },
+        {
+          "id": "a1-exr2-5",
+          "type": "fill_blank",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 2,
+          "text": "The pay is $___ an hour.",
+          "blanks": [
+            {
+              "answers": [
+                "14",
+                "fourteen"
+              ]
+            }
+          ],
+          "explanation": "«Pay: $14 an hour»."
+        }
+      ]
+    },
+    {
+      "id": "a1-exr3",
+      "type": "reading_comprehension",
+      "topic": "reading-detail",
+      "skill": "reading",
+      "difficulty": 2,
+      "title": "Swimming Pool Rules",
+      "passage": "CITY SWIMMING POOL\nOpen: Monday to Friday 6 a.m. – 9 p.m. / Saturday and Sunday 8 a.m. – 6 p.m.\nPrice: adults $5, children under 12 $2.\nRules:\n• Take a shower before you swim.\n• Don't run near the pool.\n• Children under 8 can't swim without an adult.\n• Don't eat in the pool area. There is a café on the first floor.",
+      "explanation": "Cartel con horario, precios y normas.",
+      "questions": [
+        {
+          "id": "a1-exr3-1",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "What time does the pool open on Saturday?",
+          "options": [
+            "8 a.m.",
+            "6 a.m.",
+            "9 a.m.",
+            "6 p.m."
+          ],
+          "answer": 0,
+          "explanation": "«Saturday and Sunday 8 a.m. – 6 p.m.»"
+        },
+        {
+          "id": "a1-exr3-2",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 2,
+          "question": "How much is it for a child of 10?",
+          "options": [
+            "$2",
+            "$5",
+            "$10",
+            "It's free"
+          ],
+          "answer": 0,
+          "explanation": "«children under 12 $2»."
+        },
+        {
+          "id": "a1-exr3-3",
+          "type": "true_false",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "statement": "You can eat near the pool.",
+          "answer": false,
+          "explanation": "«Don't eat in the pool area.»"
+        },
+        {
+          "id": "a1-exr3-4",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "What must you do before you swim?",
+          "options": [
+            "Take a shower",
+            "Eat something",
+            "Pay $2",
+            "Go to the café"
+          ],
+          "answer": 0,
+          "explanation": "«Take a shower before you swim.»"
+        },
+        {
+          "id": "a1-exr3-5",
+          "type": "true_false",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 2,
+          "statement": "A child of 6 can swim alone.",
+          "answer": false,
+          "explanation": "«Children under 8 can't swim without an adult.»"
+        }
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "id": "a1-exl1",
+      "type": "listening_comprehension",
+      "topic": "listening-detail",
+      "skill": "listening",
+      "difficulty": 2,
+      "title": "At the Ticket Office",
+      "lines": [
+        {
+          "speaker": "Man",
+          "text": "Hello. Two tickets to Boston, please."
+        },
+        {
+          "speaker": "Clerk",
+          "text": "One way or return?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Return, please. One adult and one child."
+        },
+        {
+          "speaker": "Clerk",
+          "text": "That's forty-six dollars. The next train is at ten fifteen, from platform two."
+        },
+        {
+          "speaker": "Man",
+          "text": "Can I pay by card?"
+        },
+        {
+          "speaker": "Clerk",
+          "text": "Yes, of course."
+        }
+      ],
+      "explanation": "Compra de billetes de tren.",
+      "questions": [
+        {
+          "id": "a1-exl1-1",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "Where does the man want to go?",
+          "options": [
+            "Boston",
+            "Austin",
+            "Brighton",
+            "Houston"
+          ],
+          "answer": 0,
+          "explanation": "«Two tickets to Boston.»"
+        },
+        {
+          "id": "a1-exl1-2",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 2,
+          "question": "How much are the tickets?",
+          "options": [
+            "$46",
+            "$64",
+            "$56",
+            "$40"
+          ],
+          "answer": 0,
+          "explanation": "«forty-six dollars»."
+        },
+        {
+          "id": "a1-exl1-3",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 2,
+          "question": "What time is the next train?",
+          "options": [
+            "10:15",
+            "10:50",
+            "2:15",
+            "10:05"
+          ],
+          "answer": 0,
+          "explanation": "«at ten fifteen»."
+        },
+        {
+          "id": "a1-exl1-4",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "Which platform?",
+          "options": [
+            "2",
+            "10",
+            "12",
+            "15"
+          ],
+          "answer": 0,
+          "explanation": "«from platform two»."
+        },
+        {
+          "id": "a1-exl1-5",
+          "type": "true_false",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "statement": "The man pays by card.",
+          "answer": true,
+          "explanation": "«Can I pay by card? — Yes, of course.»"
+        }
+      ]
+    },
+    {
+      "id": "a1-exl2",
+      "type": "listening_comprehension",
+      "topic": "listening-detail",
+      "skill": "listening",
+      "difficulty": 2,
+      "title": "A Doctor's Appointment",
+      "lines": [
+        {
+          "speaker": "Receptionist",
+          "text": "Good morning, Green Health Center."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Hi. I'd like an appointment with Doctor Lee, please. My name is Tom Baker."
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "Doctor Lee is free on Thursday at half past three."
+        },
+        {
+          "speaker": "Patient",
+          "text": "Thursday is OK. Is the center on Main Street?"
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "No, it isn't. It's on Park Avenue, opposite the post office."
+        }
+      ],
+      "explanation": "Llamada para pedir cita médica.",
+      "questions": [
+        {
+          "id": "a1-exl2-1",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "Who does Tom want to see?",
+          "options": [
+            "Doctor Lee",
+            "Doctor Green",
+            "Doctor Baker",
+            "Doctor Park"
+          ],
+          "answer": 0,
+          "explanation": "«an appointment with Doctor Lee»."
+        },
+        {
+          "id": "a1-exl2-2",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 2,
+          "question": "When is the appointment?",
+          "options": [
+            "Thursday at 3:30",
+            "Tuesday at 3:30",
+            "Thursday at 3:15",
+            "Thursday at 2:30"
+          ],
+          "answer": 0,
+          "explanation": "«on Thursday at half past three»."
+        },
+        {
+          "id": "a1-exl2-3",
+          "type": "true_false",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "statement": "The health center is on Main Street.",
+          "answer": false,
+          "explanation": "«No, it isn't. It's on Park Avenue.»"
+        },
+        {
+          "id": "a1-exl2-4",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "What is opposite the health center?",
+          "options": [
+            "The post office",
+            "A park",
+            "A bank",
+            "A school"
+          ],
+          "answer": 0,
+          "explanation": "«opposite the post office»."
+        },
+        {
+          "id": "a1-exl2-5",
+          "type": "dictation",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 2,
+          "text": "I'd like an appointment, please.",
+          "explanation": "I'd like an appointment, please.",
+          "answers": [
+            "I would like an appointment, please."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1-exl3",
+      "type": "listening_comprehension",
+      "topic": "listening-detail",
+      "skill": "listening",
+      "difficulty": 2,
+      "title": "The Weather Today",
+      "lines": [
+        {
+          "speaker": "Presenter",
+          "text": "Good morning! Here is the weather for today. In the north, it's cloudy and cold, about eight degrees. In the south, it's sunny and warm, about twenty-two degrees. In the east, it's windy, and in the evening it rains. Take an umbrella!"
+        }
+      ],
+      "explanation": "Parte del tiempo en la radio.",
+      "questions": [
+        {
+          "id": "a1-exl3-1",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "What's the weather like in the north?",
+          "options": [
+            "Cloudy and cold",
+            "Sunny and warm",
+            "Windy and rainy",
+            "Hot"
+          ],
+          "answer": 0,
+          "explanation": "«In the north, it's cloudy and cold.»"
+        },
+        {
+          "id": "a1-exl3-2",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 2,
+          "question": "What's the temperature in the south?",
+          "options": [
+            "About 22 degrees",
+            "About 8 degrees",
+            "About 12 degrees",
+            "About 32 degrees"
+          ],
+          "answer": 0,
+          "explanation": "«about twenty-two degrees»."
+        },
+        {
+          "id": "a1-exl3-3",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "Where is it windy?",
+          "options": [
+            "In the east",
+            "In the north",
+            "In the south",
+            "In the west"
+          ],
+          "answer": 0,
+          "explanation": "«In the east, it's windy.»"
+        },
+        {
+          "id": "a1-exl3-4",
+          "type": "true_false",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 2,
+          "statement": "It rains in the morning in the east.",
+          "answer": false,
+          "explanation": "Llueve por la noche: «in the evening it rains»."
+        },
+        {
+          "id": "a1-exl3-5",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "What does the presenter recommend?",
+          "options": [
+            "Take an umbrella",
+            "Wear sunglasses",
+            "Stay at home",
+            "Go to the beach"
+          ],
+          "answer": 0,
+          "explanation": "«Take an umbrella!»"
+        }
+      ]
+    }
+  ],
+  "translation": [
+    {
+      "id": "a1-ext1",
+      "type": "translation",
+      "direction": "es-en",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 2,
+      "source": "Mis abuelos viven en una casa pequeña.",
+      "answers": [
+        "My grandparents live in a small house."
+      ],
+      "notes": "El adjetivo va antes del sustantivo: a small house.",
+      "explanation": "Traducción modelo: My grandparents live in a small house.",
+      "keyConcepts": [
+        [
+          "grandparents"
+        ],
+        [
+          "live"
+        ],
+        [
+          "small house"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext2",
+      "type": "translation",
+      "direction": "en-es",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 2,
+      "source": "How old is your brother?",
+      "answers": [
+        "¿Cuántos años tiene tu hermano?",
+        "¿Qué edad tiene tu hermano?"
+      ],
+      "notes": "How old + be = ¿Cuántos años tiene…?",
+      "explanation": "Traducción modelo: ¿Cuántos años tiene tu hermano?",
+      "keyConcepts": [
+        [
+          "anos",
+          "edad"
+        ],
+        [
+          "hermano"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext3",
+      "type": "translation",
+      "direction": "es-en",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 2,
+      "source": "¿Tu hermana habla inglés?",
+      "answers": [
+        "Does your sister speak English?"
+      ],
+      "notes": "Pregunta con does (tercera persona) y verbo base: speak.",
+      "explanation": "Traducción modelo: Does your sister speak English?",
+      "keyConcepts": [
+        [
+          "does"
+        ],
+        [
+          "sister"
+        ],
+        [
+          "speak"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext4",
+      "type": "translation",
+      "direction": "en-es",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 2,
+      "source": "There isn't any milk in the fridge.",
+      "answers": [
+        "No hay leche en la nevera.",
+        "No hay leche en el refrigerador.",
+        "No hay nada de leche en la nevera.",
+        "No queda leche en la nevera."
+      ],
+      "notes": "There isn't any = no hay.",
+      "explanation": "Traducción modelo: No hay leche en la nevera.",
+      "keyConcepts": [
+        [
+          "no hay",
+          "no queda"
+        ],
+        [
+          "leche"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext5",
+      "type": "translation",
+      "direction": "es-en",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 3,
+      "source": "Nunca bebo café por la noche.",
+      "answers": [
+        "I never drink coffee {at night|in the evening}."
+      ],
+      "notes": "never va antes del verbo y ya es negativo: no se añade don't.",
+      "explanation": "Traducción modelo: I never drink coffee ",
+      "keyConcepts": [
+        [
+          "never"
+        ],
+        [
+          "coffee"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext6",
+      "type": "translation",
+      "direction": "en-es",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 2,
+      "source": "We can't go to the party because we're very tired.",
+      "answers": [
+        "No podemos ir a la fiesta porque estamos muy cansados.",
+        "No podemos ir a la fiesta porque estamos muy cansadas."
+      ],
+      "notes": "can't = no poder; be tired = estar cansado.",
+      "explanation": "Traducción modelo: No podemos ir a la fiesta porque estamos muy cansados.",
+      "keyConcepts": [
+        [
+          "no podemos"
+        ],
+        [
+          "fiesta"
+        ],
+        [
+          "cansados",
+          "cansadas"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext7",
+      "type": "translation",
+      "direction": "es-en",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 3,
+      "source": "El hijo de Ana es médico.",
+      "answers": [
+        "Ana's son is a doctor."
+      ],
+      "notes": "Posesivo con 's: Ana's son. La profesión lleva a.",
+      "explanation": "Traducción modelo: Ana's son is a doctor.",
+      "keyConcepts": [
+        [
+          "ana's"
+        ],
+        [
+          "son"
+        ],
+        [
+          "doctor"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext8",
+      "type": "translation",
+      "direction": "en-es",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 1,
+      "source": "These shoes are very expensive.",
+      "answers": [
+        "Estos zapatos son muy caros."
+      ],
+      "notes": "these = estos (cerca, plural).",
+      "explanation": "Traducción modelo: Estos zapatos son muy caros.",
+      "keyConcepts": [
+        [
+          "estos"
+        ],
+        [
+          "zapatos"
+        ],
+        [
+          "caros"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext9",
+      "type": "translation",
+      "direction": "es-en",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 3,
+      "source": "¿A qué hora empieza la película?",
+      "answers": [
+        "What time does the movie start?",
+        "What time does the film start?"
+      ],
+      "notes": "What time + does + the movie + start?",
+      "explanation": "Traducción modelo: What time does the movie start?",
+      "keyConcepts": [
+        [
+          "what time"
+        ],
+        [
+          "start"
+        ]
+      ]
+    },
+    {
+      "id": "a1-ext10",
+      "type": "translation",
+      "direction": "en-es",
+      "unit": "sentence",
+      "topic": "translation-practice",
+      "skill": "translation",
+      "difficulty": 1,
+      "source": "Her husband works at night.",
+      "answers": [
+        "Su esposo trabaja de noche.",
+        "Su marido trabaja de noche.",
+        "Su esposo trabaja por la noche.",
+        "Su marido trabaja por la noche."
+      ],
+      "notes": "her husband = su esposo (de ella).",
+      "explanation": "Traducción modelo: Su esposo trabaja de noche.",
+      "keyConcepts": [
+        [
+          "esposo",
+          "marido"
+        ],
+        [
+          "noche"
+        ]
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "a1-exw1",
+      "type": "writing_task",
+      "topic": "writing-task",
+      "skill": "writing",
+      "difficulty": 2,
+      "title": "My best friend",
+      "task": "Describe a tu mejor amigo o amiga: **cómo se llama**, su **edad**, de **dónde es**, **cómo es** (físico y personalidad) y qué **os gusta hacer juntos**.",
+      "requirements": [
+        {
+          "label": "Nombre del amigo",
+          "pattern": "\\b(name is|is called|'s name)\\b|\\bmy best friend is\\s+[a-z]+",
+          "feedback": "Di cómo se llama."
+        },
+        {
+          "label": "Edad con be",
+          "pattern": "\\b(he|she)('s| is)\\s+(\\d{1,3}|(ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)(-[a-z]+)?)\\b",
+          "feedback": "Su edad con be: She's 24."
+        },
+        {
+          "label": "Descripción",
+          "pattern": "\\b(tall|short|funny|kind|friendly|smart|quiet|nice|long|short|curly|blue|brown|green|black)\\b",
+          "feedback": "Describe su aspecto o personalidad."
+        },
+        {
+          "label": "Actividad juntos",
+          "pattern": "\\bwe\\s+(often |usually |sometimes |always )?(like|love|play|go|watch|cook|study|walk|talk)\\b",
+          "feedback": "Di qué hacen juntos: We play…"
+        }
+      ],
+      "targetStructures": [
+        {
+          "label": "He/she + verbo con -s",
+          "pattern": "\\b(he|she)\\s+(likes|loves|works|lives|plays|studies|has|goes|watches)\\b"
+        }
+      ],
+      "minWords": 40,
+      "maxWords": 90,
+      "model": "My best friend is Carla. She's 24 and she's from Cali. She is tall and she has long curly hair. She is very funny and kind. She works in a bank. We often go to the cinema and we love Italian food. She is a great friend!",
+      "tips": [
+        "He/she + verbo con -s: She works.",
+        "La edad con be."
+      ],
+      "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+      "level": "A1"
+    },
+    {
+      "id": "a1-exw2",
+      "type": "writing_task",
+      "topic": "writing-task",
+      "skill": "writing",
+      "difficulty": 2,
+      "title": "My favorite day",
+      "task": "Escribe sobre tu **día favorito** de la semana: **qué día** es, **qué haces** (con horas) y **por qué** te gusta (because).",
+      "requirements": [
+        {
+          "label": "El día",
+          "pattern": "\\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday)\\b",
+          "feedback": "Di qué día es."
+        },
+        {
+          "label": "Horas",
+          "pattern": "\\bat\\s+(\\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|noon|half past|quarter)\\b",
+          "feedback": "Incluye horas: at 9 o'clock."
+        },
+        {
+          "label": "Por qué (because)",
+          "pattern": "\\bbecause\\b",
+          "feedback": "Explica por qué con because."
+        },
+        {
+          "label": "Rutina",
+          "pattern": "\\b(get up|wake up|have breakfast|have lunch|go|play|watch|visit|meet|cook)\\b",
+          "feedback": "Di qué haces."
+        }
+      ],
+      "targetStructures": [
+        {
+          "label": "Un adverbio de frecuencia",
+          "pattern": "\\b(always|usually|often|sometimes|never)\\b"
+        }
+      ],
+      "minWords": 40,
+      "maxWords": 90,
+      "model": "My favorite day is Saturday because I don't work. I usually get up at nine and I have a big breakfast. At eleven I play football with my friends in the park. In the afternoon I visit my parents. In the evening I watch a movie or I go out with my girlfriend.",
+      "tips": [
+        "Días con mayúscula.",
+        "because + razón."
+      ],
+      "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+      "level": "A1"
+    },
+    {
+      "id": "a1-exw3",
+      "type": "writing_task",
+      "topic": "writing-task",
+      "skill": "writing",
+      "difficulty": 2,
+      "title": "A postcard from a trip",
+      "task": "Estás de vacaciones. Escribe una **postal** a un amigo: **dónde estás**, **qué tiempo hace**, **qué hay** en el lugar y qué **puedes hacer** allí.",
+      "requirements": [
+        {
+          "label": "Saludo",
+          "pattern": "^(\\s)*(hi|hello|dear)\\b",
+          "feedback": "Empieza con Hi / Dear…"
+        },
+        {
+          "label": "Dónde estás",
+          "pattern": "\\b(i'?m|we'?re|i am|we are)\\s+in\\s+[a-z]",
+          "feedback": "Di dónde estás: I'm in Cancún."
+        },
+        {
+          "label": "El tiempo",
+          "pattern": "\\bit('s| is)\\s+(very\\s+)?(sunny|hot|cold|warm|rainy|windy|cloudy|raining|snowing)\\b",
+          "feedback": "Di qué tiempo hace: It's sunny."
+        },
+        {
+          "label": "There is / are",
+          "pattern": "\\bthere (is|are|'s)\\b",
+          "feedback": "Describe el lugar con there is/are."
+        },
+        {
+          "label": "Can",
+          "pattern": "\\b(we|you|i)\\s+can\\s+\\w+",
+          "feedback": "Di qué se puede hacer: We can swim."
+        }
+      ],
+      "targetStructures": [
+        {
+          "label": "Despedida",
+          "pattern": "\\b(see you|love|bye|best wishes|take care)\\b"
+        }
+      ],
+      "minWords": 40,
+      "maxWords": 90,
+      "model": "Hi Marco,\nI'm in Cartagena with my family. It's very hot and sunny! There are beautiful beaches and old buildings. Our hotel is near the sea. We can swim every day and we can eat fresh fish. The people are very friendly.\nSee you soon,\nElena",
+      "tips": [
+        "It's + adjetivo para el tiempo.",
+        "we can + verbo base."
+      ],
+      "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+      "level": "A1"
+    }
+  ]
+}

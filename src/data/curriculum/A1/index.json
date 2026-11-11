@@ -1,0 +1,364 @@
+{
+  "level": "A1",
+  "modules": [
+    {
+      "id": "a1-01",
+      "file": "a1-01-introduction-to-english.json",
+      "order": 1,
+      "title": "Introduction to English",
+      "titleEs": "Introducción al inglés",
+      "summary": "Cómo funciona el inglés, saludos, alfabeto, números 0–20 y lenguaje de clase.",
+      "skills": [
+        "grammar",
+        "vocabulary",
+        "listening"
+      ],
+      "status": "ready",
+      "estimatedMinutes": 90,
+      "lessons": 3
+    },
+    {
+      "id": "a1-02",
+      "file": "a1-02-personal-pronouns.json",
+      "order": 2,
+      "title": "Personal Pronouns",
+      "titleEs": "Pronombres personales",
+      "summary": "Pronombres sujeto y por qué el sujeto es obligatorio en inglés.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "ready",
+      "estimatedMinutes": 60,
+      "lessons": 2
+    },
+    {
+      "id": "a1-03",
+      "file": "a1-03-verb-to-be.json",
+      "order": 3,
+      "title": "Verb To Be",
+      "titleEs": "El verbo to be",
+      "summary": "Afirmativa, negativa, preguntas, respuestas cortas y expresiones con be.",
+      "skills": [
+        "grammar",
+        "construction"
+      ],
+      "status": "ready",
+      "estimatedMinutes": 120,
+      "lessons": 3
+    },
+    {
+      "id": "a1-04",
+      "file": "a1-04-numbers-dates-time.json",
+      "order": 4,
+      "title": "Numbers, Dates and Time",
+      "titleEs": "Números, fechas y hora",
+      "summary": "Números grandes, ordinales, días, meses, fechas y la hora.",
+      "skills": [
+        "vocabulary",
+        "listening"
+      ],
+      "status": "ready",
+      "estimatedMinutes": 100,
+      "lessons": 3
+    },
+    {
+      "id": "a1-05",
+      "file": "a1-05-articles.json",
+      "order": 5,
+      "title": "Articles: A, An, The",
+      "titleEs": "Artículos: a, an, the",
+      "summary": "a/an según el sonido, the y cuándo no usar artículo.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "ready",
+      "estimatedMinutes": 70,
+      "lessons": 2
+    },
+    {
+      "id": "a1-06",
+      "file": "a1-06-singular-plural-nouns.json",
+      "order": 6,
+      "title": "Singular and Plural Nouns",
+      "titleEs": "Sustantivos singulares y plurales",
+      "summary": "Plurales regulares, ortografía, pronunciación e irregulares.",
+      "skills": [
+        "grammar",
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 70
+    },
+    {
+      "id": "a1-07",
+      "file": "a1-07-possessive-adjectives.json",
+      "order": 7,
+      "title": "Possessive Adjectives",
+      "titleEs": "Adjetivos posesivos",
+      "summary": "my, your, his, her, its, our, their y el posesivo 's.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 70
+    },
+    {
+      "id": "a1-08",
+      "file": "a1-08-demonstrative-pronouns.json",
+      "order": 8,
+      "title": "Demonstrative Pronouns",
+      "titleEs": "Demostrativos",
+      "summary": "this, that, these y those como determinantes y pronombres.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 60
+    },
+    {
+      "id": "a1-09",
+      "file": "a1-09-basic-adjectives.json",
+      "order": 9,
+      "title": "Basic Adjectives",
+      "titleEs": "Adjetivos básicos",
+      "summary": "Posición del adjetivo, invariabilidad, opuestos e intensificadores.",
+      "skills": [
+        "grammar",
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 70
+    },
+    {
+      "id": "a1-10",
+      "file": "a1-10-basic-vocabulary.json",
+      "order": 10,
+      "title": "Basic Vocabulary",
+      "titleEs": "Vocabulario básico",
+      "summary": "Colores, ropa, la casa, objetos cotidianos y el clima.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 80
+    },
+    {
+      "id": "a1-11",
+      "file": "a1-11-present-simple.json",
+      "order": 11,
+      "title": "Present Simple",
+      "titleEs": "Presente simple",
+      "summary": "Forma, usos, tercera persona (-s/-es/-ies) y gustos con -ing.",
+      "skills": [
+        "grammar",
+        "construction"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 120
+    },
+    {
+      "id": "a1-12",
+      "file": "a1-12-present-simple-questions-negatives.json",
+      "order": 12,
+      "title": "Present Simple: Questions and Negatives",
+      "titleEs": "Presente simple: preguntas y negativas",
+      "summary": "do/does, don't/doesn't, respuestas cortas y preguntas Wh-.",
+      "skills": [
+        "grammar",
+        "construction"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 120
+    },
+    {
+      "id": "a1-13",
+      "file": "a1-13-adverbs-of-frequency.json",
+      "order": 13,
+      "title": "Adverbs of Frequency",
+      "titleEs": "Adverbios de frecuencia",
+      "summary": "always … never, su posición y How often…?",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 70
+    },
+    {
+      "id": "a1-14",
+      "file": "a1-14-daily-routines.json",
+      "order": 14,
+      "title": "Daily Routines",
+      "titleEs": "Rutinas diarias",
+      "summary": "Colocaciones de rutina, secuenciadores y descripción de un día.",
+      "skills": [
+        "vocabulary",
+        "reading",
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 80
+    },
+    {
+      "id": "a1-15",
+      "file": "a1-15-there-is-there-are.json",
+      "order": 15,
+      "title": "There Is / There Are",
+      "titleEs": "There is / there are",
+      "summary": "Existencia, cantidades, some/any y la diferencia con it is.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 80
+    },
+    {
+      "id": "a1-16",
+      "file": "a1-16-prepositions-of-place.json",
+      "order": 16,
+      "title": "Prepositions of Place",
+      "titleEs": "Preposiciones de lugar",
+      "summary": "in, on, under, next to, between… y at/in/on con lugares.",
+      "skills": [
+        "grammar",
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 70
+    },
+    {
+      "id": "a1-17",
+      "file": "a1-17-can-and-cant.json",
+      "order": 17,
+      "title": "Can and Can't",
+      "titleEs": "Can y can't",
+      "summary": "Habilidad, permiso y peticiones con can.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 70
+    },
+    {
+      "id": "a1-18",
+      "file": "a1-18-family-and-relationships.json",
+      "order": 18,
+      "title": "Family and Relationships",
+      "titleEs": "Familia y relaciones",
+      "summary": "Familia, have got y descripción de personas.",
+      "skills": [
+        "vocabulary",
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 80
+    },
+    {
+      "id": "a1-19",
+      "file": "a1-19-food-and-drinks.json",
+      "order": 19,
+      "title": "Food and Drinks",
+      "titleEs": "Comidas y bebidas",
+      "summary": "Comida, a/an/some, gustos y pedir en un café.",
+      "skills": [
+        "vocabulary",
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 80
+    },
+    {
+      "id": "a1-20",
+      "file": "a1-20-basic-reading-and-writing.json",
+      "order": 20,
+      "title": "Basic Reading and Writing",
+      "titleEs": "Lectura y escritura básicas",
+      "summary": "Mayúsculas, puntuación, conectores, perfil personal y correo breve.",
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    }
+  ],
+  "finalExam": {
+    "id": "A1-final",
+    "title": "A1 Final Exam",
+    "sections": [
+      {
+        "id": "grammar",
+        "title": "Grammar",
+        "weight": 0.3,
+        "count": 18,
+        "source": {
+          "kind": "modules",
+          "skills": [
+            "grammar"
+          ]
+        }
+      },
+      {
+        "id": "vocabulary",
+        "title": "Vocabulary",
+        "weight": 0.15,
+        "count": 8,
+        "source": {
+          "kind": "vocabulary"
+        }
+      },
+      {
+        "id": "reading",
+        "title": "Reading",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "reading"
+        }
+      },
+      {
+        "id": "listening",
+        "title": "Listening",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "listening"
+        }
+      },
+      {
+        "id": "translation",
+        "title": "Translation",
+        "weight": 0.1,
+        "count": 4,
+        "source": {
+          "kind": "exam",
+          "pool": "translation"
+        }
+      },
+      {
+        "id": "construction",
+        "title": "Sentence Construction",
+        "weight": 0.05,
+        "count": 3,
+        "source": {
+          "kind": "modules",
+          "types": [
+            "word_order",
+            "sentence_building"
+          ]
+        }
+      },
+      {
+        "id": "writing",
+        "title": "Writing",
+        "weight": 0.1,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "writing"
+        }
+      }
+    ]
+  }
+}

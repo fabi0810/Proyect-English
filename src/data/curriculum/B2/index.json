@@ -1,0 +1,412 @@
+{
+  "level": "B2",
+  "modules": [
+    {
+      "id": "b2-01",
+      "file": "b2-01-advanced-present-perfect.json",
+      "order": 1,
+      "title": "Advanced Present Perfect",
+      "titleEs": "Presente perfecto avanzado",
+      "summary": "Simple vs continuo, It's the first time…",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-02",
+      "file": "b2-02-past-perfect-continuous.json",
+      "order": 2,
+      "title": "Past Perfect Continuous",
+      "titleEs": "Pasado perfecto continuo",
+      "summary": "Tiempos narrativos.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-03",
+      "file": "b2-03-future-continuous.json",
+      "order": 3,
+      "title": "Future Continuous",
+      "titleEs": "Futuro continuo",
+      "summary": "Acciones en curso en el futuro.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-04",
+      "file": "b2-04-future-perfect.json",
+      "order": 4,
+      "title": "Future Perfect",
+      "titleEs": "Futuro perfecto",
+      "summary": "Simple y continuo.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-05",
+      "file": "b2-05-third-conditional.json",
+      "order": 5,
+      "title": "Third Conditional",
+      "titleEs": "Tercer condicional",
+      "summary": "Hipótesis sobre el pasado.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-06",
+      "file": "b2-06-mixed-conditionals.json",
+      "order": 6,
+      "title": "Mixed Conditionals",
+      "titleEs": "Condicionales mixtos",
+      "summary": "Pasado ↔ presente.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-07",
+      "file": "b2-07-wishes-regrets.json",
+      "order": 7,
+      "title": "Wishes and Regrets",
+      "titleEs": "Deseos y lamentos",
+      "summary": "wish / if only.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-08",
+      "file": "b2-08-modals-deduction-past.json",
+      "order": 8,
+      "title": "Modal Verbs for Deduction (Past)",
+      "titleEs": "Modales de deducción (pasado)",
+      "summary": "must have, can't have, might have.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-09",
+      "file": "b2-09-advanced-passive.json",
+      "order": 9,
+      "title": "Advanced Passive Voice",
+      "titleEs": "Voz pasiva avanzada",
+      "summary": "Con modales, have something done.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-10",
+      "file": "b2-10-advanced-reported-speech.json",
+      "order": 10,
+      "title": "Advanced Reported Speech",
+      "titleEs": "Estilo indirecto avanzado",
+      "summary": "Preguntas, órdenes, verbos introductorios.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-11",
+      "file": "b2-11-advanced-relative-clauses.json",
+      "order": 11,
+      "title": "Advanced Relative Clauses",
+      "titleEs": "Relativas avanzadas",
+      "summary": "Explicativas, preposición + which/whom.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-12",
+      "file": "b2-12-advanced-gerunds-infinitives.json",
+      "order": 12,
+      "title": "Advanced Gerunds and Infinitives",
+      "titleEs": "Gerundios e infinitivos avanzados",
+      "summary": "remember/stop/try; infinitivo perfecto.",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-13",
+      "file": "b2-13-advanced-phrasal-verbs.json",
+      "order": 13,
+      "title": "Advanced Phrasal Verbs",
+      "titleEs": "Phrasal verbs avanzados",
+      "summary": "Significados figurados.",
+      "skills": [
+        "grammar",
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-14",
+      "file": "b2-14-collocations.json",
+      "order": 14,
+      "title": "Collocations",
+      "titleEs": "Colocaciones",
+      "summary": "Combinaciones frecuentes.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-15",
+      "file": "b2-15-idiomatic-expressions.json",
+      "order": 15,
+      "title": "Idiomatic Expressions",
+      "titleEs": "Expresiones idiomáticas",
+      "summary": "Modismos frecuentes.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-16",
+      "file": "b2-16-advanced-connectors.json",
+      "order": 16,
+      "title": "Advanced Connectors",
+      "titleEs": "Conectores avanzados",
+      "summary": "nevertheless, whereas, provided that…",
+      "skills": [
+        "grammar",
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-17",
+      "file": "b2-17-complex-sentence-structures.json",
+      "order": 17,
+      "title": "Complex Sentence Structures",
+      "titleEs": "Estructuras complejas",
+      "summary": "Participio, cleft sentences, nominalización.",
+      "skills": [
+        "construction"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-18",
+      "file": "b2-18-inversion.json",
+      "order": 18,
+      "title": "Inversion",
+      "titleEs": "Inversión",
+      "summary": "Never have I…, Not only…",
+      "skills": [
+        "grammar"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-19",
+      "file": "b2-19-formal-informal-english.json",
+      "order": 19,
+      "title": "Formal and Informal English",
+      "titleEs": "Registro formal e informal",
+      "summary": "Adecuación al contexto.",
+      "skills": [
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-20",
+      "file": "b2-20-academic-vocabulary.json",
+      "order": 20,
+      "title": "Academic Vocabulary",
+      "titleEs": "Vocabulario académico",
+      "summary": "Vocabulario académico frecuente.",
+      "skills": [
+        "vocabulary"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-21",
+      "file": "b2-21-reading-complex-texts.json",
+      "order": 21,
+      "title": "Reading Complex Texts",
+      "titleEs": "Lectura de textos complejos",
+      "summary": "Artículos y textos académicos.",
+      "skills": [
+        "reading"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-22",
+      "file": "b2-22-listening-comprehension-b2.json",
+      "order": 22,
+      "title": "Listening Comprehension B2",
+      "titleEs": "Comprensión auditiva B2",
+      "summary": "Argumentos y matices.",
+      "skills": [
+        "listening"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-23",
+      "file": "b2-23-writing-formal-emails.json",
+      "order": 23,
+      "title": "Writing Formal Emails",
+      "titleEs": "Correos formales",
+      "summary": "Estructura y registro.",
+      "skills": [
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-24",
+      "file": "b2-24-argumentative-writing.json",
+      "order": 24,
+      "title": "Argumentative Writing",
+      "titleEs": "Escritura argumentativa",
+      "summary": "Tesis, evidencia, contraargumento.",
+      "skills": [
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "b2-25",
+      "file": "b2-25-writing-essays.json",
+      "order": 25,
+      "title": "Writing Essays",
+      "titleEs": "Ensayos",
+      "summary": "Opinión, a favor y en contra.",
+      "skills": [
+        "writing"
+      ],
+      "status": "planned",
+      "estimatedMinutes": 90
+    }
+  ],
+  "finalExam": {
+    "id": "B2-final",
+    "title": "B2 Final Exam",
+    "sections": [
+      {
+        "id": "grammar",
+        "title": "Grammar",
+        "weight": 0.3,
+        "count": 20,
+        "source": {
+          "kind": "modules",
+          "skills": [
+            "grammar"
+          ]
+        }
+      },
+      {
+        "id": "vocabulary",
+        "title": "Vocabulary",
+        "weight": 0.15,
+        "count": 10,
+        "source": {
+          "kind": "vocabulary"
+        }
+      },
+      {
+        "id": "reading",
+        "title": "Reading",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "reading"
+        }
+      },
+      {
+        "id": "listening",
+        "title": "Listening",
+        "weight": 0.15,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "listening"
+        }
+      },
+      {
+        "id": "translation",
+        "title": "Translation",
+        "weight": 0.1,
+        "count": 4,
+        "source": {
+          "kind": "exam",
+          "pool": "translation"
+        }
+      },
+      {
+        "id": "construction",
+        "title": "Sentence Construction",
+        "weight": 0.05,
+        "count": 3,
+        "source": {
+          "kind": "modules",
+          "types": [
+            "word_order",
+            "sentence_building"
+          ]
+        }
+      },
+      {
+        "id": "writing",
+        "title": "Writing",
+        "weight": 0.1,
+        "count": 1,
+        "source": {
+          "kind": "exam",
+          "pool": "writing"
+        }
+      }
+    ]
+  }
+}

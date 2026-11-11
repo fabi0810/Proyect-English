@@ -1,0 +1,355 @@
+{
+  "english-basics": {
+    "label": "Cómo funciona el inglés",
+    "lesson": "a1-01-l1"
+  },
+  "greetings": {
+    "label": "Saludos y presentaciones",
+    "lesson": "a1-01-l1"
+  },
+  "alphabet-spelling": {
+    "label": "Alfabeto y deletreo",
+    "lesson": "a1-01-l2"
+  },
+  "numbers-0-20": {
+    "label": "Números del 0 al 20",
+    "lesson": "a1-01-l2"
+  },
+  "classroom-language": {
+    "label": "Lenguaje de clase",
+    "lesson": "a1-01-l3"
+  },
+  "imperatives": {
+    "label": "Imperativo",
+    "lesson": "a1-01-l3"
+  },
+  "subject-pronouns": {
+    "label": "Pronombres personales sujeto",
+    "lesson": "a1-02-l1"
+  },
+  "subject-required": {
+    "label": "Sujeto obligatorio e «it» impersonal",
+    "lesson": "a1-02-l2"
+  },
+  "be-affirmative": {
+    "label": "To be: afirmativa",
+    "lesson": "a1-03-l1"
+  },
+  "be-negative": {
+    "label": "To be: negativa",
+    "lesson": "a1-03-l2"
+  },
+  "be-questions": {
+    "label": "To be: preguntas y respuestas cortas",
+    "lesson": "a1-03-l2"
+  },
+  "be-wh-questions": {
+    "label": "To be: preguntas con Wh-",
+    "lesson": "a1-03-l3"
+  },
+  "be-expressions": {
+    "label": "Expresiones con «be» (edad, estados)",
+    "lesson": "a1-03-l3"
+  },
+  "numbers-big": {
+    "label": "Números grandes",
+    "lesson": "a1-04-l1"
+  },
+  "dates-ordinals": {
+    "label": "Ordinales, días, meses y fechas",
+    "lesson": "a1-04-l2"
+  },
+  "prepositions-time-basic": {
+    "label": "in / on / at con el tiempo",
+    "lesson": "a1-04-l2"
+  },
+  "telling-time": {
+    "label": "Decir la hora",
+    "lesson": "a1-04-l3"
+  },
+  "article-a-an": {
+    "label": "Artículos a / an",
+    "lesson": "a1-05-l1"
+  },
+  "article-the": {
+    "label": "Artículo the",
+    "lesson": "a1-05-l2"
+  },
+  "article-zero": {
+    "label": "Sin artículo (generalizaciones)",
+    "lesson": "a1-05-l2"
+  },
+  "plural-regular": {
+    "label": "Plurales regulares",
+    "lesson": "a1-06-l1"
+  },
+  "plural-irregular": {
+    "label": "Plurales irregulares",
+    "lesson": "a1-06-l2"
+  },
+  "possessive-adjectives": {
+    "label": "Adjetivos posesivos",
+    "lesson": "a1-07-l1"
+  },
+  "possessive-s": {
+    "label": "Posesivo 's",
+    "lesson": "a1-07-l2"
+  },
+  "demonstratives": {
+    "label": "this / that / these / those",
+    "lesson": "a1-08-l1"
+  },
+  "demonstratives-use": {
+    "label": "Demostrativos en la conversación",
+    "lesson": "a1-08-l2"
+  },
+  "adjective-position": {
+    "label": "Posición y forma del adjetivo",
+    "lesson": "a1-09-l1"
+  },
+  "adjective-opposites": {
+    "label": "Adjetivos opuestos e intensificadores",
+    "lesson": "a1-09-l2"
+  },
+  "colors-clothes": {
+    "label": "Colores y ropa",
+    "lesson": "a1-10-l1"
+  },
+  "home-objects-weather": {
+    "label": "La casa, objetos y el clima",
+    "lesson": "a1-10-l2"
+  },
+  "present-simple-form": {
+    "label": "Presente simple: forma y usos",
+    "lesson": "a1-11-l1"
+  },
+  "third-person-s": {
+    "label": "Presente simple: tercera persona",
+    "lesson": "a1-11-l2"
+  },
+  "likes-ing": {
+    "label": "like / love / hate + -ing",
+    "lesson": "a1-11-l3"
+  },
+  "ps-negative": {
+    "label": "Presente simple: negativa",
+    "lesson": "a1-12-l1"
+  },
+  "ps-yes-no-questions": {
+    "label": "Presente simple: preguntas sí/no",
+    "lesson": "a1-12-l2"
+  },
+  "ps-wh-questions": {
+    "label": "Presente simple: preguntas Wh-",
+    "lesson": "a1-12-l3"
+  },
+  "frequency-adverbs": {
+    "label": "Adverbios de frecuencia",
+    "lesson": "a1-13-l1"
+  },
+  "how-often": {
+    "label": "How often…? y expresiones de frecuencia",
+    "lesson": "a1-13-l2"
+  },
+  "routine-collocations": {
+    "label": "Rutinas: colocaciones",
+    "lesson": "a1-14-l1"
+  },
+  "describing-routine": {
+    "label": "Describir una rutina",
+    "lesson": "a1-14-l2"
+  },
+  "there-is-are": {
+    "label": "There is / there are",
+    "lesson": "a1-15-l1"
+  },
+  "there-questions-quantity": {
+    "label": "How many…?, some/any, there vs it",
+    "lesson": "a1-15-l2"
+  },
+  "prepositions-place": {
+    "label": "Preposiciones de lugar",
+    "lesson": "a1-16-l1"
+  },
+  "at-in-on-place": {
+    "label": "at / in / on con lugares",
+    "lesson": "a1-16-l2"
+  },
+  "can-ability": {
+    "label": "Can: habilidad",
+    "lesson": "a1-17-l1"
+  },
+  "can-requests": {
+    "label": "Can: permiso y peticiones",
+    "lesson": "a1-17-l2"
+  },
+  "family-have-got": {
+    "label": "Familia y have got",
+    "lesson": "a1-18-l1"
+  },
+  "describing-people": {
+    "label": "Describir personas",
+    "lesson": "a1-18-l2"
+  },
+  "food-countable": {
+    "label": "Comida: a/an/some y gustos",
+    "lesson": "a1-19-l1"
+  },
+  "ordering-food": {
+    "label": "Pedir en un café o restaurante",
+    "lesson": "a1-19-l2"
+  },
+  "capitals-punctuation": {
+    "label": "Mayúsculas y puntuación",
+    "lesson": "a1-20-l1"
+  },
+  "basic-connectors": {
+    "label": "Conectores and / but / or / because",
+    "lesson": "a1-20-l1"
+  },
+  "writing-profile": {
+    "label": "Escribir un perfil y un correo breve",
+    "lesson": "a1-20-l2"
+  },
+  "reading-detail": {
+    "label": "Lectura: información específica"
+  },
+  "reading-gist": {
+    "label": "Lectura: idea general"
+  },
+  "listening-detail": {
+    "label": "Escucha: información específica"
+  },
+  "listening-gist": {
+    "label": "Escucha: idea general"
+  },
+  "translation-practice": {
+    "label": "Traducción"
+  },
+  "writing-task": {
+    "label": "Producción escrita"
+  },
+  "vocab-basics": {
+    "label": "Vocabulario: básico"
+  },
+  "vocab-family": {
+    "label": "Vocabulario: familia"
+  },
+  "vocab-food": {
+    "label": "Vocabulario: comida"
+  },
+  "vocab-education": {
+    "label": "Vocabulario: educación"
+  },
+  "vocab-work": {
+    "label": "Vocabulario: trabajo"
+  },
+  "vocab-travel": {
+    "label": "Vocabulario: viajes"
+  },
+  "vocab-health": {
+    "label": "Vocabulario: salud"
+  },
+  "vocab-technology": {
+    "label": "Vocabulario: tecnología"
+  },
+  "vocab-transportation": {
+    "label": "Vocabulario: transporte"
+  },
+  "vocab-daily-activities": {
+    "label": "Vocabulario: actividades diarias"
+  },
+  "vocab-relationships": {
+    "label": "Vocabulario: relaciones"
+  },
+  "vocab-shopping": {
+    "label": "Vocabulario: compras"
+  },
+  "vocab-environment": {
+    "label": "Vocabulario: medio ambiente"
+  },
+  "vocab-entertainment": {
+    "label": "Vocabulario: entretenimiento"
+  },
+  "vocab-emotions": {
+    "label": "Vocabulario: emociones"
+  },
+  "vocab-business": {
+    "label": "Vocabulario: negocios"
+  },
+  "present-continuous": {
+    "label": "Presente continuo"
+  },
+  "past-be": {
+    "label": "Pasado de to be (was/were)"
+  },
+  "past-simple": {
+    "label": "Pasado simple"
+  },
+  "countable-uncountable": {
+    "label": "Contables e incontables"
+  },
+  "comparatives": {
+    "label": "Comparativos y superlativos"
+  },
+  "future-forms": {
+    "label": "Futuro (will / going to)"
+  },
+  "obligation-modals": {
+    "label": "must / have to / should"
+  },
+  "present-perfect": {
+    "label": "Presente perfecto"
+  },
+  "past-continuous": {
+    "label": "Pasado continuo"
+  },
+  "conditionals": {
+    "label": "Condicionales"
+  },
+  "passive-voice": {
+    "label": "Voz pasiva"
+  },
+  "reported-speech": {
+    "label": "Estilo indirecto"
+  },
+  "relative-clauses": {
+    "label": "Oraciones de relativo"
+  },
+  "gerunds-infinitives": {
+    "label": "Gerundio e infinitivo"
+  },
+  "modals-deduction": {
+    "label": "Modales de deducción"
+  },
+  "past-perfect": {
+    "label": "Pasado perfecto"
+  },
+  "mixed-conditionals": {
+    "label": "Condicionales mixtos y tercer condicional"
+  },
+  "wishes": {
+    "label": "wish / if only"
+  },
+  "inversion": {
+    "label": "Inversión"
+  },
+  "advanced-vocabulary": {
+    "label": "Vocabulario avanzado y colocaciones"
+  },
+  "linking-words": {
+    "label": "Conectores"
+  },
+  "reading-inference": {
+    "label": "Lectura: inferencia"
+  },
+  "object-pronouns": {
+    "label": "Pronombres objeto"
+  },
+  "prepositions-time": {
+    "label": "Preposiciones de tiempo"
+  },
+  "used-to": {
+    "label": "Used to (hábitos pasados)"
+  }
+}

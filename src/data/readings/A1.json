@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "a1-r01",
+    "level": "A1",
+    "title": "Hello from Bogotá",
+    "topic": "be-affirmative",
+    "genre": "description",
+    "intro": "Valentina se presenta en un foro de intercambio de idiomas.",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "en": "Hi! My name is Valentina and I'm 26 years old.",
+            "es": "¡Hola! Me llamo Valentina y tengo 26 años.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ],
+              [
+                "I'm",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "I'm from Bogotá, the capital of Colombia.",
+            "es": "Soy de Bogotá, la capital de Colombia.",
+            "verbs": [
+              [
+                "I'm",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "I'm a graphic designer and I work for a small company.",
+            "es": "Soy diseñadora gráfica y trabajo para una empresa pequeña.",
+            "verbs": [
+              [
+                "I'm",
+                "present-simple-be"
+              ],
+              [
+                "work",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "I live with my sister, Camila, and our cat, Luna.",
+            "es": "Vivo con mi hermana, Camila, y nuestra gata, Luna.",
+            "verbs": [
+              [
+                "live",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "Camila is a nurse.",
+            "es": "Camila es enfermera.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "She works at night, so she sleeps in the morning.",
+            "es": "Trabaja de noche, así que duerme por la mañana.",
+            "verbs": [
+              [
+                "works",
+                "present-simple"
+              ],
+              [
+                "sleeps",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "I love music and movies.",
+            "es": "Me encantan la música y las películas.",
+            "verbs": [
+              [
+                "love",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "I don't like football, but I play tennis on Saturdays.",
+            "es": "No me gusta el fútbol, pero juego al tenis los sábados.",
+            "verbs": [
+              [
+                "don't like",
+                "present-simple"
+              ],
+              [
+                "play",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "I want to practice my English with people from other countries.",
+            "es": "Quiero practicar mi inglés con personas de otros países.",
+            "verbs": [
+              [
+                "want",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "Write to me!",
+            "es": "¡Escríbeme!",
+            "verbs": [
+              [
+                "Write",
+                "imperative"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "graphic designer",
+        "es": "diseñador/a gráfico/a"
+      },
+      {
+        "term": "company",
+        "es": "empresa"
+      },
+      {
+        "term": "at night",
+        "es": "de noche"
+      },
+      {
+        "term": "so",
+        "es": "así que, por eso"
+      },
+      {
+        "term": "practice",
+        "es": "practicar"
+      }
+    ],
+    "grammarFocus": [
+      "be-affirmative",
+      "present-simple-form"
+    ],
+    "questions": [
+      {
+        "id": "a1-r01-q1",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "How old is Valentina?",
+        "options": [
+          "26",
+          "16",
+          "20",
+          "62"
+        ],
+        "answer": 0,
+        "explanation": "«I'm 26 years old.»"
+      },
+      {
+        "id": "a1-r01-q2",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What is Valentina's job?",
+        "options": [
+          "She's a graphic designer.",
+          "She's a nurse.",
+          "She's a teacher.",
+          "She's a tennis player."
+        ],
+        "answer": 0,
+        "explanation": "«I'm a graphic designer.»"
+      },
+      {
+        "id": "a1-r01-q3",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "Camila works in the morning.",
+        "answer": false,
+        "explanation": "Camila trabaja de noche (at night) y duerme por la mañana."
+      },
+      {
+        "id": "a1-r01-q4",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "Who is Luna?",
+        "options": [
+          "A cat",
+          "Valentina's sister",
+          "A nurse",
+          "A friend from another country"
+        ],
+        "answer": 0,
+        "explanation": "«our cat, Luna»."
+      },
+      {
+        "id": "a1-r01-q5",
+        "type": "fill_blank",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 2,
+        "text": "Valentina plays tennis on ___.",
+        "blanks": [
+          {
+            "answers": [
+              "Saturdays",
+              "Saturday"
+            ]
+          }
+        ],
+        "explanation": "«I play tennis on Saturdays.»"
+      }
+    ]
+  },
+  {
+    "id": "a1-r02",
+    "level": "A1",
+    "title": "A Day in the Life of a Nurse",
+    "topic": "describing-routine",
+    "genre": "story",
+    "intro": "La rutina de Daniel, enfermero en un hospital de Chicago.",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "en": "Daniel is a nurse at a big hospital in Chicago.",
+            "es": "Daniel es enfermero en un hospital grande de Chicago.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "He works from Monday to Friday.",
+            "es": "Trabaja de lunes a viernes.",
+            "verbs": [
+              [
+                "works",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "He gets up at half past five every morning.",
+            "es": "Se levanta a las cinco y media todas las mañanas.",
+            "verbs": [
+              [
+                "gets up",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "He has a shower and drinks a cup of coffee, but he doesn't eat breakfast at home.",
+            "es": "Se ducha y toma una taza de café, pero no desayuna en casa.",
+            "verbs": [
+              [
+                "has",
+                "present-simple"
+              ],
+              [
+                "drinks",
+                "present-simple"
+              ],
+              [
+                "doesn't eat",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "He goes to work by train.",
+            "es": "Va al trabajo en tren.",
+            "verbs": [
+              [
+                "goes",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "His shift starts at seven o'clock.",
+            "es": "Su turno empieza a las siete.",
+            "verbs": [
+              [
+                "starts",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "He usually eats a sandwich at the hospital at ten.",
+            "es": "Normalmente come un sándwich en el hospital a las diez.",
+            "verbs": [
+              [
+                "eats",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "He is always busy, but he loves his job.",
+            "es": "Siempre está ocupado, pero le encanta su trabajo.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ],
+              [
+                "loves",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "Daniel finishes work at four in the afternoon.",
+            "es": "Daniel termina de trabajar a las cuatro de la tarde.",
+            "verbs": [
+              [
+                "finishes",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "In the evening, he cooks dinner and watches TV with his wife.",
+            "es": "Por la noche, prepara la cena y ve la tele con su esposa.",
+            "verbs": [
+              [
+                "cooks",
+                "present-simple"
+              ],
+              [
+                "watches",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "He never goes to bed after ten.",
+            "es": "Nunca se acuesta después de las diez.",
+            "verbs": [
+              [
+                "goes",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "shift",
+        "es": "turno"
+      },
+      {
+        "term": "busy",
+        "es": "ocupado"
+      },
+      {
+        "term": "by train",
+        "es": "en tren"
+      },
+      {
+        "term": "has a shower",
+        "es": "se ducha"
+      },
+      {
+        "term": "never",
+        "es": "nunca"
+      }
+    ],
+    "grammarFocus": [
+      "third-person-s",
+      "frequency-adverbs"
+    ],
+    "questions": [
+      {
+        "id": "a1-r02-q1",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What time does Daniel get up?",
+        "options": [
+          "5:30",
+          "5:00",
+          "7:00",
+          "6:30"
+        ],
+        "answer": 0,
+        "explanation": "«at half past five» = 5:30."
+      },
+      {
+        "id": "a1-r02-q2",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "Daniel eats breakfast at home.",
+        "answer": false,
+        "explanation": "«he doesn't eat breakfast at home»."
+      },
+      {
+        "id": "a1-r02-q3",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "How does he go to work?",
+        "options": [
+          "By train",
+          "By car",
+          "By bus",
+          "On foot"
+        ],
+        "answer": 0,
+        "explanation": "«He goes to work by train.»"
+      },
+      {
+        "id": "a1-r02-q4",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What does he do in the evening?",
+        "options": [
+          "He cooks and watches TV.",
+          "He works at the hospital.",
+          "He plays football.",
+          "He goes to bed at eight."
+        ],
+        "answer": 0,
+        "explanation": "«he cooks dinner and watches TV with his wife»."
+      },
+      {
+        "id": "a1-r02-q5",
+        "type": "fill_blank",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 2,
+        "text": "Daniel finishes work at ___ in the afternoon.",
+        "blanks": [
+          {
+            "answers": [
+              "four",
+              "4"
+            ]
+          }
+        ],
+        "explanation": "«at four in the afternoon»."
+      }
+    ]
+  },
+  {
+    "id": "a1-r03",
+    "level": "A1",
+    "title": "My New Apartment",
+    "topic": "there-is-are",
+    "genre": "description",
+    "intro": "Lucas describe su nuevo apartamento a un amigo.",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "en": "My new apartment is small, but it's very nice.",
+            "es": "Mi nuevo apartamento es pequeño, pero es muy bonito.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ],
+              [
+                "it's",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "It's on the third floor of an old building.",
+            "es": "Está en el tercer piso de un edificio antiguo.",
+            "verbs": [
+              [
+                "It's",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "There are two bedrooms, a living room, a kitchen and a bathroom.",
+            "es": "Hay dos dormitorios, una sala, una cocina y un baño.",
+            "verbs": [
+              [
+                "There are",
+                "present-simple-be"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "The living room has a big window.",
+            "es": "La sala tiene una ventana grande.",
+            "verbs": [
+              [
+                "has",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "There is a blue sofa in front of the window and there is a small table next to the sofa.",
+            "es": "Hay un sofá azul delante de la ventana y hay una mesa pequeña al lado del sofá.",
+            "verbs": [
+              [
+                "There is",
+                "present-simple-be"
+              ],
+              [
+                "there is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "There isn't a TV, because I watch movies on my laptop.",
+            "es": "No hay televisor, porque veo películas en mi portátil.",
+            "verbs": [
+              [
+                "There isn't",
+                "present-simple-be"
+              ],
+              [
+                "watch",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "The kitchen is my favorite room.",
+            "es": "La cocina es mi habitación favorita.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "There are some plants on the windowsill and there's a radio on the fridge.",
+            "es": "Hay algunas plantas en el alféizar y hay una radio encima de la nevera.",
+            "verbs": [
+              [
+                "There are",
+                "present-simple-be"
+              ],
+              [
+                "there's",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "Come and visit me!",
+            "es": "¡Ven a visitarme!",
+            "verbs": [
+              [
+                "Come",
+                "imperative"
+              ],
+              [
+                "visit",
+                "imperative"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "building",
+        "es": "edificio"
+      },
+      {
+        "term": "in front of",
+        "es": "delante de"
+      },
+      {
+        "term": "next to",
+        "es": "al lado de"
+      },
+      {
+        "term": "windowsill",
+        "es": "alféizar"
+      },
+      {
+        "term": "fridge",
+        "es": "nevera, refrigerador"
+      },
+      {
+        "term": "plants",
+        "es": "plantas"
+      }
+    ],
+    "grammarFocus": [
+      "there-is-are",
+      "prepositions-place"
+    ],
+    "questions": [
+      {
+        "id": "a1-r03-q1",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "How many bedrooms are there?",
+        "options": [
+          "Two",
+          "One",
+          "Three",
+          "Four"
+        ],
+        "answer": 0,
+        "explanation": "«There are two bedrooms…»"
+      },
+      {
+        "id": "a1-r03-q2",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "Where is the sofa?",
+        "options": [
+          "In front of the window",
+          "Next to the fridge",
+          "In the kitchen",
+          "Under the window"
+        ],
+        "answer": 0,
+        "explanation": "«There is a blue sofa in front of the window.»"
+      },
+      {
+        "id": "a1-r03-q3",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "There is a TV in the living room.",
+        "answer": false,
+        "explanation": "«There isn't a TV.»"
+      },
+      {
+        "id": "a1-r03-q4",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What is Lucas's favorite room?",
+        "options": [
+          "The kitchen",
+          "The living room",
+          "The bathroom",
+          "His bedroom"
+        ],
+        "answer": 0,
+        "explanation": "«The kitchen is my favorite room.»"
+      },
+      {
+        "id": "a1-r03-q5",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "Where is the radio?",
+        "options": [
+          "On the fridge",
+          "On the sofa",
+          "Next to the table",
+          "On the windowsill"
+        ],
+        "answer": 0,
+        "explanation": "«there's a radio on the fridge»."
+      }
+    ]
+  },
+  {
+    "id": "a1-r04",
+    "level": "A1",
+    "title": "At the Café",
+    "topic": "ordering-food",
+    "genre": "conversation",
+    "intro": "Sofía y su amigo Max piden algo en una cafetería.",
+    "paragraphs": [
+      {
+        "speaker": "Waiter",
+        "sentences": [
+          {
+            "en": "Good morning! What would you like?",
+            "es": "¡Buenos días! ¿Qué desean?",
+            "verbs": [
+              [
+                "would you like",
+                "would-like"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "speaker": "Sofía",
+        "sentences": [
+          {
+            "en": "Hi! I'd like a cappuccino and a croissant, please.",
+            "es": "¡Hola! Quisiera un capuchino y un cruasán, por favor.",
+            "verbs": [
+              [
+                "I'd like",
+                "would-like"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "speaker": "Waiter",
+        "sentences": [
+          {
+            "en": "Sure. And for you?",
+            "es": "Claro. ¿Y para ti?"
+          }
+        ]
+      },
+      {
+        "speaker": "Max",
+        "sentences": [
+          {
+            "en": "Can I have an orange juice and a cheese sandwich?",
+            "es": "¿Me da un jugo de naranja y un sándwich de queso?",
+            "verbs": [
+              [
+                "Can I have",
+                "modal-can"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "speaker": "Waiter",
+        "sentences": [
+          {
+            "en": "I'm sorry, we don't have cheese sandwiches today.",
+            "es": "Lo siento, hoy no tenemos sándwiches de queso.",
+            "verbs": [
+              [
+                "I'm",
+                "present-simple-be"
+              ],
+              [
+                "don't have",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "We have chicken or egg sandwiches.",
+            "es": "Tenemos sándwiches de pollo o de huevo.",
+            "verbs": [
+              [
+                "have",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "speaker": "Max",
+        "sentences": [
+          {
+            "en": "OK, a chicken sandwich, please.",
+            "es": "Bien, un sándwich de pollo, por favor."
+          }
+        ]
+      },
+      {
+        "speaker": "Sofía",
+        "sentences": [
+          {
+            "en": "How much is it?",
+            "es": "¿Cuánto es?",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "speaker": "Waiter",
+        "sentences": [
+          {
+            "en": "That's fourteen dollars and fifty cents.",
+            "es": "Son catorce dólares con cincuenta centavos.",
+            "verbs": [
+              [
+                "That's",
+                "present-simple-be"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "What would you like?",
+        "es": "¿Qué desean / qué te gustaría?"
+      },
+      {
+        "term": "I'd like",
+        "es": "quisiera"
+      },
+      {
+        "term": "Can I have…?",
+        "es": "¿Me da…? / ¿Puedo pedir…?"
+      },
+      {
+        "term": "How much is it?",
+        "es": "¿Cuánto es?"
+      },
+      {
+        "term": "Sure",
+        "es": "claro"
+      }
+    ],
+    "grammarFocus": [
+      "ordering-food",
+      "food-countable"
+    ],
+    "questions": [
+      {
+        "id": "a1-r04-q1",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What does Sofía order?",
+        "options": [
+          "A cappuccino and a croissant",
+          "An orange juice",
+          "A chicken sandwich",
+          "A tea and a cake"
+        ],
+        "answer": 0,
+        "explanation": "«I'd like a cappuccino and a croissant.»"
+      },
+      {
+        "id": "a1-r04-q2",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "The café has cheese sandwiches today.",
+        "answer": false,
+        "explanation": "«we don't have cheese sandwiches today»."
+      },
+      {
+        "id": "a1-r04-q3",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What sandwich does Max order?",
+        "options": [
+          "Chicken",
+          "Cheese",
+          "Egg",
+          "Tuna"
+        ],
+        "answer": 0,
+        "explanation": "«OK, a chicken sandwich, please.»"
+      },
+      {
+        "id": "a1-r04-q4",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "How much is it?",
+        "options": [
+          "$14.50",
+          "$40.50",
+          "$4.15",
+          "$15.40"
+        ],
+        "answer": 0,
+        "explanation": "«fourteen dollars and fifty cents» = $14.50."
+      },
+      {
+        "id": "a1-r04-q5",
+        "type": "multiple_choice",
+        "topic": "ordering-food",
+        "skill": "reading",
+        "difficulty": 2,
+        "question": "Which sentence is a polite way to order?",
+        "options": [
+          "I'd like a coffee, please.",
+          "Give me coffee.",
+          "I want coffee now.",
+          "Coffee!"
+        ],
+        "answer": 0,
+        "explanation": "I'd like… please es la forma cortés."
+      }
+    ]
+  },
+  {
+    "id": "a1-r05",
+    "level": "A1",
+    "title": "The Sunday Market",
+    "topic": "can-ability",
+    "genre": "informative",
+    "intro": "Información sobre un mercado de domingo en la ciudad.",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "en": "The Green Street Market is open every Sunday from eight in the morning to two in the afternoon.",
+            "es": "El mercado de Green Street abre todos los domingos de ocho de la mañana a dos de la tarde.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "It's in the park next to the train station.",
+            "es": "Está en el parque, al lado de la estación de tren.",
+            "verbs": [
+              [
+                "It's",
+                "present-simple-be"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "There are more than fifty stalls.",
+            "es": "Hay más de cincuenta puestos.",
+            "verbs": [
+              [
+                "There are",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "You can buy fresh fruit, vegetables, bread, cheese and flowers.",
+            "es": "Puedes comprar fruta fresca, verduras, pan, queso y flores.",
+            "verbs": [
+              [
+                "can buy",
+                "modal-can"
+              ]
+            ]
+          },
+          {
+            "en": "Some stalls sell old books and clothes.",
+            "es": "Algunos puestos venden libros viejos y ropa.",
+            "verbs": [
+              [
+                "sell",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "Food is cheap and very good.",
+            "es": "La comida es barata y muy buena.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "You can pay with cash or with a credit card.",
+            "es": "Puedes pagar en efectivo o con tarjeta de crédito.",
+            "verbs": [
+              [
+                "can pay",
+                "modal-can"
+              ]
+            ]
+          },
+          {
+            "en": "Dogs are welcome, but please don't leave rubbish in the park.",
+            "es": "Los perros son bienvenidos, pero, por favor, no dejes basura en el parque.",
+            "verbs": [
+              [
+                "are",
+                "present-simple-be"
+              ],
+              [
+                "don't leave",
+                "imperative"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "stall",
+        "es": "puesto (de mercado)"
+      },
+      {
+        "term": "fresh",
+        "es": "fresco"
+      },
+      {
+        "term": "cash",
+        "es": "efectivo"
+      },
+      {
+        "term": "welcome",
+        "es": "bienvenido"
+      },
+      {
+        "term": "rubbish",
+        "es": "basura (británico; en EE. UU.: trash)"
+      }
+    ],
+    "grammarFocus": [
+      "can-ability",
+      "there-is-are"
+    ],
+    "questions": [
+      {
+        "id": "a1-r05-q1",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "When is the market open?",
+        "options": [
+          "On Sundays",
+          "Every day",
+          "On Saturdays",
+          "From Monday to Friday"
+        ],
+        "answer": 0,
+        "explanation": "«open every Sunday»."
+      },
+      {
+        "id": "a1-r05-q2",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What time does it close?",
+        "options": [
+          "At 2 p.m.",
+          "At 8 a.m.",
+          "At 12 p.m.",
+          "At 8 p.m."
+        ],
+        "answer": 0,
+        "explanation": "«to two in the afternoon»."
+      },
+      {
+        "id": "a1-r05-q3",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "Where is the market?",
+        "options": [
+          "In a park next to the train station",
+          "In the train station",
+          "On Green Street, next to a school",
+          "Inside a shopping mall"
+        ],
+        "answer": 0,
+        "explanation": "«It's in the park next to the train station.»"
+      },
+      {
+        "id": "a1-r05-q4",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "You can only pay with cash.",
+        "answer": false,
+        "explanation": "«You can pay with cash or with a credit card.»"
+      },
+      {
+        "id": "a1-r05-q5",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "Dogs can come to the market.",
+        "answer": true,
+        "explanation": "«Dogs are welcome.»"
+      }
+    ]
+  },
+  {
+    "id": "a1-r06",
+    "level": "A1",
+    "title": "Meet the Robinsons",
+    "topic": "family-have-got",
+    "genre": "description",
+    "intro": "Emma describe a su familia en un trabajo de clase.",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "en": "There are five people in my family: my parents, my two brothers and me.",
+            "es": "Somos cinco en mi familia: mis padres, mis dos hermanos y yo.",
+            "verbs": [
+              [
+                "There are",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "My mother, Helen, is a teacher.",
+            "es": "Mi madre, Helen, es profesora.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "She's tall and she's got short blond hair.",
+            "es": "Es alta y tiene el pelo corto y rubio.",
+            "verbs": [
+              [
+                "She's",
+                "present-simple-be"
+              ],
+              [
+                "she's got",
+                "present-simple-have-got"
+              ]
+            ]
+          },
+          {
+            "en": "My father, Mark, is a police officer.",
+            "es": "Mi padre, Mark, es policía.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "He's very funny and he cooks dinner every day.",
+            "es": "Es muy gracioso y prepara la cena todos los días.",
+            "verbs": [
+              [
+                "He's",
+                "present-simple-be"
+              ],
+              [
+                "cooks",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "My brothers, Jack and Leo, are twins.",
+            "es": "Mis hermanos, Jack y Leo, son gemelos.",
+            "verbs": [
+              [
+                "are",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "They're ten years old.",
+            "es": "Tienen diez años.",
+            "verbs": [
+              [
+                "They're",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "They've got brown eyes and curly hair, and they love video games.",
+            "es": "Tienen los ojos marrones y el pelo rizado, y les encantan los videojuegos.",
+            "verbs": [
+              [
+                "They've got",
+                "present-simple-have-got"
+              ],
+              [
+                "love",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "I'm fourteen.",
+            "es": "Tengo catorce años.",
+            "verbs": [
+              [
+                "I'm",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "I haven't got any brothers or sisters of my age, but I've got a lot of cousins.",
+            "es": "No tengo hermanos de mi edad, pero tengo muchos primos.",
+            "verbs": [
+              [
+                "haven't got",
+                "present-simple-have-got"
+              ],
+              [
+                "I've got",
+                "present-simple-have-got"
+              ]
+            ]
+          },
+          {
+            "en": "My grandparents live near us and we visit them every Sunday.",
+            "es": "Mis abuelos viven cerca de nosotros y los visitamos todos los domingos.",
+            "verbs": [
+              [
+                "live",
+                "present-simple"
+              ],
+              [
+                "visit",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "twins",
+        "es": "gemelos"
+      },
+      {
+        "term": "curly hair",
+        "es": "pelo rizado"
+      },
+      {
+        "term": "blond",
+        "es": "rubio"
+      },
+      {
+        "term": "police officer",
+        "es": "policía"
+      },
+      {
+        "term": "of my age",
+        "es": "de mi edad"
+      }
+    ],
+    "grammarFocus": [
+      "family-have-got",
+      "describing-people"
+    ],
+    "questions": [
+      {
+        "id": "a1-r06-q1",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "How many people are there in Emma's family?",
+        "options": [
+          "Five",
+          "Four",
+          "Three",
+          "Six"
+        ],
+        "answer": 0,
+        "explanation": "«There are five people in my family.»"
+      },
+      {
+        "id": "a1-r06-q2",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What does Emma's father do?",
+        "options": [
+          "He's a police officer.",
+          "He's a teacher.",
+          "He's a cook.",
+          "He's a doctor."
+        ],
+        "answer": 0,
+        "explanation": "«My father, Mark, is a police officer.»"
+      },
+      {
+        "id": "a1-r06-q3",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What do Jack and Leo look like?",
+        "options": [
+          "They've got brown eyes and curly hair.",
+          "They've got blue eyes and short hair.",
+          "They're tall and blond.",
+          "They've got straight black hair."
+        ],
+        "answer": 0,
+        "explanation": "«They've got brown eyes and curly hair.»"
+      },
+      {
+        "id": "a1-r06-q4",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "Emma is ten years old.",
+        "answer": false,
+        "explanation": "Emma tiene catorce; los gemelos tienen diez."
+      },
+      {
+        "id": "a1-r06-q5",
+        "type": "fill_blank",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 2,
+        "text": "Emma visits her grandparents every ___.",
+        "blanks": [
+          {
+            "answers": [
+              "Sunday"
+            ]
+          }
+        ],
+        "explanation": "«we visit them every Sunday»."
+      }
+    ]
+  },
+  {
+    "id": "a1-r07",
+    "level": "A1",
+    "title": "City Library: Information",
+    "topic": "imperatives",
+    "genre": "informative",
+    "intro": "Cartel informativo en la entrada de una biblioteca.",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "en": "Welcome to the City Library!",
+            "es": "¡Bienvenidos a la Biblioteca Municipal!"
+          },
+          {
+            "en": "We are open from Monday to Saturday, 9 a.m. to 8 p.m.",
+            "es": "Abrimos de lunes a sábado, de 9 a. m. a 8 p. m.",
+            "verbs": [
+              [
+                "are",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "The library is closed on Sundays.",
+            "es": "La biblioteca cierra los domingos.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "You can borrow up to five books for three weeks.",
+            "es": "Puedes llevarte hasta cinco libros durante tres semanas.",
+            "verbs": [
+              [
+                "can borrow",
+                "modal-can"
+              ]
+            ]
+          },
+          {
+            "en": "The Wi-Fi is free: ask for the password at the information desk.",
+            "es": "El wifi es gratis: pide la contraseña en el mostrador de información.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ],
+              [
+                "ask",
+                "imperative"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "Please be quiet in the reading rooms.",
+            "es": "Por favor, guarda silencio en las salas de lectura.",
+            "verbs": [
+              [
+                "be",
+                "imperative"
+              ]
+            ]
+          },
+          {
+            "en": "Don't eat or drink near the computers.",
+            "es": "No comas ni bebas cerca de las computadoras.",
+            "verbs": [
+              [
+                "Don't eat",
+                "imperative"
+              ],
+              [
+                "drink",
+                "imperative"
+              ]
+            ]
+          },
+          {
+            "en": "Turn off the sound on your phone.",
+            "es": "Silencia tu teléfono.",
+            "verbs": [
+              [
+                "Turn off",
+                "imperative"
+              ]
+            ]
+          },
+          {
+            "en": "Enjoy your visit!",
+            "es": "¡Disfruta tu visita!",
+            "verbs": [
+              [
+                "Enjoy",
+                "imperative"
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "borrow",
+        "es": "tomar prestado"
+      },
+      {
+        "term": "up to",
+        "es": "hasta"
+      },
+      {
+        "term": "free",
+        "es": "gratis"
+      },
+      {
+        "term": "information desk",
+        "es": "mostrador de información"
+      },
+      {
+        "term": "quiet",
+        "es": "silencioso, en silencio"
+      },
+      {
+        "term": "turn off",
+        "es": "apagar"
+      }
+    ],
+    "grammarFocus": [
+      "imperatives",
+      "can-ability"
+    ],
+    "questions": [
+      {
+        "id": "a1-r07-q1",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "The library is open on Sundays.",
+        "answer": false,
+        "explanation": "«The library is closed on Sundays.»"
+      },
+      {
+        "id": "a1-r07-q2",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "How many books can you borrow?",
+        "options": [
+          "Up to five",
+          "Three",
+          "Up to ten",
+          "One"
+        ],
+        "answer": 0,
+        "explanation": "«You can borrow up to five books.»"
+      },
+      {
+        "id": "a1-r07-q3",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "Where can you get the Wi-Fi password?",
+        "options": [
+          "At the information desk",
+          "In the reading rooms",
+          "Near the computers",
+          "On the website"
+        ],
+        "answer": 0,
+        "explanation": "«ask for the password at the information desk»."
+      },
+      {
+        "id": "a1-r07-q4",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What is NOT allowed near the computers?",
+        "options": [
+          "Eating and drinking",
+          "Reading",
+          "Using the Wi-Fi",
+          "Asking questions"
+        ],
+        "answer": 0,
+        "explanation": "«Don't eat or drink near the computers.»"
+      },
+      {
+        "id": "a1-r07-q5",
+        "type": "multiple_choice",
+        "topic": "imperatives",
+        "skill": "reading",
+        "difficulty": 2,
+        "question": "«Be quiet» means…",
+        "options": [
+          "Guarda silencio",
+          "Sé rápido",
+          "Estate tranquilo con el teléfono",
+          "Ven pronto"
+        ],
+        "answer": 0,
+        "explanation": "quiet = silencioso: «guarda silencio»."
+      }
+    ]
+  },
+  {
+    "id": "a1-r08",
+    "level": "A1",
+    "title": "An Email from Kenji",
+    "topic": "ps-wh-questions",
+    "genre": "message",
+    "intro": "Kenji, un estudiante japonés, escribe a su nueva familia de acogida en Canadá.",
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "en": "Dear Mr. and Mrs. Taylor,",
+            "es": "Estimados señor y señora Taylor:"
+          },
+          {
+            "en": "My name is Kenji Sato and I'm your new exchange student.",
+            "es": "Me llamo Kenji Sato y soy su nuevo estudiante de intercambio.",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ],
+              [
+                "I'm",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "I'm seventeen and I'm from Osaka, in Japan.",
+            "es": "Tengo diecisiete años y soy de Osaka, en Japón.",
+            "verbs": [
+              [
+                "I'm",
+                "present-simple-be"
+              ],
+              [
+                "I'm",
+                "present-simple-be"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "I like sports, especially basketball and swimming.",
+            "es": "Me gustan los deportes, especialmente el baloncesto y la natación.",
+            "verbs": [
+              [
+                "like",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "I can cook some Japanese dishes, so I can make dinner for you!",
+            "es": "Sé cocinar algunos platos japoneses, ¡así que puedo hacerles la cena!",
+            "verbs": [
+              [
+                "can cook",
+                "modal-can"
+              ],
+              [
+                "can make",
+                "modal-can"
+              ]
+            ]
+          },
+          {
+            "en": "I don't eat pork, but I eat fish and chicken.",
+            "es": "No como cerdo, pero como pescado y pollo.",
+            "verbs": [
+              [
+                "don't eat",
+                "present-simple"
+              ],
+              [
+                "eat",
+                "present-simple"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "I have some questions.",
+            "es": "Tengo algunas preguntas.",
+            "verbs": [
+              [
+                "have",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "What time do you have breakfast?",
+            "es": "¿A qué hora desayunan?",
+            "verbs": [
+              [
+                "do you have",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "Do you have any pets?",
+            "es": "¿Tienen mascotas?",
+            "verbs": [
+              [
+                "Do you have",
+                "present-simple"
+              ]
+            ]
+          },
+          {
+            "en": "How far is the school from your house?",
+            "es": "¿A qué distancia está la escuela de su casa?",
+            "verbs": [
+              [
+                "is",
+                "present-simple-be"
+              ]
+            ]
+          },
+          {
+            "en": "See you in September!",
+            "es": "¡Nos vemos en septiembre!",
+            "verbs": [
+              [
+                "See",
+                "imperative"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "en": "Best wishes, Kenji",
+            "es": "Un saludo, Kenji"
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "exchange student",
+        "es": "estudiante de intercambio"
+      },
+      {
+        "term": "especially",
+        "es": "especialmente"
+      },
+      {
+        "term": "dishes",
+        "es": "platos (comidas)"
+      },
+      {
+        "term": "pork",
+        "es": "carne de cerdo"
+      },
+      {
+        "term": "pets",
+        "es": "mascotas"
+      },
+      {
+        "term": "How far…?",
+        "es": "¿A qué distancia…?"
+      },
+      {
+        "term": "Best wishes",
+        "es": "un saludo (despedida)"
+      }
+    ],
+    "grammarFocus": [
+      "ps-wh-questions",
+      "can-ability"
+    ],
+    "questions": [
+      {
+        "id": "a1-r08-q1",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "Where is Kenji from?",
+        "options": [
+          "Osaka, Japan",
+          "Tokyo, Japan",
+          "Canada",
+          "Osaka, China"
+        ],
+        "answer": 0,
+        "explanation": "«I'm from Osaka, in Japan.»"
+      },
+      {
+        "id": "a1-r08-q2",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "What sports does Kenji like?",
+        "options": [
+          "Basketball and swimming",
+          "Soccer and tennis",
+          "Baseball",
+          "Running and cycling"
+        ],
+        "answer": 0,
+        "explanation": "«especially basketball and swimming»."
+      },
+      {
+        "id": "a1-r08-q3",
+        "type": "true_false",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "statement": "Kenji eats pork.",
+        "answer": false,
+        "explanation": "«I don't eat pork.»"
+      },
+      {
+        "id": "a1-r08-q4",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 1,
+        "question": "Which question does Kenji ask?",
+        "options": [
+          "Do you have any pets?",
+          "Do you have a car?",
+          "Where do you work?",
+          "How old are your children?"
+        ],
+        "answer": 0,
+        "explanation": "Pregunta «Do you have any pets?»."
+      },
+      {
+        "id": "a1-r08-q5",
+        "type": "multiple_choice",
+        "topic": "reading-detail",
+        "skill": "reading",
+        "difficulty": 2,
+        "question": "«How far is the school from your house?» asks about…",
+        "options": [
+          "the distance",
+          "the time of classes",
+          "the price",
+          "the teachers"
+        ],
+        "answer": 0,
+        "explanation": "How far = a qué distancia."
+      }
+    ]
+  }
+]

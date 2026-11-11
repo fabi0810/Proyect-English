@@ -1,0 +1,219 @@
+{
+"id": "a1-04",
+"level": "A1",
+"title": "Numbers, Dates and Time",
+"titleEs": "Números, fechas y hora",
+"description": "Números hasta el millón, precios y años; números ordinales, días, meses y fechas; y cómo decir la hora en inglés americano y británico.",
+"objectives": [
+  "Decir y entender números grandes, precios y años.",
+  "Usar los números ordinales para decir fechas.",
+  "Nombrar los días y los meses con la preposición correcta (on Monday, in May).",
+  "Preguntar y decir la hora de varias formas."
+],
+"vocabularyCategories": ["basics"],
+"lessons": [
+{
+  "id": "a1-04-l1",
+  "title": "Big Numbers, Prices and Years",
+  "titleEs": "Números grandes, precios y años",
+  "objective": "Leer y escribir números del 21 al 1 000 000, precios y años.",
+  "learn": ["Las decenas y los números compuestos (twenty-one).", "Hundred, thousand y million.", "Cómo se dicen los precios y los años."],
+  "why": "Los números están en precios, direcciones, teléfonos, años y cantidades. Confundir fourteen (14) y forty (40) puede costarte dinero.",
+  "theory": [
+    {"type": "table", "title": "Las decenas", "headers": ["Número", "Inglés", "Ojo"], "rows": [
+      ["20", "twenty", ""], ["30", "thirty", "three → thir-"], ["40", "forty", "¡sin u! (four → forty)"], ["50", "fifty", "five → fif-"], ["60", "sixty", ""], ["70", "seventy", ""], ["80", "eighty", "una sola t"], ["90", "ninety", "conserva la e"]
+    ]},
+    {"type": "rule", "title": "Números compuestos", "formula": "decena + guion + unidad", "body": "`21` twenty-one · `35` thirty-five · `99` ninety-nine.\nEl guion (-) es obligatorio al escribir con letras."},
+    {"type": "table", "title": "Cientos, miles y millones", "headers": ["Número", "Inglés"], "rows": [
+      ["100", "one hundred / a hundred"], ["105", "one hundred (and) five"], ["250", "two hundred (and) fifty"], ["1,000", "one thousand / a thousand"], ["2,500", "two thousand five hundred"], ["1,000,000", "one million / a million"]
+    ], "caption": "En inglés británico se dice «and» después de hundred (one hundred and five); en el americano es opcional."},
+    {"type": "exception", "title": "Hundred, thousand y million no llevan -s con un número", "body": "**two hundred** (no «two hundreds»), **three thousand**, **five million**. Solo llevan -s cuando no hay número delante: *hundreds of people* (cientos de personas)."},
+    {"type": "warning", "title": "Comas y puntos al revés", "body": "En inglés la **coma separa los miles** (1,500) y el **punto separa los decimales** (2.5 = two point five). Muchos países hispanohablantes lo hacen al revés."},
+    {"type": "table", "title": "Precios y años", "headers": ["Escrito", "Se dice"], "rows": [
+      ["$12.50", "twelve dollars and fifty cents / twelve fifty"], ["$3.99", "three ninety-nine"], ["1998", "nineteen ninety-eight"], ["2008", "two thousand eight"], ["2025", "twenty twenty-five (o two thousand twenty-five)"]
+    ], "caption": "Los años se dicen normalmente en dos bloques de dos cifras: 19 | 98."},
+    {"type": "tip", "title": "-teen o -ty: escucha el acento", "body": "thir**TEEN** (13) lleva el acento al final; **THIR**ty (30), al principio. Además, -teen tiene una /n/ al final: fourteen /ˌfɔːrˈtiːn/ ≠ forty /ˈfɔːrti/."}
+  ],
+  "guided": [
+    {"id": "a1-04-l1-g1", "type": "matching", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 1, "pairs": [["forty", "40"], ["fourteen", "14"], ["fifty", "50"], ["fifteen", "15"], ["ninety", "90"]], "explanation": "-teen = 13–19; -ty = decenas."},
+    {"id": "a1-04-l1-g2", "type": "multiple_choice", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 1, "question": "¿Cómo se escribe 40?", "options": ["forty", {"text": "fourty", "why": "Four pierde la u en forty.", "error": "number-form"}, {"text": "fourteen", "why": "Fourteen es 14.", "error": "number-form"}, {"text": "forteen", "why": "No existe; 14 es fourteen y 40 es forty.", "error": "number-form"}], "answer": 0, "errorTag": "number-form", "explanation": "40 = forty (sin u)."},
+    {"id": "a1-04-l1-g3", "type": "fill_blank", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 1, "text": "67 = sixty-___", "blanks": [{"answers": ["seven"]}], "explanation": "Decena + guion + unidad: sixty-seven."},
+    {"id": "a1-04-l1-g4", "type": "multiple_choice", "topic": "numbers-big", "skill": "listening", "difficulty": 2, "audio": "thirteen", "hideText": true, "question": "Escucha. ¿Qué número es?", "options": ["13", {"text": "30", "why": "Thirty lleva el acento al principio y no termina en /n/."}, {"text": "3", "why": "Three es 3."}, {"text": "33", "why": "33 es thirty-three."}], "answer": 0, "explanation": "thirTEEN (13): acento al final y /n/ final."},
+    {"id": "a1-04-l1-g5", "type": "true_false", "topic": "numbers-big", "skill": "comprehension", "difficulty": 1, "statement": "Se dice «two hundred», no «two hundreds».", "answer": true, "explanation": "Verdadero: con un número delante, hundred no lleva -s."}
+  ],
+  "independent": [
+    {"id": "a1-04-l1-i1", "type": "translation", "direction": "es-en", "unit": "word", "topic": "numbers-big", "skill": "translation", "difficulty": 2, "prompt": "Escribe el número en letras (en inglés).", "source": "85", "answers": ["eighty-five", "eighty five"], "explanation": "85 = eighty-five."},
+    {"id": "a1-04-l1-i2", "type": "multiple_choice", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 2, "question": "¿Cómo se dice el año 1995?", "options": ["nineteen ninety-five", {"text": "one thousand nine hundred ninety-five", "why": "Es posible pero muy poco natural; los años se dicen en dos bloques: 19 | 95."}, {"text": "nineteen nine five", "why": "Se agrupan de dos en dos: nineteen | ninety-five."}, {"text": "nineteen hundred ninety-five", "why": "La forma habitual es nineteen ninety-five."}], "answer": 0, "explanation": "Años: dos bloques de dos cifras."},
+    {"id": "a1-04-l1-i3", "type": "dictation", "topic": "numbers-big", "skill": "listening", "difficulty": 2, "prompt": "Escucha el precio y escríbelo con cifras (por ejemplo, 9.99).", "text": "It's twenty-four ninety-nine.", "answers": ["24.99", "$24.99", "24,99", "It's 24.99", "It's $24.99"], "explanation": "twenty-four ninety-nine = $24.99."},
+    {"id": "a1-04-l1-i4", "type": "error_correction", "topic": "numbers-big", "skill": "grammar", "difficulty": 2, "sentence": "There are three hundreds students in my school.", "answers": ["There are three hundred students in my school."], "errorTag": "number-form", "explanation": "Con un número delante, hundred no lleva -s: three hundred."},
+    {"id": "a1-04-l1-i5", "type": "fill_blank", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 2, "text": "2,000 = two ___", "blanks": [{"answers": ["thousand"], "feedback": {"thousands": "@number-form|Sin -s: two thousand."}}], "explanation": "two thousand."},
+    {"id": "a1-04-l1-i6", "type": "multiple_choice", "topic": "numbers-big", "skill": "comprehension", "difficulty": 2, "question": "En un texto en inglés lees «1,500». ¿Qué número es?", "options": ["Mil quinientos", {"text": "Uno coma cinco", "why": "En inglés la coma separa miles, no decimales."}, {"text": "Ciento cincuenta", "why": "Serían 150."}, {"text": "Quince mil", "why": "Serían 15,000."}], "answer": 0, "explanation": "La coma separa los miles: 1,500 = one thousand five hundred."},
+    {"id": "a1-04-l1-i7", "type": "word_order", "topic": "numbers-big", "skill": "construction", "difficulty": 1, "tokens": ["the", "ticket", "is", "fifty", "dollars"], "clue": "El boleto cuesta cincuenta dólares.", "explanation": "The ticket is fifty dollars."}
+  ],
+  "summary": [
+    "Decenas: twenty, thirty, forty (sin u), fifty, sixty, seventy, eighty, ninety.",
+    "Compuestos con guion: twenty-one, ninety-nine.",
+    "two hundred, three thousand, five million: sin -s.",
+    "Coma para miles (1,500) y punto para decimales (2.5).",
+    "Años en dos bloques: nineteen ninety-eight; precios: twelve fifty."
+  ],
+  "quiz": [
+    {"id": "a1-04-l1-q1", "type": "multiple_choice", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 1, "question": "¿Qué número es «seventy-two»?", "options": ["72", {"text": "27", "why": "27 es twenty-seven."}, {"text": "702", "why": "702 es seven hundred (and) two."}, {"text": "17", "why": "17 es seventeen."}], "answer": 0, "explanation": "seventy (70) + two (2) = 72."},
+    {"id": "a1-04-l1-q2", "type": "fill_blank", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 2, "text": "50 = ___", "blanks": [{"answers": ["fifty"], "feedback": {"fivety": "@number-form|Five cambia a fif-: fifty.", "fiveteen": "@number-form"}}], "explanation": "50 = fifty."},
+    {"id": "a1-04-l1-q3", "type": "multiple_choice", "topic": "numbers-big", "skill": "listening", "difficulty": 2, "audio": "forty", "hideText": true, "question": "Escucha. ¿Qué número es?", "options": ["40", {"text": "14", "why": "Fourteen lleva el acento al final y termina en /n/."}, {"text": "4", "why": "Four es 4."}, {"text": "44", "why": "44 es forty-four."}], "answer": 0, "explanation": "FORty (40): acento al principio."},
+    {"id": "a1-04-l1-q4", "type": "translation", "direction": "es-en", "unit": "word", "topic": "numbers-big", "skill": "translation", "difficulty": 2, "prompt": "Escribe el número en letras (en inglés).", "source": "320", "answers": ["three hundred [and] twenty"], "explanation": "320 = three hundred (and) twenty."},
+    {"id": "a1-04-l1-q5", "type": "error_identification", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 2, "segments": ["My grandfather", "is", "fourty-two", "years old."], "errorIndex": 2, "correction": ["forty-two", "forty two"], "errorTag": "number-form", "explanation": "40 = forty (sin u): forty-two."},
+    {"id": "a1-04-l1-q6", "type": "multiple_choice", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 2, "question": "¿Cómo se dice $8.75?", "options": ["eight seventy-five", {"text": "eight point seventy-five dollars", "why": "Los precios no se leen con point."}, {"text": "eighty seventy-five", "why": "Son 8 dólares (eight), no 80 (eighty)."}, {"text": "eight dollars seventy-five cent", "why": "Se diría eight dollars and seventy-five cents (con -s)."}], "answer": 0, "explanation": "Precios: eight seventy-five (o eight dollars and seventy-five cents)."},
+    {"id": "a1-04-l1-q7", "type": "dictation", "topic": "numbers-big", "skill": "listening", "difficulty": 2, "prompt": "Escucha el año y escríbelo con cifras.", "text": "nineteen eighty-six", "answers": ["1986"], "explanation": "nineteen eighty-six = 1986."},
+    {"id": "a1-04-l1-q8", "type": "fill_blank", "topic": "numbers-big", "skill": "grammar", "difficulty": 2, "text": "The city has two ___ people. (2,000,000)", "blanks": [{"answers": ["million"], "feedback": {"millions": "@number-form|Con un número delante: two million."}}], "explanation": "two million (sin -s)."},
+    {"id": "a1-04-l1-q9", "type": "matching", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 2, "pairs": [["2008", "two thousand eight"], ["1999", "nineteen ninety-nine"], ["$15.20", "fifteen twenty"], ["150", "a hundred and fifty"]], "explanation": "Años en bloques, precios por partes, cientos con hundred."},
+    {"id": "a1-04-l1-q10", "type": "true_false", "topic": "numbers-big", "skill": "comprehension", "difficulty": 1, "statement": "En inglés, 2.5 se lee «two point five».", "answer": true, "explanation": "Verdadero: el punto decimal se lee point."}
+  ]
+},
+{
+  "id": "a1-04-l2",
+  "title": "Ordinal Numbers, Days, Months and Dates",
+  "titleEs": "Ordinales, días, meses y fechas",
+  "objective": "Decir fechas con números ordinales y las preposiciones correctas.",
+  "learn": ["Los números ordinales (first, second, third…) y su ortografía.", "Días y meses con mayúscula.", "Cómo decir y escribir fechas, y las preposiciones on, in y at."],
+  "why": "Citas, cumpleaños, viajes, formularios: las fechas están en todas partes. Y en inglés se dicen con ordinales, a diferencia del español.",
+  "theory": [
+    {"type": "table", "title": "Números ordinales", "headers": ["Número", "Ordinal", "Abreviatura"], "rows": [
+      ["1", "first", "1st"], ["2", "second", "2nd"], ["3", "third", "3rd"], ["4", "fourth", "4th"], ["5", "fifth", "5th"], ["8", "eighth", "8th"], ["9", "ninth", "9th"], ["12", "twelfth", "12th"], ["20", "twentieth", "20th"], ["21", "twenty-first", "21st"], ["22", "twenty-second", "22nd"], ["31", "thirty-first", "31st"]
+    ], "caption": "Regla general: número + -th (sixth, seventh, tenth). Irregulares: first, second, third."},
+    {"type": "exception", "title": "Ortografía especial", "body": "five → **fifth** · nine → **ninth** (sin e) · twelve → **twelfth** · eight → **eighth** (una t) · twenty → **twentieth** (y → ie)."},
+    {"type": "text", "title": "Días y meses", "body": "Los días (Monday…Sunday) y los meses (January…December) **siempre llevan mayúscula** en inglés.\nLa semana suele empezar el domingo en el calendario estadounidense."},
+    {"type": "table", "title": "Cómo se dicen las fechas", "headers": ["Escrito", "Inglés americano", "Inglés británico"], "rows": [
+      ["5/12 (EE. UU.: mayo 12)", "May twelfth", "—"], ["12/5 (R. U.: 12 de mayo)", "—", "the twelfth of May"], ["July 4th", "July fourth", "the fourth of July"]
+    ], "caption": "¡Cuidado! En EE. UU. 5/12 es 12 de mayo (mes/día). En el Reino Unido y en Latinoamérica es 5 de diciembre."},
+    {"type": "rule", "title": "Preposiciones de tiempo (básico)", "formula": "on + día / fecha · in + mes / año / estación · at + hora", "body": "`on Monday` · `on May 12th` · `on my birthday`\n`in May` · `in 2025` · `in summer` · `in the morning`\n`at 7 o'clock` · `at night` · `at the weekend` (británico)\nEn el módulo de A2 se estudian todos los casos y excepciones."},
+    {"type": "compare", "items": [
+      {"wrong": "My birthday is in May 12.", "right": "My birthday is on May 12th.", "why": "Con una fecha concreta se usa **on**, y la fecha se dice con ordinal."},
+      {"wrong": "I have class on monday.", "right": "I have class on Monday.", "why": "Los días llevan mayúscula."},
+      {"wrong": "the fiveth of June", "right": "the fifth of June", "why": "five → **fifth**."}
+    ]},
+    {"type": "examples", "items": [
+      {"en": "What's the date today? — It's March third.", "es": "¿Qué fecha es hoy? — Es 3 de marzo."},
+      {"en": "When is your birthday? — It's on October 21st.", "es": "¿Cuándo es tu cumpleaños? — Es el 21 de octubre."},
+      {"en": "I was born in 1998.", "es": "Nací en 1998."}
+    ]}
+  ],
+  "guided": [
+    {"id": "a1-04-l2-g1", "type": "matching", "topic": "dates-ordinals", "skill": "vocabulary", "difficulty": 1, "pairs": [["1st", "first"], ["2nd", "second"], ["3rd", "third"], ["5th", "fifth"], ["9th", "ninth"]], "explanation": "Ordinales irregulares: first, second, third; ortografía especial: fifth, ninth."},
+    {"id": "a1-04-l2-g2", "type": "multiple_choice", "topic": "dates-ordinals", "skill": "grammar", "difficulty": 1, "question": "I have English class ___ Monday.", "options": ["on", {"text": "in", "why": "In se usa con meses, años y estaciones.", "error": "preposition-time"}, {"text": "at", "why": "At se usa con horas.", "error": "preposition-time"}, {"text": "the", "why": "Falta la preposición: on Monday.", "error": "preposition-time"}], "answer": 0, "explanation": "Días de la semana → on."},
+    {"id": "a1-04-l2-g3", "type": "fill_blank", "topic": "dates-ordinals", "skill": "vocabulary", "difficulty": 1, "text": "12th = ___", "blanks": [{"answers": ["twelfth"], "feedback": {"twelveth": "@number-form|twelve → twelfth.", "twelvth": "@number-form|Se escribe twelfth."}}], "explanation": "twelve → twelfth."},
+    {"id": "a1-04-l2-g4", "type": "multiple_choice", "topic": "dates-ordinals", "skill": "grammar", "difficulty": 1, "question": "We go to the beach ___ July.", "options": ["in", {"text": "on", "why": "On va con días y fechas concretas.", "error": "preposition-time"}, {"text": "at", "why": "At va con horas.", "error": "preposition-time"}, {"text": "to", "why": "No es una preposición de tiempo.", "error": "preposition-time"}], "answer": 0, "explanation": "Meses → in: in July."}
+  ],
+  "independent": [
+    {"id": "a1-04-l2-i1", "type": "error_correction", "topic": "dates-ordinals", "skill": "grammar", "difficulty": 2, "sentence": "My birthday is in March 3.", "answers": ["My birthday is on March 3rd.", "My birthday is on March third.", "My birthday is on the third of March.", "My birthday is on 3rd March.", "My birthday is on March 3."], "errorTag": "preposition-time", "explanation": "Fecha concreta → on: on March 3rd."},
+    {"id": "a1-04-l2-i2", "type": "multiple_choice", "topic": "dates-ordinals", "skill": "comprehension", "difficulty": 3, "question": "Un formulario de EE. UU. dice: «Date of birth: 04/10/1990». ¿Cuál es la fecha?", "options": ["10 de abril de 1990", {"text": "4 de octubre de 1990", "why": "En EE. UU. el orden es mes/día/año."}, {"text": "4 de enero de 1990", "why": "04 es el mes (abril)."}, {"text": "10 de enero de 1990", "why": "04 es abril."}], "answer": 0, "explanation": "En EE. UU.: mes/día/año → April 10th, 1990."},
+    {"id": "a1-04-l2-i3", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "dates-ordinals", "skill": "translation", "difficulty": 2, "source": "Mi cumpleaños es el 2 de junio.", "answers": ["My birthday is on {June {2nd|second}|the second of June|2nd June}.", "My birthday is {June {2nd|second}|the second of June}."], "keyConcepts": [["birthday"], ["june"], ["second", "2nd"]], "notes": "En inglés la fecha se dice con ordinal: June **second** (2nd).", "explanation": "My birthday is on June 2nd (June second)."},
+    {"id": "a1-04-l2-i4", "type": "fill_blank", "topic": "prepositions-time-basic", "skill": "grammar", "difficulty": 2, "text": "The concert is ___ Saturday ___ 8 o'clock.", "blanks": [{"answers": ["on"], "feedback": {"in": "@preposition-time", "at": "@preposition-time"}}, {"answers": ["at"], "feedback": {"in": "@preposition-time", "on": "@preposition-time"}}], "explanation": "on + día; at + hora."},
+    {"id": "a1-04-l2-i5", "type": "multiple_choice", "topic": "dates-ordinals", "skill": "vocabulary", "difficulty": 2, "question": "¿Qué día va después de Wednesday?", "options": ["Thursday", {"text": "Tuesday", "why": "Tuesday (martes) va antes de Wednesday."}, {"text": "Friday", "why": "Friday es viernes."}, {"text": "Monday", "why": "Monday es lunes."}], "answer": 0, "explanation": "Wednesday (miércoles) → Thursday (jueves)."},
+    {"id": "a1-04-l2-i6", "type": "dictation", "topic": "dates-ordinals", "skill": "listening", "difficulty": 2, "text": "The meeting is on Tuesday, November twenty-first.", "answers": ["The meeting is on Tuesday, November 21st.", "The meeting is on Tuesday November 21st."], "explanation": "Tuesday, November twenty-first (21st)."},
+    {"id": "a1-04-l2-i7", "type": "word_order", "topic": "dates-ordinals", "skill": "construction", "difficulty": 2, "tokens": ["what's", "the", "date", "today"], "punctuation": "?", "clue": "¿Qué fecha es hoy?", "explanation": "What's the date today?"}
+  ],
+  "summary": [
+    "Ordinales: first, second, third, fourth… ojo con fifth, ninth, twelfth, twentieth.",
+    "Las fechas se dicen con ordinales: May twelfth / the twelfth of May.",
+    "EE. UU. escribe mes/día (5/12 = 12 de mayo).",
+    "on + día o fecha, in + mes/año/estación, at + hora.",
+    "Días y meses siempre con mayúscula."
+  ],
+  "quiz": [
+    {"id": "a1-04-l2-q1", "type": "fill_blank", "topic": "dates-ordinals", "skill": "vocabulary", "difficulty": 1, "text": "3rd = ___", "blanks": [{"answers": ["third"], "feedback": {"threeth": "@number-form|3rd = third (irregular)."}}], "explanation": "third es irregular."},
+    {"id": "a1-04-l2-q2", "type": "multiple_choice", "topic": "prepositions-time-basic", "skill": "grammar", "difficulty": 1, "question": "I was born ___ 2001.", "options": ["in", {"text": "on", "why": "On va con días y fechas.", "error": "preposition-time"}, {"text": "at", "why": "At va con horas.", "error": "preposition-time"}, {"text": "of", "why": "No se usa con años.", "error": "preposition-time"}], "answer": 0, "explanation": "Años → in."},
+    {"id": "a1-04-l2-q3", "type": "error_identification", "topic": "dates-ordinals", "skill": "grammar", "difficulty": 2, "segments": ["The party", "is on", "the fiveth", "of June."], "errorIndex": 2, "correction": ["the fifth"], "errorTag": "number-form", "explanation": "five → fifth."},
+    {"id": "a1-04-l2-q4", "type": "multiple_choice", "topic": "prepositions-time-basic", "skill": "grammar", "difficulty": 2, "question": "Elige la opción correcta:", "options": ["on Friday", {"text": "in Friday", "why": "Los días van con on.", "error": "preposition-time"}, {"text": "at Friday", "why": "Los días van con on.", "error": "preposition-time"}, {"text": "on friday", "why": "Friday lleva mayúscula.", "error": "capital-letters"}], "answer": 0, "explanation": "on Friday (con mayúscula)."},
+    {"id": "a1-04-l2-q5", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "prepositions-time-basic", "skill": "translation", "difficulty": 2, "source": "Vamos a Cartagena en diciembre.", "answers": ["We go to Cartagena in December.", "We're going to Cartagena in December.", "We are going to Cartagena in December."], "keyConcepts": [["cartagena"], ["in december"]], "notes": "Mes → **in** December (con mayúscula).", "explanation": "We go to Cartagena in December."},
+    {"id": "a1-04-l2-q6", "type": "matching", "topic": "dates-ordinals", "skill": "vocabulary", "difficulty": 2, "pairs": [["20th", "twentieth"], ["8th", "eighth"], ["21st", "twenty-first"], ["31st", "thirty-first"]], "explanation": "twenty → twentieth; eight → eighth; 21 → twenty-first."},
+    {"id": "a1-04-l2-q7", "type": "multiple_choice", "topic": "dates-ordinals", "skill": "listening", "difficulty": 2, "audio": "My appointment is on the thirteenth of September.", "hideText": true, "question": "Escucha. ¿Cuándo es la cita?", "options": ["13 de septiembre", "30 de septiembre", "3 de septiembre", "13 de diciembre"], "answer": 0, "explanation": "the thirteenth of September = 13 de septiembre."},
+    {"id": "a1-04-l2-q8", "type": "fill_blank", "topic": "prepositions-time-basic", "skill": "grammar", "difficulty": 2, "text": "I study ___ the morning and work ___ night.", "blanks": [{"answers": ["in"], "feedback": {"on": "@preposition-time", "at": "@preposition-time"}}, {"answers": ["at"], "feedback": {"in": "@preposition-time|Excepción: at night."}}], "explanation": "in the morning; at night (excepción)."},
+    {"id": "a1-04-l2-q9", "type": "true_false", "topic": "dates-ordinals", "skill": "comprehension", "difficulty": 1, "statement": "En inglés los meses se escriben con minúscula: «january».", "answer": false, "errorTag": "capital-letters", "explanation": "Falso: los meses llevan mayúscula (January)."},
+    {"id": "a1-04-l2-q10", "type": "sentence_building", "topic": "dates-ordinals", "skill": "construction", "difficulty": 2, "cue": "today / Friday / April 10th", "clue": "Di que hoy es viernes 10 de abril.", "answers": ["Today is Friday, April {10th|tenth}.", "{It's|It is} Friday, April {10th|tenth}.", "Today is Friday, the {10th|tenth} of April.", "{It's|It is} Friday, the {10th|tenth} of April."], "explanation": "Today is Friday, April 10th."}
+  ]
+},
+{
+  "id": "a1-04-l3",
+  "title": "Telling the Time",
+  "titleEs": "Decir la hora",
+  "objective": "Preguntar y decir la hora de forma digital y tradicional.",
+  "learn": ["What time is it? / It's…", "o'clock, half past, quarter past/to, past y to.", "La forma digital (seven thirty) y a. m. / p. m."],
+  "why": "Quedar con alguien, entender un horario o un anuncio en el aeropuerto: la hora es imprescindible.",
+  "theory": [
+    {"type": "rule", "title": "Preguntar y responder", "formula": "What time is it? → It's + hora", "body": "`What time is it?` (¿Qué hora es?) → `It's ten o'clock.`\nTambién: `Do you have the time?` (más cortés)."},
+    {"type": "table", "title": "Forma tradicional", "headers": ["Hora", "Se dice", "Idea"], "rows": [
+      ["7:00", "seven o'clock", "en punto"], ["7:05", "five past seven", "past = y (pasados)"], ["7:15", "quarter past seven", "y cuarto"], ["7:30", "half past seven", "y media"], ["7:40", "twenty to eight", "to = menos (para las 8)"], ["7:45", "quarter to eight", "menos cuarto"]
+    ], "caption": "Primero los minutos y luego la hora. En inglés americano también se dice «quarter after seven» y «quarter of eight»."},
+    {"type": "table", "title": "Forma digital (muy usada en EE. UU.)", "headers": ["Hora", "Se dice"], "rows": [
+      ["7:15", "seven fifteen"], ["7:30", "seven thirty"], ["7:45", "seven forty-five"], ["10:05", "ten oh five"]
+    ]},
+    {"type": "text", "title": "a. m. y p. m.", "body": "**a.m.** = de medianoche a mediodía (7 a.m. = 7 de la mañana). **p.m.** = de mediodía a medianoche (7 p.m. = 7 de la tarde/noche). En inglés no se suele usar el formato de 24 horas al hablar: 19:00 = seven p.m. **noon** = mediodía, **midnight** = medianoche."},
+    {"type": "compare", "items": [
+      {"wrong": "It's seven and half.", "right": "It's half past seven. / It's seven thirty.", "why": "Traducción literal de «siete y media». En inglés: **half past** + hora."},
+      {"wrong": "It's eight less quarter.", "right": "It's quarter to eight.", "why": "«Menos» = **to**: quarter to eight (7:45)."},
+      {"wrong": "Are the five.", "right": "It's five o'clock.", "why": "La hora se dice con **it's** (sujeto it)."}
+    ]},
+    {"type": "warning", "title": "«Half past» no es «media para»", "body": "**Half past seven** son las 7:30, no las 6:30. En alemán u otros idiomas funciona distinto; en inglés siempre es «media hora después de» la hora que se nombra."},
+    {"type": "examples", "items": [
+      {"en": "The class starts at nine o'clock.", "es": "La clase empieza a las nueve en punto."},
+      {"en": "The train leaves at 6:45 p.m.", "es": "El tren sale a las 6:45 de la tarde."},
+      {"en": "Let's meet at noon.", "es": "Quedemos al mediodía."}
+    ]}
+  ],
+  "guided": [
+    {"id": "a1-04-l3-g1", "type": "multiple_choice", "topic": "telling-time", "skill": "vocabulary", "difficulty": 1, "question": "8:30 →", "options": ["half past eight", {"text": "half past nine", "why": "Half past nine son las 9:30.", "error": "time-telling"}, {"text": "half to eight", "why": "No se dice así; las 7:30 serían half past seven.", "error": "time-telling"}, {"text": "eight and half", "why": "Traducción literal; en inglés: half past eight.", "error": "time-telling"}], "answer": 0, "explanation": "8:30 = half past eight (o eight thirty)."},
+    {"id": "a1-04-l3-g2", "type": "matching", "topic": "telling-time", "skill": "vocabulary", "difficulty": 1, "pairs": [["3:00", "three o'clock"], ["3:15", "quarter past three"], ["3:45", "quarter to four"], ["3:10", "ten past three"]], "explanation": "past = después de la hora; to = antes de la hora siguiente."},
+    {"id": "a1-04-l3-g3", "type": "fill_blank", "topic": "telling-time", "skill": "vocabulary", "difficulty": 1, "text": "—What time is it? —It's ten ___. (10:00)", "blanks": [{"answers": ["o'clock"]}], "explanation": "Hora en punto = o'clock."},
+    {"id": "a1-04-l3-g4", "type": "true_false", "topic": "telling-time", "skill": "comprehension", "difficulty": 1, "statement": "«Quarter to five» son las 4:45.", "answer": true, "explanation": "Verdadero: un cuarto para las cinco."}
+  ],
+  "independent": [
+    {"id": "a1-04-l3-i1", "type": "multiple_choice", "topic": "telling-time", "skill": "vocabulary", "difficulty": 2, "question": "9:40 →", "options": ["twenty to ten", {"text": "twenty past nine", "why": "Twenty past nine son las 9:20.", "error": "time-telling"}, {"text": "forty to ten", "why": "Pasada la media se cuenta lo que falta: twenty to ten.", "error": "time-telling"}, {"text": "twenty to nine", "why": "Twenty to nine son las 8:40.", "error": "time-telling"}], "answer": 0, "explanation": "Faltan 20 minutos para las 10: twenty to ten (o nine forty)."},
+    {"id": "a1-04-l3-i2", "type": "dictation", "topic": "telling-time", "skill": "listening", "difficulty": 2, "prompt": "Escucha y escribe la hora con cifras (por ejemplo, 7:15).", "text": "It's quarter past eleven.", "answers": ["11:15", "It's 11:15", "11.15"], "explanation": "quarter past eleven = 11:15."},
+    {"id": "a1-04-l3-i3", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "telling-time", "skill": "translation", "difficulty": 2, "source": "Son las seis y media.", "answers": ["{It's|It is} half past six.", "{It's|It is} six thirty."], "keyConcepts": [["six"], ["half", "thirty"]], "notes": "«Son las…» = **It's**… (sujeto it); «y media» = half past / thirty.", "explanation": "It's half past six / It's six thirty."},
+    {"id": "a1-04-l3-i4", "type": "error_correction", "topic": "telling-time", "skill": "grammar", "difficulty": 2, "sentence": "Are the two o'clock.", "answers": ["It's two o'clock.", "It is two o'clock."], "errorTag": "subject-omitted", "explanation": "La hora: It's two o'clock."},
+    {"id": "a1-04-l3-i5", "type": "multiple_choice", "topic": "telling-time", "skill": "comprehension", "difficulty": 2, "question": "Tu vuelo es a las «8 p.m.». ¿A qué hora es?", "options": ["A las 20:00", {"text": "A las 8:00", "why": "8:00 sería 8 a.m."}, {"text": "A las 12:00", "why": "12:00 es noon."}, {"text": "A las 18:00", "why": "18:00 es 6 p.m."}], "answer": 0, "explanation": "p.m. = después del mediodía: 8 p.m. = 20:00."},
+    {"id": "a1-04-l3-i6", "type": "sentence_building", "topic": "telling-time", "skill": "construction", "difficulty": 2, "cue": "the class / start / 7:30", "clue": "Di a qué hora empieza la clase (usa starts at).", "answers": ["The class starts at {half past seven|seven thirty|7:30}."], "explanation": "The class starts at half past seven (at + hora)."},
+    {"id": "a1-04-l3-i7", "type": "matching", "topic": "telling-time", "skill": "vocabulary", "difficulty": 2, "pairs": [["12:00 (día)", "noon"], ["00:00", "midnight"], ["5:20", "twenty past five"], ["5:50", "ten to six"]], "explanation": "noon = mediodía; midnight = medianoche."}
+  ],
+  "summary": [
+    "What time is it? → It's + hora (siempre con it).",
+    "o'clock (en punto), past (y), to (menos), quarter (cuarto), half past (y media).",
+    "Forma digital: seven thirty, ten oh five.",
+    "a.m. = mañana, p.m. = tarde/noche; noon = mediodía, midnight = medianoche.",
+    "Para horarios: at + hora (at 7:30)."
+  ],
+  "quiz": [
+    {"id": "a1-04-l3-q1", "type": "multiple_choice", "topic": "telling-time", "skill": "vocabulary", "difficulty": 1, "question": "6:15 →", "options": ["quarter past six", {"text": "quarter to six", "why": "Quarter to six son las 5:45.", "error": "time-telling"}, {"text": "six and quarter", "why": "Traducción literal; se dice quarter past six.", "error": "time-telling"}, {"text": "fifteen to six", "why": "Eso serían las 5:45.", "error": "time-telling"}], "answer": 0, "explanation": "6:15 = quarter past six (six fifteen)."},
+    {"id": "a1-04-l3-q2", "type": "multiple_choice", "topic": "telling-time", "skill": "vocabulary", "difficulty": 2, "question": "«Quarter to nine» es…", "options": ["8:45", {"text": "9:15", "why": "9:15 es quarter past nine.", "error": "time-telling"}, {"text": "9:45", "why": "9:45 es quarter to ten.", "error": "time-telling"}, {"text": "8:15", "why": "8:15 es quarter past eight.", "error": "time-telling"}], "answer": 0, "explanation": "Un cuarto para las nueve = 8:45."},
+    {"id": "a1-04-l3-q3", "type": "fill_blank", "topic": "telling-time", "skill": "vocabulary", "difficulty": 2, "text": "4:30 = half ___ four", "blanks": [{"answers": ["past"], "feedback": {"to": "@time-telling|Half to four no existe; las 4:30 son half past four."}}], "explanation": "half past four."},
+    {"id": "a1-04-l3-q4", "type": "dictation", "topic": "telling-time", "skill": "listening", "difficulty": 2, "prompt": "Escucha y escribe la hora con cifras.", "text": "It's twenty to three.", "answers": ["2:40", "It's 2:40", "2.40", "14:40"], "explanation": "twenty to three = 2:40."},
+    {"id": "a1-04-l3-q5", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "telling-time", "skill": "translation", "difficulty": 2, "source": "Son las once menos cuarto.", "answers": ["{It's|It is} quarter to eleven.", "{It's|It is} a quarter to eleven.", "{It's|It is} ten forty-five."], "keyConcepts": [["quarter", "forty-five", "forty five"], ["eleven", "ten"]], "notes": "«Menos cuarto» = **quarter to**.", "explanation": "It's quarter to eleven (10:45)."},
+    {"id": "a1-04-l3-q6", "type": "error_identification", "topic": "telling-time", "skill": "vocabulary", "difficulty": 2, "segments": ["The film", "starts at", "nine and half", "tonight."], "errorIndex": 2, "correction": ["half past nine", "nine thirty"], "errorTag": "time-telling", "explanation": "9:30 = half past nine / nine thirty."},
+    {"id": "a1-04-l3-q7", "type": "multiple_choice", "topic": "telling-time", "skill": "listening", "difficulty": 2, "audio": "The bus leaves at ten fifty.", "hideText": true, "question": "Escucha. ¿A qué hora sale el autobús?", "options": ["10:50", "10:15", "10:05", "11:50"], "answer": 0, "explanation": "ten fifty = 10:50 (fifty ≠ fifteen)."},
+    {"id": "a1-04-l3-q8", "type": "true_false", "topic": "telling-time", "skill": "comprehension", "difficulty": 1, "statement": "«Midnight» significa mediodía.", "answer": false, "explanation": "Falso: midnight = medianoche; noon = mediodía."},
+    {"id": "a1-04-l3-q9", "type": "word_order", "topic": "telling-time", "skill": "construction", "difficulty": 1, "tokens": ["what", "time", "is", "it"], "punctuation": "?", "clue": "¿Qué hora es?", "explanation": "What time is it?"},
+    {"id": "a1-04-l3-q10", "type": "multiple_choice", "topic": "telling-time", "skill": "grammar", "difficulty": 2, "question": "The meeting is ___ 3 p.m.", "options": ["at", {"text": "in", "why": "In va con meses, años y partes del día.", "error": "preposition-time"}, {"text": "on", "why": "On va con días y fechas.", "error": "preposition-time"}, {"text": "for", "why": "For indica duración.", "error": "preposition-time"}], "answer": 0, "explanation": "Horas → at."}
+  ]
+}
+],
+"integrative": [
+  {"id": "a1-04-x1", "type": "reading_comprehension", "topic": "dates-ordinals", "skill": "reading", "difficulty": 2, "title": "Invitation", "passage": "Hi Laura!\nMy birthday party is on Saturday, June 14th. It starts at half past seven in the evening at my house, 245 Oak Street. Please bring a dessert. Tickets for the concert after the party are $15.50 each.\nSee you soon!\nMarco", "explanation": "Invitación con fecha, hora, dirección y precio.", "questions": [
+    {"id": "a1-04-x1-1", "type": "multiple_choice", "topic": "reading-detail", "skill": "reading", "difficulty": 1, "question": "When is the party?", "options": ["Saturday, June 14th", "Sunday, June 14th", "Saturday, June 4th", "Saturday, July 14th"], "answer": 0, "explanation": "«on Saturday, June 14th»."},
+    {"id": "a1-04-x1-2", "type": "multiple_choice", "topic": "reading-detail", "skill": "reading", "difficulty": 1, "question": "What time does it start?", "options": ["7:30 p.m.", "7:30 a.m.", "6:30 p.m.", "8:30 p.m."], "answer": 0, "explanation": "«at half past seven in the evening» = 7:30 p.m."},
+    {"id": "a1-04-x1-3", "type": "multiple_choice", "topic": "reading-detail", "skill": "reading", "difficulty": 2, "question": "How much is a concert ticket?", "options": ["$15.50", "$50.15", "$5.50", "$1,550"], "answer": 0, "explanation": "«$15.50 each» = fifteen fifty."},
+    {"id": "a1-04-x1-4", "type": "true_false", "topic": "reading-detail", "skill": "reading", "difficulty": 1, "statement": "Marco lives at 254 Oak Street.", "answer": false, "explanation": "Vive en el 245, no en el 254."}
+  ]},
+  {"id": "a1-04-x2", "type": "fill_blank", "topic": "prepositions-time-basic", "skill": "grammar", "difficulty": 3, "text": "My exam is ___ Monday, ___ May 5th, ___ 9 a.m.", "blanks": [{"answers": ["on"]}, {"answers": ["on"], "feedback": {"in": "@preposition-time|Con una fecha concreta: on."}}, {"answers": ["at"]}], "explanation": "on + día, on + fecha, at + hora."},
+  {"id": "a1-04-x3", "type": "listening_comprehension", "topic": "telling-time", "skill": "listening", "difficulty": 2, "lines": [{"speaker": "Announcer", "text": "Attention, please. The train to Boston leaves at eleven forty-five from platform three. The train to New York is delayed. It now leaves at twelve fifteen."}], "explanation": "Anuncio en una estación de tren.", "questions": [
+    {"id": "a1-04-x3-1", "type": "multiple_choice", "topic": "listening-detail", "skill": "listening", "difficulty": 2, "question": "When does the train to Boston leave?", "options": ["11:45", "11:15", "12:45", "11:40"], "answer": 0, "explanation": "eleven forty-five = 11:45."},
+    {"id": "a1-04-x3-2", "type": "multiple_choice", "topic": "listening-detail", "skill": "listening", "difficulty": 1, "question": "Which platform?", "options": ["3", "13", "30", "2"], "answer": 0, "explanation": "platform three."},
+    {"id": "a1-04-x3-3", "type": "multiple_choice", "topic": "listening-detail", "skill": "listening", "difficulty": 2, "question": "When does the New York train leave now?", "options": ["12:15", "12:50", "2:15", "11:15"], "answer": 0, "explanation": "twelve fifteen = 12:15."}
+  ]},
+  {"id": "a1-04-x4", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "telling-time", "skill": "translation", "difficulty": 3, "source": "La tienda abre a las nueve y cierra a las ocho de la noche.", "answers": ["The {store|shop} opens at {nine|9}[ o'clock] [{a.m.|am}] and closes at {eight|8}[ o'clock] {p.m.|pm|at night|in the evening}."], "keyConcepts": [["opens"], ["closes"], ["at"]], "notes": "Horas con **at**; «de la noche» = p.m. / in the evening.", "explanation": "The store opens at nine and closes at eight p.m."},
+  {"id": "a1-04-x5", "type": "multiple_choice", "topic": "numbers-big", "skill": "vocabulary", "difficulty": 2, "question": "¿Cómo se escribe 1,200 en letras?", "options": ["one thousand two hundred", {"text": "one thousand two hundreds", "why": "Hundred sin -s con un número delante.", "error": "number-form"}, {"text": "one thousands two hundred", "why": "Thousand sin -s.", "error": "number-form"}, {"text": "twelve thousand", "why": "Sería 12,000.", "error": "number-form"}], "answer": 0, "explanation": "1,200 = one thousand two hundred (también twelve hundred)."},
+  {"id": "a1-04-x6", "type": "error_correction", "topic": "dates-ordinals", "skill": "grammar", "difficulty": 3, "sentence": "The course starts on september twelve.", "answers": ["The course starts on September 12th.", "The course starts on September twelfth.", "The course starts on the twelfth of September.", "The course starts on 12th September."], "errorTag": "date-format", "explanation": "Mayúscula en el mes y ordinal en la fecha: September 12th (twelfth)."},
+  {"id": "a1-04-x7", "type": "matching", "topic": "dates-ordinals", "skill": "vocabulary", "difficulty": 2, "pairs": [["Christmas", "December 25th"], ["New Year's Day", "January 1st"], ["Valentine's Day", "February 14th"], ["Halloween", "October 31st"]], "explanation": "Fechas de celebraciones con ordinales."},
+  {"id": "a1-04-x8", "type": "sentence_building", "topic": "dates-ordinals", "skill": "construction", "difficulty": 2, "cue": "my birthday / October 9th", "clue": "Di cuándo es tu cumpleaños.", "answers": ["My birthday is on October {9th|ninth}.", "My birthday is on the ninth of October.", "My birthday is October {9th|ninth}.", "My birthday is on 9th October."], "explanation": "My birthday is on October 9th (ninth)."}
+]
+}

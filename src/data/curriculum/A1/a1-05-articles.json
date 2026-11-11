@@ -1,0 +1,1373 @@
+{
+  "id": "a1-05",
+  "level": "A1",
+  "title": "Articles: A, An, The",
+  "titleEs": "Artículos: a, an, the",
+  "description": "Cuándo usar a, an, the o ningún artículo. Las reglas se basan en el sonido de la palabra siguiente y en si hablamos de algo concreto o en general.",
+  "objectives": [
+    "Elegir a o an según el sonido de la palabra siguiente.",
+    "Usar a/an con profesiones y para mencionar algo por primera vez.",
+    "Usar the para algo específico, ya mencionado o único.",
+    "No usar artículo al hablar en general (I like dogs) y en expresiones como go to work o have breakfast."
+  ],
+  "lessons": [
+    {
+      "id": "a1-05-l1",
+      "title": "A and An",
+      "titleEs": "Los artículos a y an",
+      "objective": "Usar a y an correctamente, incluidas las profesiones.",
+      "learn": [
+        "La regla del sonido: a + consonante, an + vocal.",
+        "Los casos especiales: an hour, a university.",
+        "Por qué las profesiones llevan artículo en inglés."
+      ],
+      "why": "A/an aparecen en casi todas las descripciones. Además, omitir el artículo con las profesiones («She is doctor») es un error muy típico de los hispanohablantes.",
+      "theory": [
+        {
+          "type": "rule",
+          "title": "a / an = un, una",
+          "formula": "a + sonido consonántico · an + sonido vocálico",
+          "body": "Solo se usan con sustantivos **contables en singular**: `a book`, `an apple`.\nLo que importa es el **sonido**, no la letra: `an hour` (la h no suena), `a university` (suena /ju/)."
+        },
+        {
+          "type": "table",
+          "title": "Ejemplos",
+          "headers": [
+            "a",
+            "an"
+          ],
+          "rows": [
+            [
+              "a book",
+              "an apple"
+            ],
+            [
+              "a car",
+              "an egg"
+            ],
+            [
+              "a house",
+              "an hour (h muda)"
+            ],
+            [
+              "a university (/ju/)",
+              "an umbrella (/ʌ/)"
+            ],
+            [
+              "a European city (/ju/)",
+              "an orange"
+            ],
+            [
+              "a one-way ticket (/w/)",
+              "an honest man (h muda)"
+            ]
+          ]
+        },
+        {
+          "type": "rule",
+          "title": "El adjetivo también cuenta",
+          "formula": "a/an + (adjetivo) + sustantivo",
+          "body": "El artículo depende de la palabra que va **justo después**: `a car` → `an old car`; `an apple` → `a big apple`."
+        },
+        {
+          "type": "compare",
+          "items": [
+            {
+              "wrong": "She is doctor.",
+              "right": "She is a doctor.",
+              "why": "En inglés las profesiones en singular llevan **a / an**."
+            },
+            {
+              "wrong": "a orange",
+              "right": "an orange",
+              "why": "Orange empieza con sonido vocálico: **an**."
+            },
+            {
+              "wrong": "an university",
+              "right": "a university",
+              "why": "University suena /ju/ (consonántico): **a**."
+            },
+            {
+              "wrong": "I have a apple and an banana.",
+              "right": "I have an apple and a banana.",
+              "why": "an + sonido vocálico (apple); a + sonido consonántico (banana)."
+            }
+          ]
+        },
+        {
+          "type": "warning",
+          "title": "No se usa a/an con plurales ni incontables",
+          "body": "~~a books~~ → **books** / **some books**. ~~a water~~ → **water** / **a glass of water**. A/an significa «uno», por eso solo va con singulares contables."
+        },
+        {
+          "type": "tip",
+          "title": "a/an para lo que se menciona por primera vez",
+          "body": "**I have a dog.** (presento al perro por primera vez). Después: **The dog is very friendly.** (ya sabemos cuál). Lo verás en la lección 2."
+        }
+      ],
+      "guided": [
+        {
+          "id": "a1-05-l1-g1",
+          "type": "fill_blank",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "I eat ___ apple every day.",
+          "blanks": [
+            {
+              "answers": [
+                "an"
+              ],
+              "options": [
+                "a",
+                "an"
+              ],
+              "feedback": {
+                "a": "@article-a-an"
+              }
+            }
+          ],
+          "explanation": "Apple empieza con sonido vocálico: an apple."
+        },
+        {
+          "id": "a1-05-l1-g2",
+          "type": "fill_blank",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "My brother has ___ car.",
+          "blanks": [
+            {
+              "answers": [
+                "a"
+              ],
+              "options": [
+                "a",
+                "an"
+              ],
+              "feedback": {
+                "an": "@article-a-an"
+              }
+            }
+          ],
+          "explanation": "Car empieza con sonido consonántico: a car."
+        },
+        {
+          "id": "a1-05-l1-g3",
+          "type": "multiple_choice",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "My mother is ___ nurse.",
+          "options": [
+            "a",
+            {
+              "text": "an",
+              "why": "Nurse empieza con sonido consonántico.",
+              "error": "article-a-an"
+            },
+            {
+              "text": "— (nada)",
+              "why": "Las profesiones llevan artículo en inglés.",
+              "error": "article-missing"
+            },
+            {
+              "text": "the",
+              "why": "No hablamos de una enfermera específica, sino de su profesión.",
+              "error": "article-the"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Profesión → a/an: She is a nurse."
+        },
+        {
+          "id": "a1-05-l1-g4",
+          "type": "true_false",
+          "topic": "article-a-an",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "Se dice «an hour» porque la h de hour no se pronuncia.",
+          "answer": true,
+          "explanation": "Verdadero: hour empieza con sonido vocálico /aʊ/."
+        }
+      ],
+      "independent": [
+        {
+          "id": "a1-05-l1-i1",
+          "type": "fill_blank",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "She studies at ___ university in Boston.",
+          "blanks": [
+            {
+              "answers": [
+                "a"
+              ],
+              "options": [
+                "a",
+                "an"
+              ],
+              "feedback": {
+                "an": "@article-a-an|University suena /ju/: a university."
+              }
+            }
+          ],
+          "explanation": "University empieza con sonido /j/: a university."
+        },
+        {
+          "id": "a1-05-l1-i2",
+          "type": "multiple_choice",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "It's ___ old building.",
+          "options": [
+            "an",
+            {
+              "text": "a",
+              "why": "La palabra siguiente es old (sonido vocálico).",
+              "error": "article-a-an"
+            },
+            {
+              "text": "— (nada)",
+              "why": "Building es contable singular: necesita artículo.",
+              "error": "article-missing"
+            },
+            {
+              "text": "some",
+              "why": "Some no se usa con un sustantivo contable singular."
+            }
+          ],
+          "answer": 0,
+          "explanation": "El artículo depende de la palabra siguiente: an old building."
+        },
+        {
+          "id": "a1-05-l1-i3",
+          "type": "error_correction",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "My father is engineer.",
+          "answers": [
+            "My father is an engineer.",
+            "My father's an engineer."
+          ],
+          "errorTag": "article-missing",
+          "explanation": "Profesión → an engineer (sonido vocálico)."
+        },
+        {
+          "id": "a1-05-l1-i4",
+          "type": "error_identification",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "segments": [
+            "We have",
+            "a hour",
+            "for lunch."
+          ],
+          "errorIndex": 1,
+          "correction": [
+            "an hour"
+          ],
+          "errorTag": "article-a-an",
+          "explanation": "Hour: h muda → an hour."
+        },
+        {
+          "id": "a1-05-l1-i5",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "article-a-an",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "Soy estudiante y mi hermana es abogada.",
+          "answers": [
+            "{I'm|I am} a student and my sister is a lawyer."
+          ],
+          "keyConcepts": [
+            [
+              "a student"
+            ],
+            [
+              "a lawyer"
+            ]
+          ],
+          "notes": "El español omite el artículo con profesiones; el inglés lo necesita: **a** student, **a** lawyer.",
+          "errorTag": "article-missing",
+          "explanation": "I'm a student and my sister is a lawyer."
+        },
+        {
+          "id": "a1-05-l1-i6",
+          "type": "fill_blank",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "___ umbrella, ___ uniform, ___ honest answer, ___ house",
+          "blanks": [
+            {
+              "answers": [
+                "an"
+              ],
+              "options": [
+                "a",
+                "an"
+              ],
+              "feedback": {
+                "a": "@article-a-an|Umbrella empieza con sonido vocálico /ʌ/."
+              }
+            },
+            {
+              "answers": [
+                "a"
+              ],
+              "options": [
+                "a",
+                "an"
+              ],
+              "feedback": {
+                "an": "@article-a-an|Uniform suena /ju/ (consonántico)."
+              }
+            },
+            {
+              "answers": [
+                "an"
+              ],
+              "options": [
+                "a",
+                "an"
+              ],
+              "feedback": {
+                "a": "@article-a-an|En honest la h no suena."
+              }
+            },
+            {
+              "answers": [
+                "a"
+              ],
+              "options": [
+                "a",
+                "an"
+              ],
+              "feedback": {
+                "an": "@article-a-an|En house la h sí suena."
+              }
+            }
+          ],
+          "explanation": "an umbrella (/ʌ/), a uniform (/ju/), an honest answer (h muda), a house (/h/)."
+        }
+      ],
+      "summary": [
+        "a + sonido consonántico (a book, a university); an + sonido vocálico (an apple, an hour).",
+        "Decide por la palabra siguiente: an old car, a big apple.",
+        "Las profesiones llevan a/an: She is a doctor.",
+        "A/an solo con contables en singular: nunca «a books» ni «a water»."
+      ],
+      "quiz": [
+        {
+          "id": "a1-05-l1-q1",
+          "type": "fill_blank",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "Can I have ___ orange juice, please?",
+          "blanks": [
+            {
+              "answers": [
+                "an"
+              ],
+              "feedback": {
+                "a": "@article-a-an"
+              }
+            }
+          ],
+          "explanation": "Orange: sonido vocálico → an."
+        },
+        {
+          "id": "a1-05-l1-q2",
+          "type": "multiple_choice",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "He is ___ actor.",
+          "options": [
+            "an",
+            {
+              "text": "a",
+              "why": "Actor empieza con sonido vocálico.",
+              "error": "article-a-an"
+            },
+            {
+              "text": "— (nada)",
+              "why": "Profesión → necesita artículo.",
+              "error": "article-missing"
+            },
+            {
+              "text": "one",
+              "why": "One se usa para contar; aquí se presenta la profesión."
+            }
+          ],
+          "answer": 0,
+          "explanation": "an actor."
+        },
+        {
+          "id": "a1-05-l1-q3",
+          "type": "multiple_choice",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "¿Cuál es correcta?",
+          "options": [
+            "a European country",
+            {
+              "text": "an European country",
+              "why": "European suena /j/: a.",
+              "error": "article-a-an"
+            },
+            {
+              "text": "an big country",
+              "why": "Big empieza con sonido consonántico.",
+              "error": "article-a-an"
+            },
+            {
+              "text": "a countries",
+              "why": "A no se usa con plurales.",
+              "error": "article-a-an"
+            }
+          ],
+          "answer": 0,
+          "explanation": "European suena /jʊ/ → a European country."
+        },
+        {
+          "id": "a1-05-l1-q4",
+          "type": "error_correction",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "She is a interesting person.",
+          "answers": [
+            "She is an interesting person.",
+            "She's an interesting person."
+          ],
+          "errorTag": "article-a-an",
+          "explanation": "Interesting: sonido vocálico → an."
+        },
+        {
+          "id": "a1-05-l1-q5",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "article-a-an",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "Mi tío es taxista.",
+          "answers": [
+            "My uncle is a taxi driver.",
+            "My uncle's a taxi driver.",
+            "My uncle is a cab driver."
+          ],
+          "keyConcepts": [
+            [
+              "uncle"
+            ],
+            [
+              "a taxi driver",
+              "a cab driver"
+            ]
+          ],
+          "notes": "Profesión con artículo: **a** taxi driver.",
+          "errorTag": "article-missing",
+          "explanation": "My uncle is a taxi driver."
+        },
+        {
+          "id": "a1-05-l1-q6",
+          "type": "fill_blank",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "I have ___ cat and ___ old dog.",
+          "blanks": [
+            {
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "answers": [
+                "an"
+              ],
+              "feedback": {
+                "a": "@article-a-an|Old empieza con sonido vocálico."
+              }
+            }
+          ],
+          "explanation": "a cat; an old dog."
+        },
+        {
+          "id": "a1-05-l1-q7",
+          "type": "error_identification",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "segments": [
+            "There is",
+            "an",
+            "university",
+            "near my house."
+          ],
+          "errorIndex": 1,
+          "correction": [
+            "a"
+          ],
+          "errorTag": "article-a-an",
+          "explanation": "University suena /ju/ → a university."
+        },
+        {
+          "id": "a1-05-l1-q8",
+          "type": "true_false",
+          "topic": "article-a-an",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "Se puede decir «a water».",
+          "answer": false,
+          "errorTag": "countable-food",
+          "explanation": "Water es incontable: water, some water o a glass of water."
+        },
+        {
+          "id": "a1-05-l1-q9",
+          "type": "multiple_choice",
+          "topic": "article-a-an",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "We need ___ umbrella. It's raining.",
+          "options": [
+            "an",
+            {
+              "text": "a",
+              "why": "Umbrella empieza con sonido vocálico /ʌ/.",
+              "error": "article-a-an"
+            },
+            {
+              "text": "some",
+              "why": "Some no va con contables singulares."
+            },
+            {
+              "text": "— (nada)",
+              "why": "Umbrella es contable singular.",
+              "error": "article-missing"
+            }
+          ],
+          "answer": 0,
+          "explanation": "an umbrella."
+        },
+        {
+          "id": "a1-05-l1-q10",
+          "type": "sentence_building",
+          "topic": "article-a-an",
+          "skill": "construction",
+          "difficulty": 2,
+          "cue": "Andrés / engineer",
+          "clue": "Di la profesión de Andrés.",
+          "answers": [
+            "Andrés is an engineer.",
+            "Andres is an engineer."
+          ],
+          "errorTag": "article-missing",
+          "explanation": "Andrés is an engineer."
+        }
+      ]
+    },
+    {
+      "id": "a1-05-l2",
+      "title": "The and No Article",
+      "titleEs": "El artículo the y la ausencia de artículo",
+      "objective": "Usar the para lo específico y no usar artículo al hablar en general.",
+      "learn": [
+        "Cuándo usar the: ya mencionado, específico o único.",
+        "Generalizaciones sin artículo: I like dogs, Life is beautiful.",
+        "Expresiones fijas sin artículo: go to work, have breakfast, play football."
+      ],
+      "why": "En español decimos «Me gustan los perros» o «La vida es bella». En inglés, al hablar en general, no se usa artículo. Es una de las diferencias más difíciles y más visibles.",
+      "theory": [
+        {
+          "type": "rule",
+          "title": "the = el, la, los, las (algo concreto)",
+          "formula": "the + algo específico / ya mencionado / único",
+          "body": "Ya mencionado: `I have a dog. The dog is black.`\nEspecífico (sabemos cuál): `Close the door, please.` `The coffee in this café is great.`\nÚnico: `the sun`, `the moon`, `the president`.\nInstrumentos musicales: `play the guitar`."
+        },
+        {
+          "type": "rule",
+          "title": "Sin artículo: hablar en general",
+          "formula": "sustantivo plural o incontable en general → sin artículo",
+          "body": "`I like dogs.` (los perros en general)\n`Water is important.` (el agua en general)\n`Life is beautiful.`\nCompara: `The dogs in my street are noisy.` (unos perros concretos)."
+        },
+        {
+          "type": "table",
+          "title": "Sin artículo en inglés (con artículo en español)",
+          "headers": [
+            "Inglés",
+            "Español"
+          ],
+          "rows": [
+            [
+              "have breakfast / lunch / dinner",
+              "desayunar / el almuerzo"
+            ],
+            [
+              "play football / tennis",
+              "jugar al fútbol / al tenis"
+            ],
+            [
+              "go to work / school / bed",
+              "ir al trabajo / a la escuela / a la cama"
+            ],
+            [
+              "at home",
+              "en casa"
+            ],
+            [
+              "on Monday / in May",
+              "el lunes / en mayo"
+            ],
+            [
+              "English is easy.",
+              "El inglés es fácil."
+            ],
+            [
+              "Colombia, Spain, Mexico",
+              "Colombia, España, México"
+            ]
+          ]
+        },
+        {
+          "type": "exception",
+          "title": "Países con the",
+          "body": "**the USA**, **the UK**, **the Netherlands**, **the Philippines**: llevan the porque son nombres plurales o con «United/Kingdom/Republic». La mayoría de países y ciudades van sin artículo: Colombia, Lima, London."
+        },
+        {
+          "type": "compare",
+          "items": [
+            {
+              "wrong": "The life is beautiful.",
+              "right": "Life is beautiful.",
+              "why": "Hablamos de la vida en general: sin artículo."
+            },
+            {
+              "wrong": "I like the cats.",
+              "right": "I like cats.",
+              "why": "Los gatos en general → sin artículo. «The cats» serían unos gatos concretos."
+            },
+            {
+              "wrong": "I play guitar and the football.",
+              "right": "I play the guitar and football.",
+              "why": "Instrumentos con **the**; deportes **sin** artículo."
+            },
+            {
+              "wrong": "I go to the bed at 11.",
+              "right": "I go to bed at 11.",
+              "why": "Expresión fija sin artículo: go to bed."
+            }
+          ]
+        },
+        {
+          "type": "tip",
+          "title": "Pregunta clave",
+          "body": "¿Sabemos exactamente de cuál se habla? → **the**. ¿Es la primera vez o uno cualquiera? → **a/an**. ¿Hablamos en general (plural o incontable)? → **nada**."
+        }
+      ],
+      "guided": [
+        {
+          "id": "a1-05-l2-g1",
+          "type": "multiple_choice",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "I love ___ chocolate.",
+          "options": [
+            "— (nada)",
+            {
+              "text": "the",
+              "why": "Hablas del chocolate en general: sin artículo.",
+              "error": "article-the"
+            },
+            {
+              "text": "a",
+              "why": "Chocolate (en general) es incontable.",
+              "error": "countable-food"
+            },
+            {
+              "text": "an",
+              "why": "Chocolate es incontable y empieza con consonante.",
+              "error": "article-a-an"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Generalización con incontable → sin artículo: I love chocolate."
+        },
+        {
+          "id": "a1-05-l2-g2",
+          "type": "fill_blank",
+          "topic": "article-the",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "I have a cat and a dog. ___ cat is white.",
+          "blanks": [
+            {
+              "answers": [
+                "The"
+              ],
+              "feedback": {
+                "a": "@article-the|Ya mencionamos el gato: the cat."
+              }
+            }
+          ],
+          "explanation": "Segunda mención → the."
+        },
+        {
+          "id": "a1-05-l2-g3",
+          "type": "true_false",
+          "topic": "article-zero",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "«I play the tennis» es correcto.",
+          "answer": false,
+          "errorTag": "article-the",
+          "explanation": "Falso: los deportes van sin artículo: I play tennis."
+        },
+        {
+          "id": "a1-05-l2-g4",
+          "type": "multiple_choice",
+          "topic": "article-the",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "___ sun is very hot today.",
+          "options": [
+            "The",
+            {
+              "text": "A",
+              "why": "Solo hay un sol: es único.",
+              "error": "article-the"
+            },
+            {
+              "text": "— (nada)",
+              "why": "Sun es único: lleva the.",
+              "error": "article-the"
+            },
+            {
+              "text": "An",
+              "why": "Sun empieza con consonante y es único.",
+              "error": "article-a-an"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Cosas únicas → the sun, the moon."
+        }
+      ],
+      "independent": [
+        {
+          "id": "a1-05-l2-i1",
+          "type": "error_correction",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "The money is not important for me.",
+          "answers": [
+            "Money is not important for me.",
+            "Money isn't important for me.",
+            "Money is not important to me.",
+            "Money isn't important to me."
+          ],
+          "errorTag": "article-the",
+          "explanation": "Money en general → sin artículo."
+        },
+        {
+          "id": "a1-05-l2-i2",
+          "type": "fill_blank",
+          "topic": "article-the",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "My sister plays ___ piano and ___ volleyball.",
+          "blanks": [
+            {
+              "answers": [
+                "the"
+              ]
+            },
+            {
+              "answers": [
+                "-",
+                "—",
+                "x",
+                "nada"
+              ],
+              "feedback": {
+                "the": "@article-the|Los deportes van sin artículo."
+              }
+            }
+          ],
+          "prompt": "Completa con «the» o con un guion (-) si no lleva artículo.",
+          "explanation": "play the piano (instrumento); play volleyball (deporte, sin artículo)."
+        },
+        {
+          "id": "a1-05-l2-i3",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "article-zero",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "Me gustan los perros, pero no me gustan los gatos.",
+          "answers": [
+            "I like dogs, but I don't like cats.",
+            "I like dogs but I don't like cats.",
+            "I like dogs, but I do not like cats."
+          ],
+          "keyConcepts": [
+            [
+              "like dogs"
+            ],
+            [
+              "cats"
+            ]
+          ],
+          "notes": "En general, sin artículo: dogs, cats (no «the dogs»).",
+          "errorTag": "article-the",
+          "explanation": "I like dogs, but I don't like cats."
+        },
+        {
+          "id": "a1-05-l2-i4",
+          "type": "multiple_choice",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "¿Qué oración es correcta?",
+          "options": [
+            "They live in the USA.",
+            {
+              "text": "They live in USA.",
+              "why": "The USA lleva artículo (United States).",
+              "error": "article-the"
+            },
+            {
+              "text": "They live in the Colombia.",
+              "why": "La mayoría de países no llevan artículo.",
+              "error": "article-the"
+            },
+            {
+              "text": "They live in a USA.",
+              "why": "Un país único no lleva a."
+            }
+          ],
+          "answer": 0,
+          "explanation": "the USA, the UK; pero Colombia, Peru, Spain sin artículo."
+        },
+        {
+          "id": "a1-05-l2-i5",
+          "type": "error_identification",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 2,
+          "segments": [
+            "I usually",
+            "have the breakfast",
+            "at seven."
+          ],
+          "errorIndex": 1,
+          "correction": [
+            "have breakfast"
+          ],
+          "errorTag": "article-the",
+          "explanation": "Comidas sin artículo: have breakfast."
+        },
+        {
+          "id": "a1-05-l2-i6",
+          "type": "fill_blank",
+          "topic": "article-the",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "There is ___ bank in my street. ___ bank is open on Saturdays.",
+          "blanks": [
+            {
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "answers": [
+                "The"
+              ]
+            }
+          ],
+          "explanation": "Primera mención → a; segunda → the."
+        }
+      ],
+      "summary": [
+        "the = algo concreto: ya mencionado, específico o único (the sun).",
+        "En general, plurales e incontables sin artículo: I like dogs. Life is beautiful.",
+        "Sin artículo: comidas, deportes, idiomas, la mayoría de países, go to work/bed, at home.",
+        "Instrumentos con the: play the guitar. Países especiales: the USA, the UK."
+      ],
+      "quiz": [
+        {
+          "id": "a1-05-l2-q1",
+          "type": "multiple_choice",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "___ English is an international language.",
+          "options": [
+            "— (nada)",
+            {
+              "text": "The",
+              "why": "Los idiomas van sin artículo.",
+              "error": "article-the"
+            },
+            {
+              "text": "An",
+              "why": "Los idiomas no llevan a/an.",
+              "error": "article-a-an"
+            },
+            {
+              "text": "A",
+              "why": "Los idiomas no llevan a/an.",
+              "error": "article-a-an"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Idiomas sin artículo: English is…"
+        },
+        {
+          "id": "a1-05-l2-q2",
+          "type": "fill_blank",
+          "topic": "article-the",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "Please open ___ window. It's hot.",
+          "blanks": [
+            {
+              "answers": [
+                "the"
+              ],
+              "feedback": {
+                "a": "@article-the|Hablamos de la ventana concreta de la habitación."
+              }
+            }
+          ],
+          "explanation": "Una ventana concreta (la de aquí) → the."
+        },
+        {
+          "id": "a1-05-l2-q3",
+          "type": "error_correction",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "I go to the work by bus.",
+          "answers": [
+            "I go to work by bus."
+          ],
+          "errorTag": "article-the",
+          "explanation": "Expresión fija: go to work (sin the)."
+        },
+        {
+          "id": "a1-05-l2-q4",
+          "type": "multiple_choice",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "«Los niños necesitan amor» →",
+          "options": [
+            "Children need love.",
+            {
+              "text": "The children need the love.",
+              "why": "Hablamos en general: sin artículos.",
+              "error": "article-the"
+            },
+            {
+              "text": "The children need love.",
+              "why": "«The children» serían unos niños concretos.",
+              "error": "article-the"
+            },
+            {
+              "text": "Children need the love.",
+              "why": "Love en general: sin artículo.",
+              "error": "article-the"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Generalización: sin artículo."
+        },
+        {
+          "id": "a1-05-l2-q5",
+          "type": "fill_blank",
+          "topic": "article-the",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "I have ___ new phone. ___ phone is red.",
+          "blanks": [
+            {
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "answers": [
+                "The"
+              ],
+              "feedback": {
+                "a": "@article-the"
+              }
+            }
+          ],
+          "explanation": "Primera mención a; después the."
+        },
+        {
+          "id": "a1-05-l2-q6",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "article-the",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "Mi hermano toca la guitarra.",
+          "answers": [
+            "My brother plays the guitar."
+          ],
+          "keyConcepts": [
+            [
+              "brother"
+            ],
+            [
+              "plays"
+            ],
+            [
+              "the guitar"
+            ]
+          ],
+          "notes": "Instrumentos con **the**: play the guitar. Tocar un instrumento = play.",
+          "explanation": "My brother plays the guitar."
+        },
+        {
+          "id": "a1-05-l2-q7",
+          "type": "error_identification",
+          "topic": "article-zero",
+          "skill": "grammar",
+          "difficulty": 2,
+          "segments": [
+            "The cats",
+            "are",
+            "independent animals."
+          ],
+          "errorIndex": 0,
+          "correction": [
+            "Cats"
+          ],
+          "errorTag": "article-the",
+          "explanation": "Generalización: Cats are independent animals."
+        },
+        {
+          "id": "a1-05-l2-q8",
+          "type": "multiple_choice",
+          "topic": "article-the",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "Where's ___ remote control? I can't find it.",
+          "options": [
+            "the",
+            {
+              "text": "a",
+              "why": "Hablas de un mando concreto (el de tu tele).",
+              "error": "article-the"
+            },
+            {
+              "text": "— (nada)",
+              "why": "Remote control es contable singular: necesita artículo.",
+              "error": "article-missing"
+            },
+            {
+              "text": "an",
+              "why": "Remote empieza con consonante.",
+              "error": "article-a-an"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Objeto concreto que ambos conocen → the."
+        },
+        {
+          "id": "a1-05-l2-q9",
+          "type": "true_false",
+          "topic": "article-zero",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "«I'm at home» no lleva artículo.",
+          "answer": true,
+          "explanation": "Verdadero: at home (en casa), sin artículo."
+        },
+        {
+          "id": "a1-05-l2-q10",
+          "type": "sentence_building",
+          "topic": "article-zero",
+          "skill": "construction",
+          "difficulty": 3,
+          "cue": "I / like / music / but / the music in this bar / terrible",
+          "clue": "Di que te gusta la música (en general), pero que la música de este bar es terrible.",
+          "answers": [
+            "I like music, but the music in this bar is terrible.",
+            "I like music but the music in this bar is terrible."
+          ],
+          "explanation": "music (en general, sin artículo) / the music in this bar (concreta)."
+        }
+      ]
+    }
+  ],
+  "integrative": [
+    {
+      "id": "a1-05-x1",
+      "type": "reading_comprehension",
+      "topic": "article-the",
+      "skill": "reading",
+      "difficulty": 2,
+      "title": "My Town",
+      "passage": "I live in a small town in the mountains. There is a river and a big park. The park is beautiful in spring. There is an old church next to the river and a new university near the station. People here love music: there is a concert in the park every Sunday. I play the trumpet in a band!",
+      "explanation": "Texto con a/an, the y sin artículo.",
+      "questions": [
+        {
+          "id": "a1-05-x1-1",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "Where is the church?",
+          "options": [
+            "Next to the river",
+            "Near the station",
+            "In the park",
+            "In the mountains, far from town"
+          ],
+          "answer": 0,
+          "explanation": "«an old church next to the river»."
+        },
+        {
+          "id": "a1-05-x1-2",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "What instrument does the writer play?",
+          "options": [
+            "The trumpet",
+            "The guitar",
+            "The piano",
+            "The drums"
+          ],
+          "answer": 0,
+          "explanation": "«I play the trumpet in a band.»"
+        },
+        {
+          "id": "a1-05-x1-3",
+          "type": "true_false",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "statement": "There is a concert in the park every Saturday.",
+          "answer": false,
+          "explanation": "Es los domingos: «every Sunday»."
+        }
+      ]
+    },
+    {
+      "id": "a1-05-x2",
+      "type": "fill_blank",
+      "topic": "article-the",
+      "skill": "grammar",
+      "difficulty": 3,
+      "text": "My mother is ___ architect. She works for ___ company in ___ USA.",
+      "blanks": [
+        {
+          "answers": [
+            "an"
+          ]
+        },
+        {
+          "answers": [
+            "a"
+          ]
+        },
+        {
+          "answers": [
+            "the"
+          ]
+        }
+      ],
+      "explanation": "an architect (profesión, vocal); a company (primera mención); the USA."
+    },
+    {
+      "id": "a1-05-x3",
+      "type": "error_correction",
+      "topic": "article-zero",
+      "skill": "grammar",
+      "difficulty": 3,
+      "sentence": "My sister is a teacher and she loves the children.",
+      "answers": [
+        "My sister is a teacher and she loves children.",
+        "My sister's a teacher and she loves children."
+      ],
+      "errorTag": "article-the",
+      "explanation": "Los niños en general → children (sin the)."
+    },
+    {
+      "id": "a1-05-x4",
+      "type": "multiple_choice",
+      "topic": "article-a-an",
+      "skill": "grammar",
+      "difficulty": 2,
+      "question": "Elige la opción correcta: «Tengo una hora libre.»",
+      "options": [
+        "I have an hour free.",
+        {
+          "text": "I have a hour free.",
+          "why": "Hour: h muda → an.",
+          "error": "article-a-an"
+        },
+        {
+          "text": "I have one hour free.",
+          "why": "Es posible, pero «one» enfatiza la cantidad; la traducción natural es an hour."
+        },
+        {
+          "text": "I have the hour free.",
+          "why": "No es una hora concreta.",
+          "error": "article-the"
+        }
+      ],
+      "answer": 0,
+      "explanation": "an hour."
+    },
+    {
+      "id": "a1-05-x5",
+      "type": "translation",
+      "direction": "es-en",
+      "unit": "sentence",
+      "topic": "article-zero",
+      "skill": "translation",
+      "difficulty": 3,
+      "source": "Desayuno a las siete y voy a la escuela a las ocho.",
+      "answers": [
+        "I have breakfast at seven and I go to school at eight.",
+        "I have breakfast at seven and go to school at eight.",
+        "I have breakfast at 7 and I go to school at 8.",
+        "I eat breakfast at seven and I go to school at eight."
+      ],
+      "keyConcepts": [
+        [
+          "breakfast"
+        ],
+        [
+          "go to school"
+        ]
+      ],
+      "notes": "Sin artículo: have breakfast, go to school.",
+      "explanation": "I have breakfast at seven and I go to school at eight."
+    },
+    {
+      "id": "a1-05-x6",
+      "type": "matching",
+      "topic": "article-zero",
+      "skill": "grammar",
+      "difficulty": 2,
+      "leftTitle": "Expresión",
+      "rightTitle": "Artículo",
+      "pairs": [
+        [
+          "___ moon",
+          "the"
+        ],
+        [
+          "___ honest man",
+          "an"
+        ],
+        [
+          "play ___ basketball",
+          "— (nada)"
+        ],
+        [
+          "___ one-way street",
+          "a"
+        ]
+      ],
+      "explanation": "the moon (único); an honest man (h muda); play basketball (deporte); a one-way street (sonido /w/)."
+    },
+    {
+      "id": "a1-05-x7",
+      "type": "error_identification",
+      "topic": "article-a-an",
+      "skill": "grammar",
+      "difficulty": 3,
+      "segments": [
+        "She is",
+        "an",
+        "very good",
+        "doctor."
+      ],
+      "errorIndex": 1,
+      "correction": [
+        "a"
+      ],
+      "errorTag": "article-a-an",
+      "explanation": "La palabra siguiente es very (consonántica): a very good doctor."
+    },
+    {
+      "id": "a1-05-x8",
+      "type": "true_false",
+      "topic": "article-the",
+      "skill": "comprehension",
+      "difficulty": 2,
+      "statement": "En «The coffee in this café is excellent», «the» es correcto porque hablamos de un café concreto.",
+      "answer": true,
+      "explanation": "Verdadero: el café de este lugar (específico)."
+    },
+    {
+      "id": "a1-05-x9",
+      "type": "sentence_building",
+      "topic": "article-a-an",
+      "skill": "construction",
+      "difficulty": 3,
+      "cue": "I / have / dog / dog / name / Max",
+      "clue": "Di que tienes un perro y que el perro se llama Max (dos oraciones).",
+      "answers": [
+        "I have a dog. The dog's name is Max.",
+        "I have a dog. The dog is called Max.",
+        "I have a dog. His name is Max.",
+        "I've got a dog. The dog's name is Max.",
+        "I have got a dog. The dog's name is Max.",
+        "I have a dog. Its name is Max."
+      ],
+      "explanation": "Primera mención a dog; después the dog (o his/its name)."
+    },
+    {
+      "id": "a1-05-x10",
+      "type": "multiple_choice",
+      "topic": "article-zero",
+      "skill": "grammar",
+      "difficulty": 3,
+      "question": "¿Qué oración es INCORRECTA?",
+      "options": [
+        "The life is short.",
+        {
+          "text": "Life is short.",
+          "why": "Es correcta: generalización sin artículo."
+        },
+        {
+          "text": "The life of a writer is difficult.",
+          "why": "Es correcta: «la vida de un escritor» es específica."
+        },
+        {
+          "text": "I love life.",
+          "why": "Es correcta."
+        }
+      ],
+      "answer": 0,
+      "errorTag": "article-the",
+      "explanation": "«Life» en general no lleva the; sí cuando se especifica (the life of a writer)."
+    }
+  ]
+}

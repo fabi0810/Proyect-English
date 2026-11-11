@@ -1,0 +1,62 @@
+[
+  {
+    "id": "A1",
+    "name": "Beginner",
+    "nameEs": "Principiante",
+    "objective": "Aprender las bases del inglés: reconocer palabras comunes, construir oraciones sencillas, formular preguntas y comprender textos cortos.",
+    "cefrGlobal": "Comprende y utiliza expresiones cotidianas de uso muy frecuente y frases sencillas para satisfacer necesidades inmediatas. Puede presentarse y presentar a otros, pedir y dar información personal básica (dónde vive, las personas que conoce, las cosas que tiene) e interactuar de forma elemental si el interlocutor habla despacio, con claridad y está dispuesto a ayudar.",
+    "canDo": {
+      "reading": ["Comprender nombres, palabras y frases muy sencillas en carteles, perfiles y mensajes breves.", "Encontrar datos concretos (horas, precios, lugares) en textos muy cortos."],
+      "listening": ["Reconocer palabras y expresiones básicas sobre uno mismo, la familia y el entorno cuando se habla despacio y con claridad.", "Entender números, precios y horas."],
+      "writing": ["Escribir datos personales y oraciones sencillas conectadas con and, but y because.", "Escribir un perfil o un mensaje breve."],
+      "interaction": ["Saludar, presentarse y despedirse.", "Hacer y responder preguntas sencillas sobre temas muy conocidos."]
+    },
+    "instructionLanguage": "es",
+    "vocabularyTarget": 450
+  },
+  {
+    "id": "A2",
+    "name": "Elementary",
+    "nameEs": "Elemental",
+    "objective": "Construir oraciones más completas, comprender conversaciones cotidianas, hablar de experiencias y hechos pasados y expresar planes futuros.",
+    "cefrGlobal": "Comprende frases y expresiones de uso frecuente relacionadas con áreas de experiencia relevantes (información personal y familiar, compras, lugares de interés, ocupaciones). Se comunica en tareas simples y cotidianas que requieren intercambios sencillos y directos, y describe en términos sencillos su pasado, su entorno y sus necesidades inmediatas.",
+    "canDo": {
+      "reading": ["Comprender textos breves y sencillos como correos personales, anuncios y horarios.", "Seguir una historia sencilla en pasado."],
+      "listening": ["Comprender lo esencial de mensajes y anuncios breves, claros y sencillos.", "Seguir conversaciones cotidianas lentas."],
+      "writing": ["Escribir notas y mensajes breves.", "Narrar en pasado una experiencia con conectores sencillos."],
+      "interaction": ["Desenvolverse en compras, transporte y servicios.", "Hablar de planes y experiencias."]
+    },
+    "instructionLanguage": "es-en",
+    "vocabularyTarget": 600
+  },
+  {
+    "id": "B1",
+    "name": "Intermediate",
+    "nameEs": "Intermedio",
+    "objective": "Comprender textos más extensos, expresar opiniones, explicar experiencias y utilizar estructuras gramaticales de mayor complejidad.",
+    "cefrGlobal": "Comprende las ideas principales de textos claros y en lengua estándar sobre temas conocidos (trabajo, estudio, ocio). Se desenvuelve en la mayoría de situaciones de viaje, produce textos sencillos y coherentes sobre temas familiares y describe experiencias, acontecimientos, deseos y aspiraciones, justificando brevemente sus opiniones y planes.",
+    "canDo": {
+      "reading": ["Comprender la idea principal y los detalles de artículos y relatos sobre temas conocidos.", "Reconocer la opinión del autor."],
+      "listening": ["Comprender las ideas principales de conversaciones y charlas claras sobre temas cotidianos."],
+      "writing": ["Escribir párrafos conectados y ensayos breves de opinión.", "Redactar correos semiformales."],
+      "interaction": ["Expresar y justificar opiniones.", "Narrar experiencias con detalle."]
+    },
+    "instructionLanguage": "en-es",
+    "vocabularyTarget": 900
+  },
+  {
+    "id": "B2",
+    "name": "Upper Intermediate",
+    "nameEs": "Intermedio alto",
+    "objective": "Comprender textos complejos, argumentar, expresar opiniones detalladas, redactar textos estructurados y comprender conversaciones con mayor naturalidad.",
+    "cefrGlobal": "Comprende las ideas principales de textos complejos sobre temas concretos y abstractos. Se relaciona con fluidez y naturalidad, produce textos claros y detallados sobre temas diversos y defiende un punto de vista explicando ventajas e inconvenientes de distintas opciones.",
+    "canDo": {
+      "reading": ["Comprender artículos de opinión y textos divulgativos con argumentos complejos.", "Identificar actitudes y matices."],
+      "listening": ["Seguir argumentos complejos y conversaciones a velocidad normal."],
+      "writing": ["Redactar ensayos argumentativos y correos formales bien estructurados."],
+      "interaction": ["Argumentar, matizar y adaptar el registro al interlocutor."]
+    },
+    "instructionLanguage": "en",
+    "vocabularyTarget": 1100
+  }
+]

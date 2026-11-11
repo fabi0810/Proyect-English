@@ -1,0 +1,2204 @@
+{
+  "id": "a1-03",
+  "level": "A1",
+  "title": "Verb To Be",
+  "titleEs": "El verbo to be",
+  "description": "El verbo más importante del inglés: ser y estar en un solo verbo. Afirmativa, contracciones, negativa, preguntas, respuestas cortas, preguntas con Wh- y las expresiones en las que el español usa «tener».",
+  "objectives": [
+    "Conjugar am / is / are con cada sujeto, en forma completa y contraída.",
+    "Formar oraciones negativas y preguntas, y responder con respuestas cortas correctas.",
+    "Preguntar y dar información personal: nombre, origen, edad, profesión y estado.",
+    "Usar be en expresiones como I'm 25, I'm hungry o I'm cold."
+  ],
+  "vocabularyCategories": [
+    "emotions",
+    "work"
+  ],
+  "lessons": [
+    {
+      "id": "a1-03-l1",
+      "title": "To Be: Affirmative",
+      "titleEs": "To be: forma afirmativa y usos",
+      "objective": "Usar am, is y are correctamente en oraciones afirmativas.",
+      "learn": [
+        "Qué persona lleva am, is o are.",
+        "Las contracciones I'm, you're, he's…",
+        "Los usos de be: nombre, origen, profesión, edad, estados y lugar."
+      ],
+      "why": "To be aparece en casi todas las conversaciones básicas: presentarte, describir, decir dónde estás o cómo te sientes. Además, es la base del presente continuo y de la voz pasiva.",
+      "theory": [
+        {
+          "type": "text",
+          "title": "Ser y estar en un solo verbo",
+          "body": "En español distinguimos **ser** (soy profesor) y **estar** (estoy cansado). En inglés ambos se expresan con **to be**: `I am a teacher.` (soy profesor) / `I am tired.` (estoy cansado)."
+        },
+        {
+          "type": "table",
+          "title": "Presente de to be",
+          "headers": [
+            "Sujeto",
+            "Forma completa",
+            "Contracción",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "I",
+              "I am",
+              "I'm",
+              "I'm from Colombia."
+            ],
+            [
+              "You",
+              "you are",
+              "you're",
+              "You're my friend."
+            ],
+            [
+              "He",
+              "he is",
+              "he's",
+              "He's a doctor."
+            ],
+            [
+              "She",
+              "she is",
+              "she's",
+              "She's 30 years old."
+            ],
+            [
+              "It",
+              "it is",
+              "it's",
+              "It's cold today."
+            ],
+            [
+              "We",
+              "we are",
+              "we're",
+              "We're students."
+            ],
+            [
+              "They",
+              "they are",
+              "they're",
+              "They're at home."
+            ]
+          ],
+          "caption": "am solo con I · is con he, she, it y un sujeto singular · are con you, we, they y sujetos plurales."
+        },
+        {
+          "type": "rule",
+          "title": "Estructura",
+          "formula": "Sujeto + am / is / are + complemento",
+          "body": "`My mother` + `is` + `a nurse`.\n`My parents` + `are` + `in Lima`.\nCon nombres también se contrae en el habla: `My name's Ana.`"
+        },
+        {
+          "type": "glossary",
+          "items": [
+            {
+              "term": "Contracción",
+              "definition": "unión de dos palabras con un apóstrofo ('): I am → I'm. Se usa al hablar y en textos informales; en textos formales se prefiere la forma completa."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Usos de to be",
+          "headers": [
+            "Uso",
+            "Ejemplo",
+            "Español"
+          ],
+          "rows": [
+            [
+              "Nombre",
+              "I'm Laura.",
+              "Soy Laura. / Me llamo Laura."
+            ],
+            [
+              "Origen y nacionalidad",
+              "She's from Mexico. She's Mexican.",
+              "Es de México. Es mexicana."
+            ],
+            [
+              "Profesión",
+              "He's an engineer.",
+              "Es ingeniero."
+            ],
+            [
+              "Edad",
+              "I'm 25 (years old).",
+              "Tengo 25 años."
+            ],
+            [
+              "Estado o sentimiento",
+              "We're tired.",
+              "Estamos cansados."
+            ],
+            [
+              "Descripción",
+              "The house is big.",
+              "La casa es grande."
+            ],
+            [
+              "Lugar",
+              "They're at work.",
+              "Están en el trabajo."
+            ]
+          ]
+        },
+        {
+          "type": "compare",
+          "items": [
+            {
+              "wrong": "I is happy.",
+              "right": "I am happy.",
+              "why": "Con **I** siempre se usa **am**."
+            },
+            {
+              "wrong": "She happy.",
+              "right": "She is happy.",
+              "why": "En inglés el verbo be no se puede omitir."
+            },
+            {
+              "wrong": "My parents is teachers.",
+              "right": "My parents are teachers.",
+              "why": "My parents es plural (= they) → **are**."
+            },
+            {
+              "wrong": "He is engineer.",
+              "right": "He is an engineer.",
+              "why": "Las profesiones en singular llevan **a / an**."
+            }
+          ]
+        },
+        {
+          "type": "tip",
+          "title": "Sujetos con nombres",
+          "body": "Sustituye mentalmente el sujeto por un pronombre: **Carlos** → he → is. **Ana and Luis** → they → are. **My dog** → it → is."
+        }
+      ],
+      "guided": [
+        {
+          "id": "a1-03-l1-g1",
+          "type": "fill_blank",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "I ___ a student.",
+          "blanks": [
+            {
+              "answers": [
+                "am"
+              ],
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "feedback": {
+                "is": "@be-agreement|Con I se usa am.",
+                "are": "@be-agreement|Con I se usa am."
+              }
+            }
+          ],
+          "explanation": "Con I siempre am: I am a student."
+        },
+        {
+          "id": "a1-03-l1-g2",
+          "type": "fill_blank",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "They ___ from Argentina.",
+          "blanks": [
+            {
+              "answers": [
+                "are"
+              ],
+              "options": [
+                "am",
+                "is",
+                "are"
+              ],
+              "feedback": {
+                "is": "@be-agreement|They es plural: are."
+              }
+            }
+          ],
+          "explanation": "They → are."
+        },
+        {
+          "id": "a1-03-l1-g3",
+          "type": "matching",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "leftTitle": "Completa",
+          "rightTitle": "Contracción",
+          "pairs": [
+            [
+              "I am",
+              "I'm"
+            ],
+            [
+              "you are",
+              "you're"
+            ],
+            [
+              "she is",
+              "she's"
+            ],
+            [
+              "we are",
+              "we're"
+            ],
+            [
+              "it is",
+              "it's"
+            ]
+          ],
+          "explanation": "La contracción sustituye la primera letra del verbo por un apóstrofo."
+        },
+        {
+          "id": "a1-03-l1-g4",
+          "type": "multiple_choice",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "My brother ___ a doctor.",
+          "options": [
+            "is",
+            {
+              "text": "are",
+              "why": "My brother es una persona (= he): is.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "am",
+              "why": "Am solo va con I.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "be",
+              "why": "Be es la forma base; en presente hay que conjugar: is.",
+              "error": "be-agreement"
+            }
+          ],
+          "answer": 0,
+          "explanation": "My brother = he → is."
+        },
+        {
+          "id": "a1-03-l1-g5",
+          "type": "true_false",
+          "topic": "be-affirmative",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "En inglés «ser» y «estar» se dicen con el mismo verbo: to be.",
+          "answer": true,
+          "explanation": "Verdadero: I am a teacher (soy) / I am tired (estoy)."
+        }
+      ],
+      "independent": [
+        {
+          "id": "a1-03-l1-i1",
+          "type": "fill_blank",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "My parents ___ in Cali, but my sister ___ in Bogotá.",
+          "blanks": [
+            {
+              "answers": [
+                "are"
+              ],
+              "feedback": {
+                "is": "@be-agreement|My parents es plural."
+              }
+            },
+            {
+              "answers": [
+                "is"
+              ],
+              "feedback": {
+                "are": "@be-agreement|My sister es singular."
+              }
+            }
+          ],
+          "explanation": "My parents (they) → are; my sister (she) → is."
+        },
+        {
+          "id": "a1-03-l1-i2",
+          "type": "error_correction",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "We is very tired today.",
+          "answers": [
+            "We are very tired today.",
+            "We're very tired today."
+          ],
+          "errorTag": "be-agreement",
+          "explanation": "We → are."
+        },
+        {
+          "id": "a1-03-l1-i3",
+          "type": "error_identification",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "segments": [
+            "Laura",
+            "very happy",
+            "with her new job."
+          ],
+          "errorIndex": 1,
+          "correction": [
+            "is very happy"
+          ],
+          "errorTag": "be-missing",
+          "explanation": "Falta el verbo be: Laura is very happy."
+        },
+        {
+          "id": "a1-03-l1-i4",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "be-affirmative",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "Mi hermano es ingeniero.",
+          "answers": [
+            "My brother is an engineer.",
+            "My brother's an engineer."
+          ],
+          "keyConcepts": [
+            [
+              "brother"
+            ],
+            [
+              "engineer"
+            ]
+          ],
+          "notes": "En inglés la profesión lleva artículo: **an** engineer (an porque engineer empieza con sonido vocálico).",
+          "errorTag": "article-missing",
+          "explanation": "My brother is an engineer."
+        },
+        {
+          "id": "a1-03-l1-i5",
+          "type": "multiple_choice",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "¿Qué oración es correcta?",
+          "options": [
+            "The children are at school.",
+            {
+              "text": "The children is at school.",
+              "why": "Children es plural (niños): are.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "The children at school.",
+              "why": "Falta el verbo be.",
+              "error": "be-missing"
+            },
+            {
+              "text": "The children am at school.",
+              "why": "Am solo va con I.",
+              "error": "be-agreement"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Children (plural irregular de child) → are."
+        },
+        {
+          "id": "a1-03-l1-i6",
+          "type": "sentence_building",
+          "topic": "be-affirmative",
+          "skill": "construction",
+          "difficulty": 2,
+          "cue": "she / from / Brazil / Brazilian",
+          "clue": "Di de dónde es y su nacionalidad (dos oraciones).",
+          "answers": [
+            "{She is|She's} from Brazil. {She is|She's} Brazilian."
+          ],
+          "explanation": "She is from Brazil. She is Brazilian. Las nacionalidades llevan mayúscula."
+        },
+        {
+          "id": "a1-03-l1-i7",
+          "type": "translation",
+          "direction": "en-es",
+          "unit": "sentence",
+          "topic": "be-affirmative",
+          "skill": "translation",
+          "difficulty": 1,
+          "source": "We're in the kitchen.",
+          "answers": [
+            "Estamos en la cocina.",
+            "Nosotros estamos en la cocina."
+          ],
+          "keyConcepts": [
+            [
+              "estamos"
+            ],
+            [
+              "cocina"
+            ]
+          ],
+          "notes": "Aquí be = **estar** (lugar).",
+          "explanation": "We're in the kitchen = Estamos en la cocina."
+        }
+      ],
+      "summary": [
+        "I am · you are · he/she/it is · we are · they are.",
+        "Contracciones: I'm, you're, he's, she's, it's, we're, they're.",
+        "To be = ser y estar: nombre, origen, profesión, edad, estado, descripción, lugar.",
+        "El verbo be nunca se omite: She is happy (no «She happy»).",
+        "Sujetos con nombres: piensa en el pronombre (my parents = they → are)."
+      ],
+      "quiz": [
+        {
+          "id": "a1-03-l1-q1",
+          "type": "fill_blank",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "She ___ my best friend.",
+          "blanks": [
+            {
+              "answers": [
+                "is"
+              ],
+              "feedback": {
+                "are": "@be-agreement",
+                "am": "@be-agreement"
+              }
+            }
+          ],
+          "explanation": "She → is."
+        },
+        {
+          "id": "a1-03-l1-q2",
+          "type": "fill_blank",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "You ___ very kind.",
+          "blanks": [
+            {
+              "answers": [
+                "are"
+              ],
+              "feedback": {
+                "is": "@be-agreement|Con you siempre are, aunque sea una sola persona."
+              }
+            }
+          ],
+          "explanation": "You (singular o plural) → are."
+        },
+        {
+          "id": "a1-03-l1-q3",
+          "type": "multiple_choice",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "Ana and Pedro ___ married.",
+          "options": [
+            "are",
+            {
+              "text": "is",
+              "why": "Ana and Pedro son dos personas (= they).",
+              "error": "be-agreement"
+            },
+            {
+              "text": "am",
+              "why": "Am solo va con I.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "be",
+              "why": "Hay que conjugar el verbo.",
+              "error": "be-agreement"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Ana and Pedro = they → are."
+        },
+        {
+          "id": "a1-03-l1-q4",
+          "type": "error_correction",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "My father engineer.",
+          "answers": [
+            "My father is an engineer.",
+            "My father's an engineer."
+          ],
+          "errorTag": "be-missing",
+          "explanation": "Faltan el verbo be y el artículo: My father is an engineer."
+        },
+        {
+          "id": "a1-03-l1-q5",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "be-affirmative",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "Estoy cansada.",
+          "answers": [
+            "I am tired.",
+            "I'm tired."
+          ],
+          "keyConcepts": [
+            [
+              "tired"
+            ]
+          ],
+          "notes": "«Estar» también es **be**: I am tired.",
+          "explanation": "I am tired / I'm tired."
+        },
+        {
+          "id": "a1-03-l1-q6",
+          "type": "word_order",
+          "topic": "be-affirmative",
+          "skill": "construction",
+          "difficulty": 1,
+          "tokens": [
+            "the",
+            "keys",
+            "are",
+            "in",
+            "my",
+            "bag"
+          ],
+          "clue": "Las llaves están en mi bolso.",
+          "explanation": "The keys (plural) + are + lugar."
+        },
+        {
+          "id": "a1-03-l1-q7",
+          "type": "multiple_choice",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "¿Cuál es la contracción correcta de «they are»?",
+          "options": [
+            "they're",
+            {
+              "text": "their",
+              "why": "Their significa «su / sus» (de ellos).",
+              "error": "your-youre"
+            },
+            {
+              "text": "there",
+              "why": "There significa «allí».",
+              "error": "your-youre"
+            },
+            {
+              "text": "theyr'e",
+              "why": "El apóstrofo sustituye la a: they're."
+            }
+          ],
+          "answer": 0,
+          "explanation": "they are → they're. Their y there suenan parecido pero significan otra cosa."
+        },
+        {
+          "id": "a1-03-l1-q8",
+          "type": "fill_blank",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "It ___ 8 o'clock and we ___ late!",
+          "blanks": [
+            {
+              "answers": [
+                "is",
+                "'s"
+              ]
+            },
+            {
+              "answers": [
+                "are",
+                "'re"
+              ]
+            }
+          ],
+          "explanation": "It → is; we → are."
+        },
+        {
+          "id": "a1-03-l1-q9",
+          "type": "matching",
+          "topic": "be-affirmative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "pairs": [
+            [
+              "My cat",
+              "is black."
+            ],
+            [
+              "Sara and I",
+              "are cousins."
+            ],
+            [
+              "I",
+              "am 30 years old."
+            ],
+            [
+              "The books",
+              "are on the table."
+            ]
+          ],
+          "explanation": "My cat (it) → is; Sara and I (we) → are; I → am; the books (they) → are."
+        },
+        {
+          "id": "a1-03-l1-q10",
+          "type": "true_false",
+          "topic": "be-affirmative",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "«He's a teacher» significa «Él es profesor».",
+          "answer": true,
+          "explanation": "He's = he is."
+        }
+      ]
+    },
+    {
+      "id": "a1-03-l2",
+      "title": "To Be: Negatives, Questions and Short Answers",
+      "titleEs": "To be: negativa, preguntas y respuestas cortas",
+      "objective": "Formar negaciones y preguntas con be y responder con respuestas cortas.",
+      "learn": [
+        "La negativa con not y sus contracciones (isn't, aren't).",
+        "Cómo se forma una pregunta: el verbo va antes del sujeto.",
+        "Las respuestas cortas: Yes, I am / No, she isn't."
+      ],
+      "why": "Preguntar y negar es imprescindible para conversar. Las preguntas con be siguen una regla (inversión) que luego reutilizarás con otros verbos.",
+      "theory": [
+        {
+          "type": "rule",
+          "title": "Negativa",
+          "formula": "Sujeto + am / is / are + not + complemento",
+          "body": "`I am not hungry.` `She is not here.` `They are not students.`"
+        },
+        {
+          "type": "table",
+          "title": "Formas negativas",
+          "headers": [
+            "Completa",
+            "Contracciones",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "I am not",
+              "I'm not",
+              "I'm not tired."
+            ],
+            [
+              "you are not",
+              "you aren't / you're not",
+              "You aren't late."
+            ],
+            [
+              "he / she / it is not",
+              "isn't / he's not",
+              "She isn't at home."
+            ],
+            [
+              "we / they are not",
+              "aren't / we're not",
+              "They aren't Spanish."
+            ]
+          ],
+          "caption": "«I amn't» no existe: se dice I'm not."
+        },
+        {
+          "type": "rule",
+          "title": "Preguntas: el verbo va primero",
+          "formula": "Am / Is / Are + sujeto + complemento ?",
+          "body": "Afirmativa: `She is a nurse.` → Pregunta: `Is she a nurse?`\nAfirmativa: `They are at home.` → Pregunta: `Are they at home?`"
+        },
+        {
+          "type": "table",
+          "title": "Respuestas cortas",
+          "headers": [
+            "Pregunta",
+            "Sí",
+            "No"
+          ],
+          "rows": [
+            [
+              "Am I late?",
+              "Yes, you are.",
+              "No, you aren't."
+            ],
+            [
+              "Are you a student?",
+              "Yes, I am.",
+              "No, I'm not."
+            ],
+            [
+              "Is he your brother?",
+              "Yes, he is.",
+              "No, he isn't."
+            ],
+            [
+              "Is it expensive?",
+              "Yes, it is.",
+              "No, it isn't."
+            ],
+            [
+              "Are they from Peru?",
+              "Yes, they are.",
+              "No, they aren't."
+            ]
+          ]
+        },
+        {
+          "type": "warning",
+          "title": "Respuestas cortas afirmativas sin contracción",
+          "body": "Se dice **Yes, I am** / **Yes, she is** / **Yes, they are**. Nunca «Yes, I'm» ni «Yes, she's». En las negativas sí se contrae: No, she isn't."
+        },
+        {
+          "type": "compare",
+          "items": [
+            {
+              "wrong": "You are a student?",
+              "right": "Are you a student?",
+              "why": "En la pregunta con be, el verbo va **antes** del sujeto. (Con entonación se usa en el habla informal, pero la forma estándar invierte el orden.)"
+            },
+            {
+              "wrong": "She no is here.",
+              "right": "She isn't here.",
+              "why": "La negación es **not** después del verbo, no «no» antes."
+            },
+            {
+              "wrong": "I amn't ready.",
+              "right": "I'm not ready.",
+              "why": "La contracción «amn't» no existe."
+            },
+            {
+              "wrong": "Yes, I'm.",
+              "right": "Yes, I am.",
+              "why": "Las respuestas cortas afirmativas no se contraen."
+            }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "lines": [
+            {
+              "speaker": "A",
+              "en": "Are you from Spain?",
+              "es": "¿Eres de España?"
+            },
+            {
+              "speaker": "B",
+              "en": "No, I'm not. I'm from Colombia.",
+              "es": "No. Soy de Colombia."
+            },
+            {
+              "speaker": "A",
+              "en": "Is your friend Colombian too?",
+              "es": "¿Tu amiga también es colombiana?"
+            },
+            {
+              "speaker": "B",
+              "en": "No, she isn't. She's Chilean.",
+              "es": "No. Es chilena."
+            }
+          ]
+        }
+      ],
+      "guided": [
+        {
+          "id": "a1-03-l2-g1",
+          "type": "multiple_choice",
+          "topic": "be-negative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "He ___ at home. He's at work.",
+          "options": [
+            "isn't",
+            {
+              "text": "aren't",
+              "why": "He → is not → isn't.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "no is",
+              "why": "La negación va después del verbo: is not.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "not",
+              "why": "Falta el verbo be: isn't.",
+              "error": "be-missing"
+            }
+          ],
+          "answer": 0,
+          "explanation": "He is not = he isn't."
+        },
+        {
+          "id": "a1-03-l2-g2",
+          "type": "word_order",
+          "topic": "be-questions",
+          "skill": "construction",
+          "difficulty": 1,
+          "tokens": [
+            "are",
+            "you",
+            "a",
+            "student"
+          ],
+          "punctuation": "?",
+          "clue": "¿Eres estudiante?",
+          "errorTag": "be-question-order",
+          "explanation": "Pregunta con be: Are + you + a student?"
+        },
+        {
+          "id": "a1-03-l2-g3",
+          "type": "multiple_choice",
+          "topic": "be-questions",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "—Is she your teacher? —Yes, ___",
+          "options": [
+            "she is.",
+            {
+              "text": "she's.",
+              "why": "Las respuestas cortas afirmativas no se contraen.",
+              "error": "short-answer"
+            },
+            {
+              "text": "she are.",
+              "why": "She → is.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "is she.",
+              "why": "En la respuesta el orden es sujeto + verbo."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Respuesta corta afirmativa: Yes, she is."
+        },
+        {
+          "id": "a1-03-l2-g4",
+          "type": "fill_blank",
+          "topic": "be-negative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "I ___ not hungry, thanks.",
+          "blanks": [
+            {
+              "answers": [
+                "am"
+              ],
+              "feedback": {
+                "is": "@be-agreement",
+                "are": "@be-agreement"
+              }
+            }
+          ],
+          "explanation": "I am not = I'm not."
+        },
+        {
+          "id": "a1-03-l2-g5",
+          "type": "true_false",
+          "topic": "be-negative",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "«I amn't» es una contracción correcta.",
+          "answer": false,
+          "explanation": "Falso: se dice I'm not."
+        }
+      ],
+      "independent": [
+        {
+          "id": "a1-03-l2-i1",
+          "type": "error_correction",
+          "topic": "be-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "Your parents are at home?",
+          "answers": [
+            "Are your parents at home?"
+          ],
+          "errorTag": "be-question-order",
+          "explanation": "En la pregunta el verbo va primero: Are your parents at home?"
+        },
+        {
+          "id": "a1-03-l2-i2",
+          "type": "fill_blank",
+          "topic": "be-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "—___ they from Mexico? —No, they ___.",
+          "blanks": [
+            {
+              "answers": [
+                "Are"
+              ]
+            },
+            {
+              "answers": [
+                "aren't",
+                "are not",
+                "'re not"
+              ],
+              "feedback": {
+                "are": "La respuesta es negativa: No, they aren't.",
+                "isn't": "@be-agreement|They → aren't."
+              }
+            }
+          ],
+          "explanation": "Are they…? — No, they aren't."
+        },
+        {
+          "id": "a1-03-l2-i3",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "be-negative",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "No somos hermanos.",
+          "answers": [
+            "We are not brothers.",
+            "We aren't brothers.",
+            "We're not brothers.",
+            "We are not siblings.",
+            "We aren't siblings.",
+            "We're not siblings.",
+            "We are not brother and sister.",
+            "We aren't brother and sister.",
+            "We're not brother and sister."
+          ],
+          "keyConcepts": [
+            [
+              "not",
+              "aren't"
+            ],
+            [
+              "brothers",
+              "siblings",
+              "brother and sister"
+            ]
+          ],
+          "notes": "«Hermanos» puede ser brothers (solo hombres), siblings (en general) o brother and sister.",
+          "explanation": "We aren't brothers / We're not siblings."
+        },
+        {
+          "id": "a1-03-l2-i4",
+          "type": "multiple_choice",
+          "topic": "be-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "—Are you tired? —No, ___",
+          "options": [
+            "I'm not.",
+            {
+              "text": "I amn't.",
+              "why": "«Amn't» no existe.",
+              "error": "be-agreement"
+            },
+            {
+              "text": "I don't.",
+              "why": "Con be la respuesta corta repite be: I'm not."
+            },
+            {
+              "text": "I not.",
+              "why": "Falta el verbo: I'm not."
+            }
+          ],
+          "answer": 0,
+          "explanation": "No, I'm not."
+        },
+        {
+          "id": "a1-03-l2-i5",
+          "type": "sentence_building",
+          "topic": "be-negative",
+          "skill": "construction",
+          "difficulty": 2,
+          "cue": "it / not / expensive",
+          "clue": "Di que no es caro.",
+          "answers": [
+            "It {is not|isn't} expensive.",
+            "It's not expensive."
+          ],
+          "explanation": "It is not expensive = It isn't expensive = It's not expensive."
+        },
+        {
+          "id": "a1-03-l2-i6",
+          "type": "matching",
+          "topic": "be-questions",
+          "skill": "comprehension",
+          "difficulty": 2,
+          "pairs": [
+            [
+              "Are you Colombian?",
+              "Yes, I am."
+            ],
+            [
+              "Is it cold outside?",
+              "Yes, it is."
+            ],
+            [
+              "Are your friends here?",
+              "No, they aren't."
+            ],
+            [
+              "Is Mr. Lee your boss?",
+              "No, he isn't."
+            ]
+          ],
+          "explanation": "La respuesta corta repite el sujeto (en pronombre) y el verbo be."
+        },
+        {
+          "id": "a1-03-l2-i7",
+          "type": "dictation",
+          "topic": "be-negative",
+          "skill": "listening",
+          "difficulty": 2,
+          "text": "She isn't at home today.",
+          "answers": [
+            "She is not at home today."
+          ],
+          "explanation": "She isn't at home today (= she is not)."
+        }
+      ],
+      "summary": [
+        "Negativa: am / is / are + not → I'm not, isn't, aren't.",
+        "Pregunta: Am / Is / Are + sujeto…? → Is she a nurse?",
+        "Respuestas cortas: Yes, I am / No, I'm not; Yes, she is / No, she isn't.",
+        "Nunca «Yes, I'm» ni «I amn't»."
+      ],
+      "quiz": [
+        {
+          "id": "a1-03-l2-q1",
+          "type": "fill_blank",
+          "topic": "be-negative",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "We ___ ready. Wait a minute!",
+          "blanks": [
+            {
+              "answers": [
+                "aren't",
+                "are not",
+                "'re not"
+              ],
+              "feedback": {
+                "isn't": "@be-agreement|We → aren't."
+              }
+            }
+          ],
+          "explanation": "We are not = we aren't."
+        },
+        {
+          "id": "a1-03-l2-q2",
+          "type": "word_order",
+          "topic": "be-questions",
+          "skill": "construction",
+          "difficulty": 1,
+          "tokens": [
+            "is",
+            "your",
+            "sister",
+            "a",
+            "nurse"
+          ],
+          "punctuation": "?",
+          "clue": "¿Tu hermana es enfermera?",
+          "errorTag": "be-question-order",
+          "explanation": "Is + your sister + a nurse?"
+        },
+        {
+          "id": "a1-03-l2-q3",
+          "type": "multiple_choice",
+          "topic": "be-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "—Are your parents teachers? —Yes, ___",
+          "options": [
+            "they are.",
+            {
+              "text": "they're.",
+              "why": "Las respuestas cortas afirmativas no se contraen.",
+              "error": "short-answer"
+            },
+            {
+              "text": "are they.",
+              "why": "En la respuesta va sujeto + verbo."
+            },
+            {
+              "text": "they is.",
+              "why": "They → are.",
+              "error": "be-agreement"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Yes, they are."
+        },
+        {
+          "id": "a1-03-l2-q4",
+          "type": "error_correction",
+          "topic": "be-negative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "My brother no is at school.",
+          "answers": [
+            "My brother isn't at school.",
+            "My brother is not at school.",
+            "My brother's not at school."
+          ],
+          "errorTag": "be-agreement",
+          "explanation": "La negación es is not (isn't), después del verbo."
+        },
+        {
+          "id": "a1-03-l2-q5",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "be-questions",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "¿Estás en casa?",
+          "answers": [
+            "Are you at home?",
+            "Are you home?"
+          ],
+          "keyConcepts": [
+            [
+              "are you"
+            ],
+            [
+              "home"
+            ]
+          ],
+          "notes": "Pregunta con be: el verbo va primero. «En casa» = at home.",
+          "explanation": "Are you at home?"
+        },
+        {
+          "id": "a1-03-l2-q6",
+          "type": "multiple_choice",
+          "topic": "be-negative",
+          "skill": "grammar",
+          "difficulty": 2,
+          "question": "¿Qué oración es incorrecta?",
+          "options": [
+            "I amn't hungry.",
+            {
+              "text": "I'm not hungry.",
+              "why": "Es correcta."
+            },
+            {
+              "text": "She isn't hungry.",
+              "why": "Es correcta."
+            },
+            {
+              "text": "They're not hungry.",
+              "why": "Es correcta."
+            }
+          ],
+          "answer": 0,
+          "explanation": "«Amn't» no existe; se dice I'm not."
+        },
+        {
+          "id": "a1-03-l2-q7",
+          "type": "fill_blank",
+          "topic": "be-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "—___ it your phone? —No, it ___. It's my brother's.",
+          "blanks": [
+            {
+              "answers": [
+                "Is"
+              ]
+            },
+            {
+              "answers": [
+                "isn't",
+                "is not",
+                "'s not"
+              ]
+            }
+          ],
+          "explanation": "Is it…? — No, it isn't."
+        },
+        {
+          "id": "a1-03-l2-q8",
+          "type": "error_identification",
+          "topic": "be-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "segments": [
+            "—Are you a doctor?",
+            "—Yes,",
+            "I'm."
+          ],
+          "errorIndex": 2,
+          "correction": [
+            "I am",
+            "I am."
+          ],
+          "errorTag": "short-answer",
+          "explanation": "Respuesta corta afirmativa sin contracción: Yes, I am."
+        },
+        {
+          "id": "a1-03-l2-q9",
+          "type": "true_false",
+          "topic": "be-questions",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "statement": "Para preguntar con be, se pone el verbo antes del sujeto: Is he…? Are you…?",
+          "answer": true,
+          "explanation": "Verdadero: inversión verbo-sujeto."
+        },
+        {
+          "id": "a1-03-l2-q10",
+          "type": "dictation",
+          "topic": "be-questions",
+          "skill": "listening",
+          "difficulty": 2,
+          "text": "Are they at work?",
+          "explanation": "Are they at work? (¿Están en el trabajo?)"
+        }
+      ]
+    },
+    {
+      "id": "a1-03-l3",
+      "title": "Wh- Questions and Expressions with Be",
+      "titleEs": "Preguntas Wh- y expresiones con be",
+      "objective": "Hacer preguntas de información personal con be y usar be donde el español usa «tener».",
+      "learn": [
+        "Preguntas con what, where, who, how y how old.",
+        "La edad y los estados con be: I'm 25, I'm hungry.",
+        "Cómo responder con naturalidad."
+      ],
+      "why": "Con estas preguntas puedes mantener tu primera conversación real. Y «I have 20 years» es uno de los errores más frecuentes de los hispanohablantes: aquí lo corriges para siempre.",
+      "theory": [
+        {
+          "type": "rule",
+          "title": "Preguntas de información",
+          "formula": "Palabra Wh- + am / is / are + sujeto … ?",
+          "body": "`Where` + `are` + `you` + `from`? → Where are you from?\n`What` + `is` + `your name`? → What's your name?"
+        },
+        {
+          "type": "table",
+          "title": "Preguntas personales",
+          "headers": [
+            "Pregunta",
+            "Respuesta"
+          ],
+          "rows": [
+            [
+              "What's your name?",
+              "I'm Ana. / My name's Ana."
+            ],
+            [
+              "Where are you from?",
+              "I'm from Colombia."
+            ],
+            [
+              "How old are you?",
+              "I'm 22 (years old)."
+            ],
+            [
+              "What's your job?",
+              "I'm a nurse."
+            ],
+            [
+              "How are you?",
+              "I'm fine, thanks."
+            ],
+            [
+              "Who is that man?",
+              "He's my uncle."
+            ],
+            [
+              "Where is the bathroom?",
+              "It's on the left."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Español «tener» = inglés «be»",
+          "headers": [
+            "Español",
+            "Inglés"
+          ],
+          "rows": [
+            [
+              "Tengo 25 años.",
+              "I'm 25 (years old)."
+            ],
+            [
+              "Tengo hambre.",
+              "I'm hungry."
+            ],
+            [
+              "Tengo sed.",
+              "I'm thirsty."
+            ],
+            [
+              "Tengo frío / calor.",
+              "I'm cold / hot."
+            ],
+            [
+              "Tengo miedo.",
+              "I'm scared / afraid."
+            ],
+            [
+              "Tengo razón.",
+              "I'm right."
+            ],
+            [
+              "Tengo prisa.",
+              "I'm in a hurry."
+            ]
+          ]
+        },
+        {
+          "type": "compare",
+          "items": [
+            {
+              "wrong": "I have 25 years.",
+              "right": "I'm 25. / I'm 25 years old.",
+              "why": "La edad se expresa con **be**. Tampoco se dice «I'm 25 years» (sin old)."
+            },
+            {
+              "wrong": "How many years do you have?",
+              "right": "How old are you?",
+              "why": "Para preguntar la edad: **How old** + be + sujeto."
+            },
+            {
+              "wrong": "Where you are from?",
+              "right": "Where are you from?",
+              "why": "Después de la palabra Wh- va el verbo y luego el sujeto."
+            },
+            {
+              "wrong": "I have hungry.",
+              "right": "I'm hungry.",
+              "why": "Hungry es un adjetivo y va con **be**."
+            }
+          ]
+        },
+        {
+          "type": "exception",
+          "title": "La preposición va al final",
+          "body": "En las preguntas, preposiciones como **from** quedan al final: Where are you **from**? Who is it **for**? En español van al principio (¿De dónde…?)."
+        },
+        {
+          "type": "dialogue",
+          "lines": [
+            {
+              "speaker": "Officer",
+              "en": "What's your name?",
+              "es": "¿Cómo se llama?"
+            },
+            {
+              "speaker": "Marta",
+              "en": "Marta Ruiz.",
+              "es": "Marta Ruiz."
+            },
+            {
+              "speaker": "Officer",
+              "en": "Where are you from?",
+              "es": "¿De dónde es?"
+            },
+            {
+              "speaker": "Marta",
+              "en": "I'm from Ecuador.",
+              "es": "Soy de Ecuador."
+            },
+            {
+              "speaker": "Officer",
+              "en": "How old are you?",
+              "es": "¿Cuántos años tiene?"
+            },
+            {
+              "speaker": "Marta",
+              "en": "I'm 34.",
+              "es": "Tengo 34."
+            }
+          ]
+        }
+      ],
+      "guided": [
+        {
+          "id": "a1-03-l3-g1",
+          "type": "multiple_choice",
+          "topic": "be-expressions",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "«Tengo 18 años» en inglés:",
+          "options": [
+            "I'm 18 years old.",
+            {
+              "text": "I have 18 years.",
+              "why": "La edad se dice con be, no con have.",
+              "error": "be-age"
+            },
+            {
+              "text": "I have 18 years old.",
+              "why": "Se usa be: I'm 18 years old.",
+              "error": "be-age"
+            },
+            {
+              "text": "I'm 18 years.",
+              "why": "O dices «I'm 18» o «I'm 18 years old», pero no «18 years» solo.",
+              "error": "be-age"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Edad = be + número (+ years old)."
+        },
+        {
+          "id": "a1-03-l3-g2",
+          "type": "matching",
+          "topic": "be-wh-questions",
+          "skill": "comprehension",
+          "difficulty": 1,
+          "pairs": [
+            [
+              "What's your name?",
+              "I'm Diego."
+            ],
+            [
+              "Where are you from?",
+              "I'm from Chile."
+            ],
+            [
+              "How old are you?",
+              "I'm 30."
+            ],
+            [
+              "How are you?",
+              "I'm fine, thanks."
+            ]
+          ],
+          "explanation": "Cada pregunta Wh- pide un dato diferente."
+        },
+        {
+          "id": "a1-03-l3-g3",
+          "type": "fill_blank",
+          "topic": "be-wh-questions",
+          "skill": "grammar",
+          "difficulty": 1,
+          "text": "Where ___ you from?",
+          "blanks": [
+            {
+              "answers": [
+                "are"
+              ],
+              "options": [
+                "are",
+                "is",
+                "do"
+              ],
+              "feedback": {
+                "is": "@be-agreement|Con you se usa are.",
+                "do": "Con be no se usa do: Where are you from?"
+              }
+            }
+          ],
+          "explanation": "Where + are + you + from?"
+        },
+        {
+          "id": "a1-03-l3-g4",
+          "type": "multiple_choice",
+          "topic": "be-expressions",
+          "skill": "vocabulary",
+          "difficulty": 1,
+          "question": "«Tengo sed» en inglés:",
+          "options": [
+            "I'm thirsty.",
+            {
+              "text": "I have thirsty.",
+              "why": "Thirsty es un adjetivo: va con be.",
+              "error": "be-age"
+            },
+            {
+              "text": "I'm hungry.",
+              "why": "Hungry = hambre.",
+              "error": "vocabulary-choice"
+            },
+            {
+              "text": "I have thirst.",
+              "why": "Es una traducción literal poco natural; se dice I'm thirsty.",
+              "error": "translation-literal"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Tener sed = be thirsty."
+        }
+      ],
+      "independent": [
+        {
+          "id": "a1-03-l3-i1",
+          "type": "word_order",
+          "topic": "be-wh-questions",
+          "skill": "construction",
+          "difficulty": 2,
+          "tokens": [
+            "how",
+            "old",
+            "is",
+            "your",
+            "brother"
+          ],
+          "punctuation": "?",
+          "clue": "¿Cuántos años tiene tu hermano?",
+          "explanation": "How old + is + your brother?"
+        },
+        {
+          "id": "a1-03-l3-i2",
+          "type": "error_correction",
+          "topic": "be-expressions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "My grandmother has 75 years.",
+          "answers": [
+            "My grandmother is 75.",
+            "My grandmother is 75 years old.",
+            "My grandmother's 75.",
+            "My grandmother's 75 years old.",
+            "My grandmother is seventy-five.",
+            "My grandmother is seventy-five years old."
+          ],
+          "errorTag": "be-age",
+          "explanation": "La edad se dice con be: My grandmother is 75 (years old)."
+        },
+        {
+          "id": "a1-03-l3-i3",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "be-wh-questions",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "¿De dónde es tu profesora?",
+          "answers": [
+            "Where is your teacher from?",
+            "Where's your teacher from?"
+          ],
+          "keyConcepts": [
+            [
+              "where"
+            ],
+            [
+              "teacher"
+            ],
+            [
+              "from"
+            ]
+          ],
+          "notes": "La preposición **from** va al final de la pregunta.",
+          "explanation": "Where is your teacher from?"
+        },
+        {
+          "id": "a1-03-l3-i4",
+          "type": "multiple_choice",
+          "topic": "be-wh-questions",
+          "skill": "comprehension",
+          "difficulty": 2,
+          "question": "—___ is that woman? —She's my aunt.",
+          "options": [
+            "Who",
+            {
+              "text": "What",
+              "why": "Para personas se pregunta con who.",
+              "error": "question-word"
+            },
+            {
+              "text": "Where",
+              "why": "Where pregunta por un lugar.",
+              "error": "question-word"
+            },
+            {
+              "text": "How",
+              "why": "How pregunta cómo.",
+              "error": "question-word"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Who = quién (personas)."
+        },
+        {
+          "id": "a1-03-l3-i5",
+          "type": "open_answer",
+          "topic": "be-wh-questions",
+          "skill": "writing",
+          "difficulty": 2,
+          "question": "Answer in English: What's your name, where are you from and how old are you?",
+          "requirements": [
+            {
+              "label": "Tu nombre (I'm… / My name is…)",
+              "pattern": "\\b(my name is|my name's|i'?m|i am)\\s+(?!(from|a|an|the|very|fine|good|ok|okay|tired|happy|hungry|thirsty|cold|hot|not|in|at|years?)\\b)(?!\\d)[a-záéíóúñ]+",
+              "feedback": "Di tu nombre: I'm… / My name is…"
+            },
+            {
+              "label": "Tu origen (from…)",
+              "pattern": "\\bfrom\\s+[a-z]",
+              "feedback": "Di de dónde eres: I'm from…"
+            },
+            {
+              "label": "Tu edad con be",
+              "pattern": "\\b(i'?m|i am)\\s+(\\d{1,3}|(ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)(-[a-z]+)?)\\b",
+              "feedback": "Di tu edad con be: I'm 25."
+            }
+          ],
+          "minWords": 8,
+          "maxWords": 40,
+          "sampleAnswers": [
+            "My name is Laura. I'm from Colombia and I'm 24 years old.",
+            "I'm Diego. I'm from Peru. I am 31."
+          ],
+          "explanation": "Tres oraciones con be: nombre, origen y edad."
+        },
+        {
+          "id": "a1-03-l3-i6",
+          "type": "fill_blank",
+          "topic": "be-expressions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "Close the window, please. I ___ cold.",
+          "blanks": [
+            {
+              "answers": [
+                "am",
+                "'m"
+              ],
+              "feedback": {
+                "have": "@be-age|Tener frío = be cold."
+              }
+            }
+          ],
+          "explanation": "Tener frío = be cold: I'm cold."
+        },
+        {
+          "id": "a1-03-l3-i7",
+          "type": "translation",
+          "direction": "en-es",
+          "unit": "sentence",
+          "topic": "be-expressions",
+          "skill": "translation",
+          "difficulty": 1,
+          "source": "We're in a hurry.",
+          "answers": [
+            "Tenemos prisa.",
+            "Estamos apurados.",
+            "Estamos apuradas.",
+            "Tenemos afán."
+          ],
+          "keyConcepts": [
+            [
+              "prisa",
+              "apurados",
+              "apuradas",
+              "afan"
+            ]
+          ],
+          "notes": "Traducción literal: «Estamos en una prisa». La natural: **Tenemos prisa**.",
+          "explanation": "We're in a hurry = Tenemos prisa."
+        }
+      ],
+      "summary": [
+        "Wh- + be + sujeto: Where are you from? What's your name? How old are you?",
+        "La preposición queda al final: Where are you from?",
+        "Edad con be: I'm 25 / I'm 25 years old (nunca «I have 25 years»).",
+        "be hungry, thirsty, cold, hot, scared, right, in a hurry = tener hambre, sed, frío, calor, miedo, razón, prisa.",
+        "Who = personas, What = cosas/datos, Where = lugar, How = modo/estado."
+      ],
+      "quiz": [
+        {
+          "id": "a1-03-l3-q1",
+          "type": "multiple_choice",
+          "topic": "be-expressions",
+          "skill": "grammar",
+          "difficulty": 1,
+          "question": "«Mi hija tiene 7 años»:",
+          "options": [
+            "My daughter is 7.",
+            {
+              "text": "My daughter has 7 years.",
+              "why": "La edad va con be.",
+              "error": "be-age"
+            },
+            {
+              "text": "My daughter is 7 years.",
+              "why": "Falta old: is 7 years old, o simplemente is 7.",
+              "error": "be-age"
+            },
+            {
+              "text": "My daughter have 7.",
+              "why": "La edad va con be.",
+              "error": "be-age"
+            }
+          ],
+          "answer": 0,
+          "explanation": "My daughter is 7 (years old)."
+        },
+        {
+          "id": "a1-03-l3-q2",
+          "type": "word_order",
+          "topic": "be-wh-questions",
+          "skill": "construction",
+          "difficulty": 1,
+          "tokens": [
+            "where",
+            "are",
+            "you",
+            "from"
+          ],
+          "punctuation": "?",
+          "clue": "¿De dónde eres?",
+          "explanation": "Where + are + you + from?"
+        },
+        {
+          "id": "a1-03-l3-q3",
+          "type": "fill_blank",
+          "topic": "be-wh-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "What ___ your phone number?",
+          "blanks": [
+            {
+              "answers": [
+                "is",
+                "'s"
+              ],
+              "feedback": {
+                "are": "@be-agreement|Your phone number es singular."
+              }
+            }
+          ],
+          "explanation": "What is your phone number?"
+        },
+        {
+          "id": "a1-03-l3-q4",
+          "type": "error_correction",
+          "topic": "be-wh-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "sentence": "Where your parents are?",
+          "answers": [
+            "Where are your parents?"
+          ],
+          "errorTag": "question-word-order",
+          "explanation": "Wh- + verbo + sujeto: Where are your parents?"
+        },
+        {
+          "id": "a1-03-l3-q5",
+          "type": "translation",
+          "direction": "es-en",
+          "unit": "sentence",
+          "topic": "be-expressions",
+          "skill": "translation",
+          "difficulty": 2,
+          "source": "Tengo hambre.",
+          "answers": [
+            "I am hungry.",
+            "I'm hungry."
+          ],
+          "keyConcepts": [
+            [
+              "hungry"
+            ]
+          ],
+          "notes": "«Tener hambre» = **be hungry**.",
+          "errorTag": "be-age",
+          "explanation": "I'm hungry."
+        },
+        {
+          "id": "a1-03-l3-q6",
+          "type": "multiple_choice",
+          "topic": "be-wh-questions",
+          "skill": "comprehension",
+          "difficulty": 2,
+          "question": "Quieres saber la edad de una niña:",
+          "options": [
+            "How old is she?",
+            {
+              "text": "How many years does she have?",
+              "why": "Traducción literal incorrecta; se dice How old is she?",
+              "error": "be-age"
+            },
+            {
+              "text": "How old she is?",
+              "why": "En la pregunta el verbo va antes del sujeto.",
+              "error": "question-word-order"
+            },
+            {
+              "text": "What old is she?",
+              "why": "Se pregunta con How old.",
+              "error": "question-word"
+            }
+          ],
+          "answer": 0,
+          "explanation": "How old + is + she?"
+        },
+        {
+          "id": "a1-03-l3-q7",
+          "type": "matching",
+          "topic": "be-expressions",
+          "skill": "translation",
+          "difficulty": 2,
+          "pairs": [
+            [
+              "Tengo frío.",
+              "I'm cold."
+            ],
+            [
+              "Tengo razón.",
+              "I'm right."
+            ],
+            [
+              "Tengo miedo.",
+              "I'm scared."
+            ],
+            [
+              "Tengo calor.",
+              "I'm hot."
+            ]
+          ],
+          "explanation": "En todas estas expresiones el inglés usa be + adjetivo."
+        },
+        {
+          "id": "a1-03-l3-q8",
+          "type": "fill_blank",
+          "topic": "be-wh-questions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "text": "—___ is your birthday? —It's in June.",
+          "blanks": [
+            {
+              "answers": [
+                "When"
+              ],
+              "feedback": {
+                "where": "@question-word|Where pregunta por un lugar; aquí se pregunta por un momento.",
+                "what": "@question-word"
+              }
+            }
+          ],
+          "explanation": "When = cuándo."
+        },
+        {
+          "id": "a1-03-l3-q9",
+          "type": "error_identification",
+          "topic": "be-expressions",
+          "skill": "grammar",
+          "difficulty": 2,
+          "segments": [
+            "Can I have",
+            "some water?",
+            "I have",
+            "very thirsty."
+          ],
+          "errorIndex": 2,
+          "correction": [
+            "I am",
+            "I'm"
+          ],
+          "errorTag": "be-age",
+          "explanation": "Tener sed = be thirsty: I'm very thirsty."
+        },
+        {
+          "id": "a1-03-l3-q10",
+          "type": "dictation",
+          "topic": "be-wh-questions",
+          "skill": "listening",
+          "difficulty": 2,
+          "text": "How old are your children?",
+          "explanation": "How old are your children? (¿Cuántos años tienen tus hijos?)"
+        }
+      ]
+    }
+  ],
+  "integrative": [
+    {
+      "id": "a1-03-x1",
+      "type": "reading_comprehension",
+      "topic": "be-affirmative",
+      "skill": "reading",
+      "difficulty": 2,
+      "title": "New neighbors",
+      "passage": "Hello! My name's Omar and I'm 29. I'm from Morocco, but I live in Madrid. I'm a chef. My wife, Nadia, is a nurse. She isn't Moroccan; she's French. We're very happy here. Our neighbors are from Colombia. Their names are Julián and Sofía. They aren't married. They're brother and sister.",
+      "explanation": "Texto con be en afirmativa y negativa.",
+      "questions": [
+        {
+          "id": "a1-03-x1-1",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "Where is Omar from?",
+          "options": [
+            "Morocco",
+            "Spain",
+            "France",
+            "Colombia"
+          ],
+          "answer": 0,
+          "explanation": "«I'm from Morocco, but I live in Madrid.»"
+        },
+        {
+          "id": "a1-03-x1-2",
+          "type": "true_false",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "statement": "Nadia is Moroccan.",
+          "answer": false,
+          "explanation": "«She isn't Moroccan; she's French.»"
+        },
+        {
+          "id": "a1-03-x1-3",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 2,
+          "question": "Julián and Sofía are…",
+          "options": [
+            "brother and sister",
+            "husband and wife",
+            "Omar's cousins",
+            "from France"
+          ],
+          "answer": 0,
+          "explanation": "«They aren't married. They're brother and sister.»"
+        },
+        {
+          "id": "a1-03-x1-4",
+          "type": "multiple_choice",
+          "topic": "reading-detail",
+          "skill": "reading",
+          "difficulty": 1,
+          "question": "What is Omar's job?",
+          "options": [
+            "He's a chef.",
+            "He's a nurse.",
+            "He's a teacher.",
+            "He's a doctor."
+          ],
+          "answer": 0,
+          "explanation": "«I'm a chef.»"
+        }
+      ]
+    },
+    {
+      "id": "a1-03-x2",
+      "type": "fill_blank",
+      "topic": "be-questions",
+      "skill": "grammar",
+      "difficulty": 3,
+      "text": "—___ you and your sister twins? —Yes, we ___. We ___ 19.",
+      "blanks": [
+        {
+          "answers": [
+            "Are"
+          ]
+        },
+        {
+          "answers": [
+            "are"
+          ],
+          "feedback": {
+            "'re": "@short-answer"
+          }
+        },
+        {
+          "answers": [
+            "are",
+            "'re"
+          ]
+        }
+      ],
+      "explanation": "Are you…? — Yes, we are (sin contracción). We are 19."
+    },
+    {
+      "id": "a1-03-x3",
+      "type": "error_correction",
+      "topic": "be-wh-questions",
+      "skill": "grammar",
+      "difficulty": 3,
+      "sentence": "How many years has your father?",
+      "answers": [
+        "How old is your father?"
+      ],
+      "errorTag": "be-age",
+      "explanation": "La edad se pregunta con How old + be."
+    },
+    {
+      "id": "a1-03-x4",
+      "type": "translation",
+      "direction": "es-en",
+      "unit": "sentence",
+      "topic": "be-negative",
+      "skill": "translation",
+      "difficulty": 3,
+      "source": "Mis padres no son de Lima; son de Cusco.",
+      "answers": [
+        "My parents {aren't|are not|'re not} from Lima; {they are|they're} from Cusco.",
+        "My parents {aren't|are not|'re not} from Lima. {They are|They're} from Cusco."
+      ],
+      "keyConcepts": [
+        [
+          "parents"
+        ],
+        [
+          "not",
+          "aren't"
+        ],
+        [
+          "from"
+        ],
+        [
+          "they"
+        ]
+      ],
+      "notes": "La segunda oración necesita sujeto: **they** are from Cusco.",
+      "explanation": "My parents aren't from Lima; they're from Cusco."
+    },
+    {
+      "id": "a1-03-x5",
+      "type": "multiple_choice",
+      "topic": "be-questions",
+      "skill": "grammar",
+      "difficulty": 2,
+      "question": "—Is this your bag? —No, ___ my bag. It's Carla's.",
+      "options": [
+        "it isn't",
+        {
+          "text": "it no is",
+          "why": "La negación va después: it isn't.",
+          "error": "be-agreement"
+        },
+        {
+          "text": "is not it",
+          "why": "En la afirmación/negación el sujeto va primero."
+        },
+        {
+          "text": "it aren't",
+          "why": "It → isn't.",
+          "error": "be-agreement"
+        }
+      ],
+      "answer": 0,
+      "explanation": "It isn't my bag."
+    },
+    {
+      "id": "a1-03-x6",
+      "type": "word_order",
+      "topic": "be-wh-questions",
+      "skill": "construction",
+      "difficulty": 2,
+      "tokens": [
+        "who",
+        "is",
+        "your",
+        "favorite",
+        "singer"
+      ],
+      "punctuation": "?",
+      "clue": "¿Quién es tu cantante favorito?",
+      "explanation": "Who + is + your favorite singer?"
+    },
+    {
+      "id": "a1-03-x7",
+      "type": "listening_comprehension",
+      "topic": "be-wh-questions",
+      "skill": "listening",
+      "difficulty": 2,
+      "lines": [
+        {
+          "speaker": "Receptionist",
+          "text": "Good evening. What's your name, please?"
+        },
+        {
+          "speaker": "Guest",
+          "text": "Hi. I'm Ben Clark. That's C-L-A-R-K."
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "Thank you, Mr. Clark. Are you from the United States?"
+        },
+        {
+          "speaker": "Guest",
+          "text": "No, I'm not. I'm from Canada."
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "Your room is number fourteen. It's on the second floor."
+        }
+      ],
+      "explanation": "Diálogo en la recepción de un hotel.",
+      "questions": [
+        {
+          "id": "a1-03-x7-1",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "question": "Where is Ben from?",
+          "options": [
+            "Canada",
+            "The United States",
+            "England",
+            "Australia"
+          ],
+          "answer": 0,
+          "explanation": "«No, I'm not. I'm from Canada.»"
+        },
+        {
+          "id": "a1-03-x7-2",
+          "type": "multiple_choice",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 2,
+          "question": "What is his room number?",
+          "options": [
+            "14",
+            "40",
+            "4",
+            "24"
+          ],
+          "answer": 0,
+          "explanation": "«Your room is number fourteen.» Fourteen = 14 (forty = 40)."
+        },
+        {
+          "id": "a1-03-x7-3",
+          "type": "true_false",
+          "topic": "listening-detail",
+          "skill": "listening",
+          "difficulty": 1,
+          "statement": "It's the morning.",
+          "answer": false,
+          "explanation": "La recepcionista dice «Good evening»."
+        }
+      ]
+    },
+    {
+      "id": "a1-03-x8",
+      "type": "sentence_building",
+      "topic": "be-negative",
+      "skill": "construction",
+      "difficulty": 3,
+      "cue": "we / not / late — we / early",
+      "clue": "Di que (nosotros) no llegamos tarde, sino temprano (dos oraciones).",
+      "answers": [
+        "{We are not|We aren't|We're not} late. {We are|We're} early."
+      ],
+      "explanation": "Negativa + afirmativa con be."
+    }
+  ]
+}

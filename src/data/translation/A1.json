@@ -1,0 +1,613 @@
+[
+  {
+    "id": "a1-tr01",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "word",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "biblioteca",
+    "answers": [
+      "library"
+    ],
+    "notes": "Falso amigo: «library» = biblioteca; «librería» = bookstore.",
+    "explanation": "Traducción modelo: library"
+  },
+  {
+    "id": "a1-tr02",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "word",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "parents",
+    "answers": [
+      "padres",
+      "los padres"
+    ],
+    "notes": "Falso amigo: parents = padres (madre y padre), no «parientes» (relatives).",
+    "explanation": "Traducción modelo: padres"
+  },
+  {
+    "id": "a1-tr03",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "word",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "cocina (la habitación)",
+    "answers": [
+      "kitchen",
+      "the kitchen"
+    ],
+    "notes": "kitchen = la cocina (lugar); cook = cocinar / cocinero.",
+    "explanation": "Traducción modelo: kitchen"
+  },
+  {
+    "id": "a1-tr04",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "word",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "excited",
+    "answers": [
+      "emocionado",
+      "emocionada",
+      "ilusionado",
+      "ilusionada",
+      "entusiasmado",
+      "entusiasmada"
+    ],
+    "notes": "Falso amigo: excited = emocionado/ilusionado, no «excitado».",
+    "explanation": "Traducción modelo: emocionado"
+  },
+  {
+    "id": "a1-tr05",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "word",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "cuñado",
+    "answers": [
+      "brother-in-law",
+      "brother in law"
+    ],
+    "notes": "Los parientes políticos llevan «-in-law»: brother-in-law, mother-in-law.",
+    "explanation": "Traducción modelo: brother-in-law"
+  },
+  {
+    "id": "a1-tr06",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "expression",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "¿Cómo estás?",
+    "answers": [
+      "How are you?"
+    ],
+    "notes": "Fórmula fija; no se traduce palabra por palabra.",
+    "explanation": "Traducción modelo: How are you?"
+  },
+  {
+    "id": "a1-tr07",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "expression",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "See you later!",
+    "answers": [
+      "¡Hasta luego!",
+      "¡Nos vemos luego!",
+      "¡Nos vemos más tarde!",
+      "¡Hasta más tarde!"
+    ],
+    "notes": "Literal: «Te veo más tarde». Natural: ¡Hasta luego!",
+    "explanation": "Traducción modelo: ¡Hasta luego!",
+    "keyConcepts": [
+      [
+        "hasta",
+        "nos vemos"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr08",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "expression",
+    "topic": "be-expressions",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "Tengo frío.",
+    "answers": [
+      "I'm cold.",
+      "I am cold."
+    ],
+    "notes": "«Tener frío» = be cold. No «I have cold».",
+    "explanation": "Traducción modelo: I'm cold.",
+    "keyConcepts": [
+      [
+        "cold"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr09",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "expression",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "What's the matter?",
+    "answers": [
+      "¿Qué pasa?",
+      "¿Qué te pasa?",
+      "¿Qué ocurre?",
+      "¿Qué sucede?"
+    ],
+    "notes": "Literal: «¿Cuál es la materia?». Natural: ¿Qué pasa?",
+    "explanation": "Traducción modelo: ¿Qué pasa?",
+    "keyConcepts": [
+      [
+        "pasa",
+        "ocurre",
+        "sucede"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr10",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "expression",
+    "topic": "translation-practice",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "De nada.",
+    "answers": [
+      "You're welcome.",
+      "You are welcome.",
+      "No problem."
+    ],
+    "notes": "Respuesta a «Thank you». No se traduce literalmente «Of nothing».",
+    "explanation": "Traducción modelo: You're welcome."
+  },
+  {
+    "id": "a1-tr11",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "expression",
+    "topic": "subject-required",
+    "skill": "translation",
+    "difficulty": 1,
+    "source": "Hace sol.",
+    "answers": [
+      "It's sunny.",
+      "It is sunny."
+    ],
+    "notes": "Clima con it + adjetivo: It's sunny. No «Makes sun».",
+    "explanation": "Traducción modelo: It's sunny.",
+    "keyConcepts": [
+      [
+        "sunny"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr12",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "expression",
+    "topic": "be-expressions",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "I'm in a hurry.",
+    "answers": [
+      "Tengo prisa.",
+      "Estoy apurado.",
+      "Estoy apurada.",
+      "Tengo afán."
+    ],
+    "notes": "be in a hurry = tener prisa.",
+    "explanation": "Traducción modelo: Tengo prisa.",
+    "keyConcepts": [
+      [
+        "prisa",
+        "apurado",
+        "apurada",
+        "afan"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr13",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "sentence",
+    "topic": "be-expressions",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "Mi hermana tiene 15 años.",
+    "answers": [
+      "My sister is {15|fifteen}[ years old]."
+    ],
+    "notes": "La edad va con be: is 15 (years old).",
+    "explanation": "Traducción modelo: My sister is ",
+    "keyConcepts": [
+      [
+        "sister"
+      ],
+      [
+        "15",
+        "fifteen"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr14",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "sentence",
+    "topic": "ps-negative",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "No me gusta el café.",
+    "answers": [
+      "I don't like coffee.",
+      "I do not like coffee."
+    ],
+    "notes": "«Gustar» se expresa con like y el sujeto es la persona: I like… No se usa «the» para hablar en general: coffee.",
+    "explanation": "Traducción modelo: I don't like coffee.",
+    "keyConcepts": [
+      [
+        "don't like",
+        "do not like"
+      ],
+      [
+        "coffee"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr15",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "sentence",
+    "topic": "ps-negative",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "She doesn't work on Fridays.",
+    "answers": [
+      "Ella no trabaja los viernes.",
+      "No trabaja los viernes."
+    ],
+    "notes": "«on Fridays» (con -s) = los viernes (habitualmente).",
+    "explanation": "Traducción modelo: Ella no trabaja los viernes.",
+    "keyConcepts": [
+      [
+        "no trabaja"
+      ],
+      [
+        "viernes"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr16",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "sentence",
+    "topic": "ps-wh-questions",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "¿Dónde vives?",
+    "answers": [
+      "Where do you live?"
+    ],
+    "notes": "Pregunta con do: Where + do + you + live?",
+    "explanation": "Traducción modelo: Where do you live?",
+    "keyConcepts": [
+      [
+        "where"
+      ],
+      [
+        "live"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr17",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "sentence",
+    "topic": "there-is-are",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "Hay dos bancos en mi calle.",
+    "answers": [
+      "There are two banks {on|in} my street."
+    ],
+    "notes": "«Hay» = there is / there are. En EE. UU.: on my street.",
+    "explanation": "Traducción modelo: There are two banks ",
+    "keyConcepts": [
+      [
+        "there are"
+      ],
+      [
+        "two banks"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr18",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "sentence",
+    "topic": "ordering-food",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "Can I have the bill, please?",
+    "answers": [
+      "¿Me trae la cuenta, por favor?",
+      "¿Me da la cuenta, por favor?",
+      "¿Me puede traer la cuenta, por favor?",
+      "La cuenta, por favor."
+    ],
+    "notes": "Literal: «¿Puedo tener la cuenta?». Natural: ¿Me trae la cuenta?",
+    "explanation": "Traducción modelo: ¿Me trae la cuenta, por favor?",
+    "keyConcepts": [
+      [
+        "cuenta"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr19",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "sentence",
+    "topic": "frequency-adverbs",
+    "skill": "translation",
+    "difficulty": 3,
+    "source": "Mi padre siempre llega tarde.",
+    "answers": [
+      "My father is always late.",
+      "My dad is always late.",
+      "My father always arrives late.",
+      "My dad always arrives late.",
+      "My father always comes late.",
+      "My father always gets here late."
+    ],
+    "notes": "Con be, always va después del verbo: is always late.",
+    "explanation": "Traducción modelo: My father is always late.",
+    "keyConcepts": [
+      [
+        "father",
+        "dad"
+      ],
+      [
+        "always"
+      ],
+      [
+        "late"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr20",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "sentence",
+    "topic": "can-ability",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "My brother can't swim, but he can play the piano.",
+    "answers": [
+      "Mi hermano no sabe nadar, pero sabe tocar el piano.",
+      "Mi hermano no puede nadar, pero puede tocar el piano.",
+      "Mi hermano no sabe nadar pero sabe tocar el piano."
+    ],
+    "notes": "can = poder o saber (habilidad).",
+    "explanation": "Traducción modelo: Mi hermano no sabe nadar, pero sabe tocar el piano.",
+    "keyConcepts": [
+      [
+        "hermano"
+      ],
+      [
+        "nadar"
+      ],
+      [
+        "piano"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr21",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "sentence",
+    "topic": "plural-irregular",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "Los niños están en el jardín.",
+    "answers": [
+      "The children are in the garden.",
+      "The kids are in the garden.",
+      "The children are in the yard.",
+      "The kids are in the yard."
+    ],
+    "notes": "child → children (plural irregular).",
+    "explanation": "Traducción modelo: The children are in the garden.",
+    "keyConcepts": [
+      [
+        "children",
+        "kids"
+      ],
+      [
+        "garden",
+        "yard"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr22",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "sentence",
+    "topic": "possessive-adjectives",
+    "skill": "translation",
+    "difficulty": 2,
+    "source": "Their house is next to the park.",
+    "answers": [
+      "Su casa está al lado del parque.",
+      "Su casa está junto al parque.",
+      "La casa de ellos está al lado del parque."
+    ],
+    "notes": "their = su (de ellos). «Next to» = al lado de.",
+    "explanation": "Traducción modelo: Su casa está al lado del parque.",
+    "keyConcepts": [
+      [
+        "casa"
+      ],
+      [
+        "lado",
+        "junto"
+      ],
+      [
+        "parque"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr23",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "paragraph",
+    "topic": "be-affirmative",
+    "skill": "translation",
+    "difficulty": 3,
+    "source": "Me llamo Pablo. Soy de Chile y vivo en Santiago. Soy profesor y trabajo en una escuela.",
+    "answers": [
+      "My name is Pablo. {I'm|I am} from Chile and I live in Santiago. {I'm|I am} a teacher and I work {in|at} a school."
+    ],
+    "notes": "Cada oración necesita sujeto; las profesiones llevan a/an.",
+    "explanation": "Traducción modelo: My name is Pablo. ",
+    "keyConcepts": [
+      [
+        "pablo"
+      ],
+      [
+        "chile"
+      ],
+      [
+        "teacher"
+      ],
+      [
+        "school"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr24",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "paragraph",
+    "topic": "describing-routine",
+    "skill": "translation",
+    "difficulty": 3,
+    "source": "I get up at seven. I have breakfast and then I go to work by bus. I finish work at five.",
+    "answers": [
+      "Me levanto a las siete. Desayuno y luego voy al trabajo en autobús. Termino de trabajar a las cinco.",
+      "Me levanto a las siete. Desayuno y después voy al trabajo en bus. Salgo del trabajo a las cinco."
+    ],
+    "notes": "have breakfast = desayunar (un solo verbo en español). by bus = en autobús.",
+    "explanation": "Traducción modelo: Me levanto a las siete. Desayuno y luego voy al trabajo en autobús. Termino de trabajar a las cinco.",
+    "keyConcepts": [
+      [
+        "levanto"
+      ],
+      [
+        "desayuno"
+      ],
+      [
+        "autobus",
+        "bus"
+      ],
+      [
+        "cinco"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr25",
+    "type": "translation",
+    "direction": "es-en",
+    "unit": "paragraph",
+    "topic": "there-questions-quantity",
+    "skill": "translation",
+    "difficulty": 3,
+    "source": "Hay un supermercado cerca de mi casa. Es grande y no es caro. Abre todos los días.",
+    "answers": [
+      "There is a supermarket near my house. {It's|It is} big and {it isn't|it is not|it's not} expensive. It opens every day."
+    ],
+    "notes": "Primero there is (presentar), luego it is (describir). Abre → It opens (con sujeto it).",
+    "explanation": "Traducción modelo: There is a supermarket near my house. ",
+    "keyConcepts": [
+      [
+        "there is"
+      ],
+      [
+        "supermarket"
+      ],
+      [
+        "expensive"
+      ],
+      [
+        "opens"
+      ]
+    ]
+  },
+  {
+    "id": "a1-tr26",
+    "type": "translation",
+    "direction": "en-es",
+    "unit": "paragraph",
+    "topic": "describing-people",
+    "skill": "translation",
+    "difficulty": 3,
+    "source": "My sister has got long hair and green eyes. She's very friendly and she loves animals.",
+    "answers": [
+      "Mi hermana tiene el pelo largo y los ojos verdes. Es muy amable y le encantan los animales.",
+      "Mi hermana tiene el cabello largo y los ojos verdes. Es muy simpática y le encantan los animales."
+    ],
+    "notes": "has got = tiene; loves = le encantan (cambia la estructura en español).",
+    "explanation": "Traducción modelo: Mi hermana tiene el pelo largo y los ojos verdes. Es muy amable y le encantan los animales.",
+    "keyConcepts": [
+      [
+        "hermana"
+      ],
+      [
+        "pelo",
+        "cabello"
+      ],
+      [
+        "verdes"
+      ],
+      [
+        "animales"
+      ]
+    ]
+  }
+]

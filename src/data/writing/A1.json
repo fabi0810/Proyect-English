@@ -1,0 +1,283 @@
+[
+  {
+    "id": "a1-w01",
+    "type": "writing_task",
+    "topic": "writing-task",
+    "skill": "writing",
+    "difficulty": 2,
+    "title": "About me",
+    "task": "Escribe un perfil personal para una red de intercambio de idiomas. Incluye tu **nombre**, tu **edad**, de **dónde eres**, a qué **te dedicas** y dos cosas que **te gustan**.",
+    "requirements": [
+      {
+        "label": "Tu nombre",
+        "pattern": "\\b(my name is|my name's|i'?m|i am)\\s+(?!(from|a|an|the|very|fine|good|not|in|at|years?|happy|tired)\\b)(?!\\d)[a-záéíóúñ]+",
+        "feedback": "Di tu nombre: My name is… / I'm…"
+      },
+      {
+        "label": "Tu edad",
+        "pattern": "\\b(i'?m|i am)\\s+(\\d{1,3}|(ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)(-[a-z]+)?)\\b",
+        "feedback": "Di tu edad con be: I'm 25."
+      },
+      {
+        "label": "Tu origen",
+        "pattern": "\\bfrom\\s+[a-z]",
+        "feedback": "Di de dónde eres: I'm from…"
+      },
+      {
+        "label": "Tu trabajo o estudios",
+        "pattern": "\\b(i'?m an?|i am an?|i work|i study)\\b",
+        "feedback": "Di qué haces: I'm a nurse / I study…"
+      },
+      {
+        "label": "Gustos",
+        "pattern": "\\b(i (really )?(like|love|enjoy))\\b",
+        "feedback": "Di qué te gusta: I like… / I love…"
+      }
+    ],
+    "targetStructures": [
+      {
+        "label": "Un conector (and / but)",
+        "pattern": "\\b(and|but)\\b",
+        "feedback": "Une ideas con and o but."
+      }
+    ],
+    "minWords": 40,
+    "maxWords": 80,
+    "model": "Hi! My name is Andrés and I'm 28 years old. I'm from Quito, in Ecuador, but I live in Lima now. I'm an accountant and I work for a big company. I love music and I like cooking with my friends. I want to practice my English. Write to me!",
+    "tips": [
+      "Empieza cada oración con mayúscula y escribe **I** siempre en mayúscula.",
+      "La edad va con be: I'm 25.",
+      "Usa and para añadir información y but para contrastar."
+    ],
+    "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+    "level": "A1"
+  },
+  {
+    "id": "a1-w02",
+    "type": "writing_task",
+    "topic": "writing-task",
+    "skill": "writing",
+    "difficulty": 2,
+    "title": "My family",
+    "task": "Describe a tu familia (o a una familia imaginaria): cuántas personas son, sus **nombres**, sus **trabajos** o edades y **cómo son**.",
+    "requirements": [
+      {
+        "label": "Número de personas",
+        "pattern": "\\bthere are\\s+\\w+\\s+people|\\bwe are\\s+\\w+|\\bfamily\\b",
+        "feedback": "Di cuántos son: There are four people in my family."
+      },
+      {
+        "label": "Miembros de la familia",
+        "pattern": "\\b(mother|father|mom|dad|sister|brother|parents|wife|husband|son|daughter|grandmother|grandfather)\\b",
+        "feedback": "Nombra a miembros de la familia."
+      },
+      {
+        "label": "Una descripción con be",
+        "pattern": "\\b(is|are|'s|'re)\\s+(very\\s+|really\\s+)?(tall|short|funny|kind|friendly|young|old|quiet|nice|beautiful|smart|shy)\\b",
+        "feedback": "Describe a alguien: She is very kind."
+      },
+      {
+        "label": "Have / has (got)",
+        "pattern": "\\b(has|have|has got|have got|'s got|'ve got)\\b",
+        "feedback": "Usa have/has: He has brown eyes."
+      }
+    ],
+    "targetStructures": [
+      {
+        "label": "Posesivos (my, his, her, their)",
+        "pattern": "\\b(my|his|her|their|our)\\b"
+      }
+    ],
+    "minWords": 40,
+    "maxWords": 90,
+    "model": "There are four people in my family. My mother is Rosa. She is a teacher and she is very kind. My father is Jorge. He is an engineer and he is very funny. I have got a sister, Marta. She is ten and she has long black hair. We have a dog too!",
+    "tips": [
+      "Usa his para un hombre y her para una mujer.",
+      "Las profesiones llevan a/an: She is a teacher.",
+      "El pelo y los ojos van con has/have: She has long hair."
+    ],
+    "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+    "level": "A1"
+  },
+  {
+    "id": "a1-w03",
+    "type": "writing_task",
+    "topic": "writing-task",
+    "skill": "writing",
+    "difficulty": 2,
+    "title": "My daily routine",
+    "task": "Describe un día normal de tu semana. Di **a qué hora** haces las cosas, usa **adverbios de frecuencia** y conecta las acciones con **first, then, after that** o **finally**.",
+    "requirements": [
+      {
+        "label": "Horas",
+        "pattern": "\\bat\\s+(\\d{1,2}(:\\d{2})?|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|half past|quarter|noon|midnight)\\b",
+        "feedback": "Di horas con at: at 7 o'clock."
+      },
+      {
+        "label": "Un adverbio de frecuencia",
+        "pattern": "\\b(always|usually|often|sometimes|rarely|never)\\b",
+        "feedback": "Usa always, usually, often, sometimes o never."
+      },
+      {
+        "label": "Secuenciadores",
+        "pattern": "\\b(first|then|after that|finally|later)\\b",
+        "feedback": "Ordena con first, then, after that, finally."
+      },
+      {
+        "label": "Rutina en presente simple",
+        "pattern": "\\b(get up|have breakfast|go to (work|school|bed)|go home|wake up|take a shower|have a shower|have lunch|have dinner)\\b",
+        "feedback": "Usa colocaciones de rutina: get up, have breakfast…"
+      }
+    ],
+    "targetStructures": [
+      {
+        "label": "Al menos tres oraciones con «I»",
+        "pattern": "(\\bI\\b[^.!?]*[.!?]\\s*){3}"
+      }
+    ],
+    "minWords": 50,
+    "maxWords": 100,
+    "model": "On weekdays I get up at six thirty. First, I take a shower and I have breakfast. Then I go to work by bus. I usually start work at eight. I have lunch at one o'clock. After that, I work until five. I sometimes go to the gym. Finally, I go to bed at eleven.",
+    "tips": [
+      "Con he/she el verbo lleva -s: She gets up.",
+      "El adverbio de frecuencia va antes del verbo: I usually start…",
+      "go home (sin to), go to bed."
+    ],
+    "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+    "level": "A1"
+  },
+  {
+    "id": "a1-w04",
+    "type": "writing_task",
+    "topic": "writing-task",
+    "skill": "writing",
+    "difficulty": 2,
+    "title": "My home",
+    "task": "Describe tu casa o apartamento: **qué hay** (there is / there are), **dónde están** algunas cosas (preposiciones) y tu lugar favorito.",
+    "requirements": [
+      {
+        "label": "There is / there are",
+        "pattern": "\\bthere (is|are|'s)\\b",
+        "feedback": "Usa there is / there are."
+      },
+      {
+        "label": "Preposiciones de lugar",
+        "pattern": "\\b(in|on|under|next to|between|behind|in front of|opposite|near)\\b",
+        "feedback": "Di dónde están las cosas: next to, in front of…"
+      },
+      {
+        "label": "Habitaciones",
+        "pattern": "\\b(kitchen|bedroom|bathroom|living room|garden|dining room)\\b",
+        "feedback": "Nombra habitaciones."
+      },
+      {
+        "label": "Tu lugar favorito",
+        "pattern": "\\bfavou?rite\\b",
+        "feedback": "Di cuál es tu lugar favorito."
+      }
+    ],
+    "targetStructures": [
+      {
+        "label": "Un adjetivo",
+        "pattern": "\\b(big|small|new|old|nice|beautiful|comfortable|quiet|bright|modern)\\b"
+      }
+    ],
+    "minWords": 40,
+    "maxWords": 90,
+    "model": "I live in a small apartment in the city. There are two bedrooms, a kitchen and a bathroom. In the living room there is a big sofa in front of the TV. There are some books on a shelf next to the window. My favorite place is the kitchen because it is bright and quiet.",
+    "tips": [
+      "Plural → there are; singular → there is.",
+      "Primero presenta (there is a sofa), luego describe (it is big)."
+    ],
+    "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+    "level": "A1"
+  },
+  {
+    "id": "a1-w05",
+    "type": "writing_task",
+    "topic": "writing-task",
+    "skill": "writing",
+    "difficulty": 2,
+    "title": "An email to a new friend",
+    "task": "Escribe un correo a un nuevo amigo o amiga que vive en otro país. **Salúdalo**, preséntate brevemente, cuéntale algo de tu ciudad y hazle **dos preguntas**. Termina con una **despedida**.",
+    "requirements": [
+      {
+        "label": "Saludo",
+        "pattern": "^(\\s)*(hi|hello|dear)\\b",
+        "feedback": "Empieza con Hi / Hello / Dear + nombre."
+      },
+      {
+        "label": "Presentación",
+        "pattern": "\\b(my name is|my name's|i'?m|i am)\\b",
+        "feedback": "Preséntate."
+      },
+      {
+        "label": "Dos preguntas",
+        "pattern": "\\?[\\s\\S]*\\?",
+        "feedback": "Haz al menos dos preguntas."
+      },
+      {
+        "label": "Despedida",
+        "pattern": "\\b(best wishes|see you|bye|write soon|take care|love)\\b",
+        "feedback": "Termina con Best wishes / Write soon…"
+      }
+    ],
+    "targetStructures": [
+      {
+        "label": "Una pregunta con do / does",
+        "pattern": "\\b(do|does) (you|he|she|they)\\b"
+      }
+    ],
+    "minWords": 50,
+    "maxWords": 100,
+    "model": "Hi Emma,\nMy name is Lucía and I'm from Medellín, in Colombia. I'm 23 and I'm a student. My city is beautiful and it is very warm all year. There are many parks and nice cafés. What is your city like? Do you have any brothers or sisters?\nWrite soon!\nLucía",
+    "tips": [
+      "En inglés no se usa ¿ al principio de las preguntas.",
+      "Do you like…? Does your brother…?",
+      "Despedidas informales: Write soon, Best wishes, Bye for now."
+    ],
+    "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+    "level": "A1"
+  },
+  {
+    "id": "a1-w06",
+    "type": "writing_task",
+    "topic": "writing-task",
+    "skill": "writing",
+    "difficulty": 2,
+    "title": "Can and can't",
+    "task": "Escribe sobre tus **habilidades**: tres cosas que **puedes** hacer y dos que **no puedes** hacer. Usa **but** al menos una vez.",
+    "requirements": [
+      {
+        "label": "Tres cosas con can",
+        "pattern": "(\\bcan\\s+\\w+[\\s\\S]*){3}",
+        "feedback": "Escribe tres cosas que puedes hacer: I can swim."
+      },
+      {
+        "label": "Dos cosas con can't",
+        "pattern": "(\\b(can't|cannot|can not)\\s+\\w+[\\s\\S]*){2}",
+        "feedback": "Escribe dos cosas que no puedes hacer: I can't drive."
+      },
+      {
+        "label": "Contraste con but",
+        "pattern": "\\bbut\\b",
+        "feedback": "Usa but para contrastar."
+      }
+    ],
+    "targetStructures": [
+      {
+        "label": "Un adverbio (well, very well, fast)",
+        "pattern": "\\b(well|very well|fast|a little)\\b"
+      }
+    ],
+    "minWords": 40,
+    "maxWords": 90,
+    "model": "I can speak Spanish and a little English. I can cook pasta very well and I can swim fast. I can play the guitar, but I can't sing. I can't drive a car because I haven't got a license. My sister can drive, but she can't cook!",
+    "tips": [
+      "can + verbo base: I can swim (no «can to swim», no «can swims»).",
+      "Negativa: can't / cannot."
+    ],
+    "explanation": "Revisa los requisitos de la tarea, los errores marcados y compara tu texto con el modelo.",
+    "level": "A1"
+  }
+]

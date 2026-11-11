@@ -1,0 +1,440 @@
+{
+  "subject-omitted": {
+    "title": "Falta el sujeto",
+    "explanation": "En inglés el sujeto es obligatorio, aunque el verbo ya indique la persona. «Es grande» = It is big. «Llueve» = It is raining.",
+    "example": { "wrong": "Is very cold today.", "right": "It is very cold today." },
+    "lesson": "a1-02-l2"
+  },
+  "be-agreement": {
+    "title": "Concordancia de «to be»",
+    "explanation": "I → am · he/she/it → is · you/we/they → are. El verbo debe concordar con el sujeto.",
+    "example": { "wrong": "They is my friends.", "right": "They are my friends." },
+    "lesson": "a1-03-l1"
+  },
+  "be-missing": {
+    "title": "Falta el verbo «to be»",
+    "explanation": "Con adjetivos, edades, lugares y profesiones el inglés necesita el verbo be: She is happy. I am from Peru.",
+    "example": { "wrong": "She happy.", "right": "She is happy." },
+    "lesson": "a1-03-l1"
+  },
+  "be-age": {
+    "title": "La edad se dice con «be»",
+    "explanation": "En inglés no «tienes» años: los «eres». Se usa be + número (+ years old). Igual con hungry, thirsty, cold, hot, afraid.",
+    "example": { "wrong": "I have 25 years.", "right": "I am 25 (years old)." },
+    "lesson": "a1-03-l3"
+  },
+  "be-question-order": {
+    "title": "Orden de las preguntas con «be»",
+    "explanation": "En las preguntas con be, el verbo va antes del sujeto: Is she…? Are you…? No basta con poner signos de interrogación.",
+    "example": { "wrong": "She is your sister?", "right": "Is she your sister?" },
+    "lesson": "a1-03-l2"
+  },
+  "short-answer": {
+    "title": "Respuestas cortas",
+    "explanation": "En las respuestas cortas afirmativas no se contrae: Yes, I am / Yes, she is (nunca «Yes, I'm»). En las negativas sí: No, she isn't.",
+    "example": { "wrong": "Yes, I'm.", "right": "Yes, I am." },
+    "lesson": "a1-03-l2"
+  },
+  "pronoun-choice": {
+    "title": "Pronombre incorrecto",
+    "explanation": "He = él (hombre), she = ella (mujer), it = cosas y animales, they = ellos/ellas/esas cosas, we = nosotros, you = tú/usted/ustedes.",
+    "example": { "wrong": "My car is new. She is red.", "right": "My car is new. It is red." },
+    "lesson": "a1-02-l1"
+  },
+  "object-pronoun": {
+    "title": "Pronombre sujeto vs objeto",
+    "explanation": "Antes del verbo va el pronombre sujeto (I, he, she, we, they); después del verbo o de una preposición, el pronombre objeto (me, him, her, us, them).",
+    "example": { "wrong": "Me am a student.", "right": "I am a student." },
+    "lesson": "a1-02-l1"
+  },
+  "capital-i": {
+    "title": "«I» siempre en mayúscula",
+    "explanation": "El pronombre I (yo) se escribe siempre con mayúscula, en cualquier posición de la oración.",
+    "example": { "wrong": "My friend and i are here.", "right": "My friend and I are here." },
+    "lesson": "a1-02-l1"
+  },
+  "capital-letters": {
+    "title": "Uso de mayúsculas",
+    "explanation": "En inglés llevan mayúscula: el inicio de la oración, I, los nombres propios, los días, los meses, las nacionalidades y los idiomas.",
+    "example": { "wrong": "i study english on monday.", "right": "I study English on Monday." },
+    "lesson": "a1-20-l1"
+  },
+  "punctuation": {
+    "title": "Puntuación",
+    "explanation": "Las oraciones terminan en punto, signo de interrogación o exclamación. En inglés no se usan los signos de apertura ¿ ¡.",
+    "example": { "wrong": "¿Where do you live?", "right": "Where do you live?" },
+    "lesson": "a1-20-l1"
+  },
+  "spelling": {
+    "title": "Ortografía",
+    "explanation": "La palabra está mal escrita. En inglés la escritura no siempre refleja la pronunciación: memoriza la forma escrita.",
+    "example": { "wrong": "frend", "right": "friend" }
+  },
+  "number-form": {
+    "title": "Forma de los números",
+    "explanation": "Revisa la forma escrita del número: -teen (13–19) frente a -ty (decenas), guion entre decenas y unidades (twenty-one) y ortografía irregular (forty, fifth, ninth, twelfth).",
+    "example": { "wrong": "fourty", "right": "forty" },
+    "lesson": "a1-04-l1"
+  },
+  "date-format": {
+    "title": "Fechas",
+    "explanation": "Las fechas usan números ordinales (the fifth of May / May fifth). Los días y los meses van con mayúscula.",
+    "example": { "wrong": "May five", "right": "May fifth" },
+    "lesson": "a1-04-l2"
+  },
+  "time-telling": {
+    "title": "Decir la hora",
+    "explanation": "past = y (después de la hora), to = menos (antes de la hora), half past = y media, quarter = cuarto. «Son las 7:30» = It's half past seven.",
+    "example": { "wrong": "It's half to seven. (por 7:30)", "right": "It's half past seven." },
+    "lesson": "a1-04-l3"
+  },
+  "preposition-time": {
+    "title": "Preposición de tiempo",
+    "explanation": "at + hora (at 7 o'clock), on + día o fecha (on Monday, on May 5th), in + mes, año o parte del día (in July, in 2025, in the morning). Excepción: at night.",
+    "example": { "wrong": "in Monday", "right": "on Monday" },
+    "lesson": "a1-04-l2"
+  },
+  "article-a-an": {
+    "title": "«a» o «an»",
+    "explanation": "Se elige por el SONIDO de la palabra siguiente, no por la letra: an + sonido vocálico (an apple, an hour), a + sonido consonántico (a book, a university, a European).",
+    "example": { "wrong": "a orange", "right": "an orange" },
+    "lesson": "a1-05-l1"
+  },
+  "article-missing": {
+    "title": "Falta el artículo",
+    "explanation": "Con un sustantivo contable singular hace falta un determinante (a/an/the/my…). Las profesiones también lo llevan: She is a doctor.",
+    "example": { "wrong": "She is doctor.", "right": "She is a doctor." },
+    "lesson": "a1-05-l1"
+  },
+  "article-the": {
+    "title": "Uso de «the»",
+    "explanation": "The se usa con algo ya mencionado, único o específico. Para hablar en general de plurales o incontables no se usa artículo: I like dogs. Life is beautiful.",
+    "example": { "wrong": "The dogs are good pets. (en general)", "right": "Dogs are good pets." },
+    "lesson": "a1-05-l2"
+  },
+  "plural-spelling": {
+    "title": "Ortografía del plural",
+    "explanation": "-es después de s, sh, ch, x, z y muchas palabras en -o (buses, watches, potatoes); consonante + y → -ies (city → cities); vocal + y → -s (days); muchas en -f/-fe → -ves (knife → knives).",
+    "example": { "wrong": "boxs", "right": "boxes" },
+    "lesson": "a1-06-l1"
+  },
+  "irregular-plural": {
+    "title": "Plural irregular",
+    "explanation": "Algunos sustantivos tienen plural irregular: man → men, woman → women, child → children, person → people, foot → feet, tooth → teeth, mouse → mice. Sheep y fish no cambian.",
+    "example": { "wrong": "two childs", "right": "two children" },
+    "lesson": "a1-06-l2"
+  },
+  "people-plural": {
+    "title": "«People» es plural",
+    "explanation": "People significa «personas» y concuerda en plural: people are, people have.",
+    "example": { "wrong": "People is friendly here.", "right": "People are friendly here." },
+    "lesson": "a1-06-l2"
+  },
+  "noun-number": {
+    "title": "Singular o plural",
+    "explanation": "Revisa si el sustantivo debe ir en singular o en plural según el número y el determinante: one book, two books, this book, these books.",
+    "example": { "wrong": "three book", "right": "three books" },
+    "lesson": "a1-06-l1"
+  },
+  "possessive-his-her": {
+    "title": "«His» o «her»",
+    "explanation": "En inglés el posesivo depende del POSEEDOR, no de la cosa poseída: his = de él, her = de ella. «Su madre» (de Pedro) = his mother; (de Ana) = her mother.",
+    "example": { "wrong": "Ana loves his father. (el padre de Ana)", "right": "Ana loves her father." },
+    "lesson": "a1-07-l1"
+  },
+  "its-vs-its": {
+    "title": "«its» o «it's»",
+    "explanation": "its = su (de una cosa o animal); it's = it is / it has. Truco: si puedes decir «it is», lleva apóstrofo.",
+    "example": { "wrong": "The dog is eating it's food.", "right": "The dog is eating its food." },
+    "lesson": "a1-07-l1"
+  },
+  "possessive-form": {
+    "title": "Forma del posesivo",
+    "explanation": "Los adjetivos posesivos no tienen plural (their cars, no theirs cars). Para indicar posesión con nombres se usa 's: Maria's car, my parents' house.",
+    "example": { "wrong": "the car of Maria", "right": "Maria's car" },
+    "lesson": "a1-07-l2"
+  },
+  "your-youre": {
+    "title": "«your» o «you're»",
+    "explanation": "your = tu/su (posesivo); you're = you are. Their = su (de ellos); they're = they are; there = allí / there is.",
+    "example": { "wrong": "Your welcome.", "right": "You're welcome." },
+    "lesson": "a1-07-l1"
+  },
+  "demonstrative-number": {
+    "title": "Demostrativo y número",
+    "explanation": "this/that van con singular; these/those con plural. This/these = cerca; that/those = lejos.",
+    "example": { "wrong": "this books", "right": "these books" },
+    "lesson": "a1-08-l1"
+  },
+  "adjective-plural": {
+    "title": "Los adjetivos no tienen plural",
+    "explanation": "En inglés el adjetivo es invariable: no cambia con el plural ni con el género. Two red cars, beautiful women.",
+    "example": { "wrong": "two reds cars", "right": "two red cars" },
+    "lesson": "a1-09-l1"
+  },
+  "adjective-position": {
+    "title": "Posición del adjetivo",
+    "explanation": "El adjetivo va ANTES del sustantivo (a big house) o después del verbo be (The house is big).",
+    "example": { "wrong": "a house big", "right": "a big house" },
+    "lesson": "a1-09-l1"
+  },
+  "adjective-opposite": {
+    "title": "Significado del adjetivo",
+    "explanation": "Revisa el significado del adjetivo y su opuesto: old (viejo) / new (nuevo) / young (joven); tall (alto, personas) / high (alto, cosas); cheap / expensive.",
+    "example": { "wrong": "My grandmother is very new.", "right": "My grandmother is very old." },
+    "lesson": "a1-09-l2"
+  },
+  "very-position": {
+    "title": "Intensificadores",
+    "explanation": "Very, really y quite van delante del adjetivo: very tall, really nice. Very no se usa con verbos: I like it very much (no «I very like it»).",
+    "example": { "wrong": "I very like pizza.", "right": "I really like pizza." },
+    "lesson": "a1-09-l2"
+  },
+  "vocabulary-choice": {
+    "title": "Palabra incorrecta",
+    "explanation": "La palabra elegida no corresponde al significado de la oración. Revisa el vocabulario del tema.",
+    "example": { "wrong": "It's raining. Take your sunglasses.", "right": "It's raining. Take your umbrella." }
+  },
+  "false-friend": {
+    "title": "Falso amigo",
+    "explanation": "Palabras parecidas al español con otro significado: parents = padres (no parientes: relatives); actually = en realidad; library = biblioteca (librería = bookshop); embarrassed = avergonzado.",
+    "example": { "wrong": "My parents are my uncles and cousins.", "right": "My relatives are my uncles and cousins." }
+  },
+  "collocation": {
+    "title": "Combinación de palabras",
+    "explanation": "Algunas palabras van siempre juntas: take a photo, do homework, make breakfast, have a shower, go home, go to bed.",
+    "example": { "wrong": "make a photo", "right": "take a photo" },
+    "lesson": "a1-14-l1"
+  },
+  "third-person-s": {
+    "title": "Falta la -s de tercera persona",
+    "explanation": "En presente simple, con he/she/it (o un sujeto singular como «my mother») el verbo añade -s o -es: she works, he watches, it goes, he studies, she has.",
+    "example": { "wrong": "She work in a hospital.", "right": "She works in a hospital." },
+    "lesson": "a1-11-l2"
+  },
+  "third-person-spelling": {
+    "title": "Ortografía de la 3.ª persona",
+    "explanation": "-es tras s, sh, ch, x, z, o (watches, goes, does); consonante + y → -ies (study → studies); vocal + y → -s (plays); have → has.",
+    "example": { "wrong": "She studys a lot.", "right": "She studies a lot." },
+    "lesson": "a1-11-l2"
+  },
+  "extra-s": {
+    "title": "-s donde no corresponde",
+    "explanation": "Con I, you, we, they el verbo en presente simple va en forma base, sin -s: I work, they live.",
+    "example": { "wrong": "They lives in Bogotá.", "right": "They live in Bogotá." },
+    "lesson": "a1-11-l1"
+  },
+  "present-simple-use": {
+    "title": "Uso del presente simple",
+    "explanation": "El presente simple expresa hábitos, rutinas, hechos y situaciones permanentes (every day, usually, on Mondays). No lleva am/is/are delante del verbo principal.",
+    "example": { "wrong": "I am work every day.", "right": "I work every day." },
+    "lesson": "a1-11-l1"
+  },
+  "like-ing": {
+    "title": "like / love / hate + -ing",
+    "explanation": "Para hablar de actividades que te gustan, después de like, love, hate y enjoy se usa el verbo en -ing (o un sustantivo): I like swimming. She loves reading.",
+    "example": { "wrong": "I like swim.", "right": "I like swimming." },
+    "lesson": "a1-11-l3"
+  },
+  "do-does-agreement": {
+    "title": "«do» o «does»",
+    "explanation": "En presente simple: does con he/she/it; do con I/you/we/they. Lo mismo en negativa: doesn't / don't.",
+    "example": { "wrong": "He don't like coffee.", "right": "He doesn't like coffee." },
+    "lesson": "a1-12-l1"
+  },
+  "aux-plus-inflected": {
+    "title": "Auxiliar + verbo en forma base",
+    "explanation": "Cuando hay un auxiliar (do, does, did, can, will…), el verbo principal va en forma base: Does she work? She doesn't work. He can swim. El auxiliar ya lleva la marca de persona o tiempo.",
+    "example": { "wrong": "Does she works here?", "right": "Does she work here?" },
+    "lesson": "a1-12-l1"
+  },
+  "missing-auxiliary": {
+    "title": "Falta el auxiliar",
+    "explanation": "Las preguntas y negaciones en presente simple necesitan do/does (Do you like…? I don't like…), salvo con be y con modales como can.",
+    "example": { "wrong": "You like pizza?", "right": "Do you like pizza?" },
+    "lesson": "a1-12-l2"
+  },
+  "question-word-order": {
+    "title": "Orden de la pregunta",
+    "explanation": "Orden QASI: Question word + Auxiliary + Subject + Infinitive. Where do you live? What time does she get up?",
+    "example": { "wrong": "Where you live?", "right": "Where do you live?" },
+    "lesson": "a1-12-l3"
+  },
+  "question-word": {
+    "title": "Palabra interrogativa",
+    "explanation": "What = qué/cuál; Where = dónde; When = cuándo; Who = quién; Why = por qué; How = cómo; How old = qué edad; How many = cuántos; What time = a qué hora.",
+    "example": { "wrong": "Who do you live? (por ¿dónde?)", "right": "Where do you live?" },
+    "lesson": "a1-12-l3"
+  },
+  "double-negative": {
+    "title": "Doble negación",
+    "explanation": "En inglés estándar solo hay una negación por oración: I don't have anything / I have nothing. Never ya es negativo: I never eat meat.",
+    "example": { "wrong": "I don't never eat meat.", "right": "I never eat meat." },
+    "lesson": "a1-13-l1"
+  },
+  "frequency-adverb-position": {
+    "title": "Posición del adverbio de frecuencia",
+    "explanation": "Va ANTES del verbo principal (I always walk) pero DESPUÉS de be (She is always late) y después del auxiliar (I don't usually drive).",
+    "example": { "wrong": "I go always to the gym.", "right": "I always go to the gym." },
+    "lesson": "a1-13-l1"
+  },
+  "frequency-meaning": {
+    "title": "Significado de la frecuencia",
+    "explanation": "always (100 %) > usually > often > sometimes > rarely / hardly ever > never (0 %). Once = una vez; twice = dos veces; three times = tres veces.",
+    "example": { "wrong": "I never go to the gym; I go every day.", "right": "I always go to the gym; I go every day." },
+    "lesson": "a1-13-l2"
+  },
+  "go-home": {
+    "title": "go home / go to bed",
+    "explanation": "Con home no se usa to: go home, get home, arrive home. Pero: go to bed, go to work, go to school (sin artículo).",
+    "example": { "wrong": "I go to home at six.", "right": "I go home at six." },
+    "lesson": "a1-14-l1"
+  },
+  "there-is-are-agreement": {
+    "title": "«there is» o «there are»",
+    "explanation": "There is + singular o incontable (There is a bank. There is some milk); there are + plural (There are two banks).",
+    "example": { "wrong": "There is three chairs.", "right": "There are three chairs." },
+    "lesson": "a1-15-l1"
+  },
+  "there-vs-it": {
+    "title": "«there is» o «it is»",
+    "explanation": "There is presenta la existencia de algo («hay»). It is describe algo ya mencionado («es/está»). There's a park near my house. It's very big.",
+    "example": { "wrong": "It is a supermarket on my street.", "right": "There is a supermarket on my street." },
+    "lesson": "a1-15-l2"
+  },
+  "some-any": {
+    "title": "«some» o «any»",
+    "explanation": "Normalmente some en oraciones afirmativas (There are some apples) y any en negativas y preguntas (Are there any apples? There aren't any). Para ofrecer o pedir se usa some: Would you like some tea?",
+    "example": { "wrong": "There aren't some eggs.", "right": "There aren't any eggs." },
+    "lesson": "a1-15-l2"
+  },
+  "how-many-much": {
+    "title": "«How many»",
+    "explanation": "How many + sustantivo plural contable: How many rooms are there? (How much se usa con incontables y con precios).",
+    "example": { "wrong": "How many room are there?", "right": "How many rooms are there?" },
+    "lesson": "a1-15-l2"
+  },
+  "preposition-place": {
+    "title": "Preposición de lugar",
+    "explanation": "in = dentro de; on = sobre (con contacto); under = debajo; next to = al lado de; between = entre (dos cosas); behind = detrás; in front of = delante; opposite = enfrente.",
+    "example": { "wrong": "The keys are in the table.", "right": "The keys are on the table." },
+    "lesson": "a1-16-l1"
+  },
+  "at-in-on-place": {
+    "title": "at / in / on con lugares",
+    "explanation": "at = punto o lugar de actividad (at home, at work, at school, at the bus stop); in = espacio cerrado, ciudad o país (in the kitchen, in Lima); on = superficie, piso o calle en inglés americano (on the wall, on the second floor, on Main Street).",
+    "example": { "wrong": "I am in home.", "right": "I am at home." },
+    "lesson": "a1-16-l2"
+  },
+  "modal-to": {
+    "title": "Modal + «to»",
+    "explanation": "Después de can, can't, could, must, should o will el verbo va en forma base SIN to: I can swim.",
+    "example": { "wrong": "I can to swim.", "right": "I can swim." },
+    "lesson": "a1-17-l1"
+  },
+  "can-questions": {
+    "title": "Preguntas con «can»",
+    "explanation": "Can no usa do/does: se invierte con el sujeto. Can you swim? — Yes, I can. / No, I can't.",
+    "example": { "wrong": "Do you can swim?", "right": "Can you swim?" },
+    "lesson": "a1-17-l1"
+  },
+  "have-got": {
+    "title": "«have got» / «has got»",
+    "explanation": "have got con I/you/we/they; has got con he/she/it. Negativa: haven't got / hasn't got. Pregunta: Have you got…? Has she got…? Con have (sin got) se usa do/does: Do you have…?",
+    "example": { "wrong": "She have got two brothers.", "right": "She has got two brothers." },
+    "lesson": "a1-18-l1"
+  },
+  "describe-people": {
+    "title": "Describir personas",
+    "explanation": "What does she look like? pregunta por el aspecto físico (She's tall). What is she like? pregunta por la personalidad (She's friendly). El pelo y los ojos van con have: She has long hair.",
+    "example": { "wrong": "She is long hair.", "right": "She has long hair." },
+    "lesson": "a1-18-l2"
+  },
+  "countable-food": {
+    "title": "Contables e incontables",
+    "explanation": "Los incontables (water, bread, rice, milk, cheese, coffee) no llevan a/an ni plural: some bread, a cup of coffee. Los contables sí: an apple, two eggs.",
+    "example": { "wrong": "I'd like a bread.", "right": "I'd like some bread." },
+    "lesson": "a1-19-l1"
+  },
+  "polite-request": {
+    "title": "Pedir con cortesía",
+    "explanation": "I'd like… (= I would like) y Can I have…, please? son las formas habituales de pedir. «I want» suena demasiado directo en un restaurante.",
+    "example": { "wrong": "I want a coffee. (al camarero)", "right": "I'd like a coffee, please." },
+    "lesson": "a1-19-l2"
+  },
+  "connector-choice": {
+    "title": "Conector inadecuado",
+    "explanation": "and añade información; but contrasta; or presenta alternativas; because da la causa; so expresa la consecuencia.",
+    "example": { "wrong": "I like tea because I don't like coffee but.", "right": "I like tea, but I don't like coffee." },
+    "lesson": "a1-20-l1"
+  },
+  "word-order": {
+    "title": "Orden de las palabras",
+    "explanation": "El orden básico en inglés es Sujeto + Verbo + Complemento (SVO). Las preguntas invierten el auxiliar y el sujeto.",
+    "example": { "wrong": "Likes my brother football.", "right": "My brother likes football." },
+    "lesson": "a1-01-l1"
+  },
+  "imperative-form": {
+    "title": "Imperativo",
+    "explanation": "El imperativo usa el verbo en forma base sin sujeto (Open the door). La negativa es Don't + verbo (Don't run). Para sugerir algo en grupo: Let's + verbo.",
+    "example": { "wrong": "No talk in class.", "right": "Don't talk in class." },
+    "lesson": "a1-01-l3"
+  },
+  "greeting-use": {
+    "title": "Saludos y fórmulas sociales",
+    "explanation": "How are you? se responde con I'm fine, thanks. Nice to meet you se usa la primera vez que conoces a alguien. Good night es una despedida, no un saludo.",
+    "example": { "wrong": "Good night! (al llegar a una fiesta)", "right": "Good evening!" },
+    "lesson": "a1-01-l1"
+  },
+  "alphabet-letter": {
+    "title": "Letras del alfabeto",
+    "explanation": "Los nombres de las letras en inglés son distintos a los del español: A /eɪ/, E /iː/, I /aɪ/, G /dʒiː/, J /dʒeɪ/, H /eɪtʃ/, R /ɑːr/, Y /waɪ/, W /ˈdʌbəl.juː/.",
+    "example": { "wrong": "La «i» suena /i/", "right": "La «i» suena /aɪ/" },
+    "lesson": "a1-01-l2"
+  },
+  "for-since": {
+    "title": "«for» o «since»",
+    "explanation": "for + periodo de tiempo (for three years); since + punto de inicio (since 2020).",
+    "example": { "wrong": "since three years", "right": "for three years" }
+  },
+  "double-comparative": {
+    "title": "Comparativo doble",
+    "explanation": "Los adjetivos cortos forman el comparativo con -er (bigger); los largos con more (more expensive). No se combinan: more bigger es incorrecto.",
+    "example": { "wrong": "more bigger", "right": "bigger" }
+  },
+  "be-agree": {
+    "title": "«agree» es un verbo",
+    "explanation": "Agree no lleva be: I agree / I don't agree (no «I am agree»).",
+    "example": { "wrong": "I am agree with you.", "right": "I agree with you." }
+  },
+  "preposition-verb": {
+    "title": "Preposición que acompaña al verbo",
+    "explanation": "Algunos verbos llevan una preposición fija distinta al español: depend on, listen to, wait for, explain to someone, married to.",
+    "example": { "wrong": "It depends of the weather.", "right": "It depends on the weather." }
+  },
+  "verb-form-identification": {
+    "title": "Identificación de la forma verbal",
+    "explanation": "Fíjate en el auxiliar y en la forma del verbo principal: am/is/are = to be; verbo + -s o base = presente simple; can + base = modal; verbo base sin sujeto = imperativo.",
+    "example": { "wrong": "«She can swim» → presente simple", "right": "«She can swim» → modal can" }
+  },
+  "listening-detail": {
+    "title": "Detalle de comprensión auditiva",
+    "explanation": "Escucha de nuevo a menor velocidad y presta atención a terminaciones (-s, -ed), números y palabras cortas (a, the, in, on).",
+    "example": { "wrong": "She work in a bank.", "right": "She works in a bank." }
+  },
+  "reading-detail": {
+    "title": "Detalle de comprensión lectora",
+    "explanation": "Vuelve al texto y busca la oración exacta que contiene la información. Las opciones incorrectas suelen mezclar datos reales del texto.",
+    "example": { "wrong": "Respuesta basada en suposiciones", "right": "Respuesta basada en una frase del texto" }
+  },
+  "translation-meaning": {
+    "title": "Error de interpretación",
+    "explanation": "La traducción cambia el significado del original. Comprueba sujeto, tiempo verbal, negación y a quién se refieren los posesivos.",
+    "example": { "wrong": "She doesn't like tea → A ella le gusta el té", "right": "She doesn't like tea → A ella no le gusta el té" }
+  },
+  "translation-literal": {
+    "title": "Traducción demasiado literal",
+    "explanation": "Traducir palabra por palabra produce frases poco naturales. Busca la expresión equivalente: I'm 20 = tengo 20 años; It's cold = hace frío.",
+    "example": { "wrong": "Hace frío → Makes cold", "right": "Hace frío → It's cold" }
+  }
+}

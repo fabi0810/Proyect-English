@@ -1,0 +1,208 @@
+@import 'tailwindcss';
+
+/* Modo oscuro controlado por la clase .dark en <html> */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Tokens semánticos expuestos a Tailwind (bg-surface, text-muted, border-line, etc.) */
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-line: var(--border);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-muted: var(--muted);
+  --color-subtle: var(--subtle);
+  --color-on-ink: var(--on-ink);
+
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-soft: var(--brand-soft);
+  --color-info: var(--info);
+  --color-info-soft: var(--info-soft);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --color-coral: var(--coral);
+  --color-coral-soft: var(--coral-soft);
+  --color-highlight: var(--highlight);
+
+  --color-lvl-a1: var(--lvl-a1);
+  --color-lvl-a1-soft: var(--lvl-a1-soft);
+  --color-lvl-a2: var(--lvl-a2);
+  --color-lvl-a2-soft: var(--lvl-a2-soft);
+  --color-lvl-b1: var(--lvl-b1);
+  --color-lvl-b1-soft: var(--lvl-b1-soft);
+  --color-lvl-b2: var(--lvl-b2);
+  --color-lvl-b2-soft: var(--lvl-b2-soft);
+
+  --font-sans: 'Plus Jakarta Sans Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Playfair Display Variable', ui-serif, Georgia, serif;
+  --font-mono: 'JetBrains Mono Variable', ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+:root {
+  color-scheme: light;
+  --bg: #f2f3f7;
+  --surface: #ffffff;
+  --surface-2: #f6f7fa;
+  --surface-3: #eceef3;
+  --border: #e6e8ee;
+  --ink: #0f1115;
+  --ink-soft: #2b2f38;
+  --muted: #6b7280;
+  --subtle: #9ca3af;
+  --on-ink: #ffffff;
+
+  --brand: #7c3aed;
+  --brand-strong: #6425d6;
+  --brand-soft: #f1ebff;
+  --info: #2563eb;
+  --info-soft: #eaf1ff;
+  --success: #059669;
+  --success-soft: #e7f8f0;
+  --danger: #dc2626;
+  --danger-soft: #fdecec;
+  --warning: #ea580c;
+  --warning-soft: #fff1e7;
+  --coral: #e8574f;
+  --coral-soft: #fdeceb;
+  --highlight: #fff3b0;
+
+  --lvl-a1: #0ea5e9;
+  --lvl-a1-soft: #e3f4fd;
+  --lvl-a2: #f97316;
+  --lvl-a2-soft: #fff0e5;
+  --lvl-b1: #7c3aed;
+  --lvl-b1-soft: #f1ebff;
+  --lvl-b2: #10b981;
+  --lvl-b2-soft: #e3f8f0;
+}
+
+.dark {
+  color-scheme: dark;
+  --bg: #0e1015;
+  --surface: #171a21;
+  --surface-2: #1e222b;
+  --surface-3: #262b36;
+  --border: #2a2f3a;
+  --ink: #f3f4f6;
+  --ink-soft: #d6d9df;
+  --muted: #9ca3af;
+  --subtle: #6b7280;
+  --on-ink: #0f1115;
+
+  --brand: #a78bfa;
+  --brand-strong: #c4b5fd;
+  --brand-soft: #2a2140;
+  --info: #60a5fa;
+  --info-soft: #172338;
+  --success: #34d399;
+  --success-soft: #12291f;
+  --danger: #f87171;
+  --danger-soft: #331a1a;
+  --warning: #fb923c;
+  --warning-soft: #33231a;
+  --coral: #f2837d;
+  --coral-soft: #3a1f1d;
+  --highlight: #4a4214;
+
+  --lvl-a1: #38bdf8;
+  --lvl-a1-soft: #11293a;
+  --lvl-a2: #fb923c;
+  --lvl-a2-soft: #33231a;
+  --lvl-b1: #a78bfa;
+  --lvl-b1-soft: #2a2140;
+  --lvl-b2: #34d399;
+  --lvl-b2-soft: #12291f;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    @apply bg-bg font-sans text-ink antialiased;
+    min-height: 100dvh;
+  }
+  ::selection {
+    background: color-mix(in oklab, var(--brand) 25%, transparent);
+  }
+  :focus-visible {
+    outline: 2px solid var(--brand);
+    outline-offset: 2px;
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-3xl border border-line bg-surface;
+  }
+  .card-pad {
+    @apply p-5 sm:p-6;
+  }
+  .input {
+    @apply w-full rounded-2xl border border-line bg-surface px-4 py-3 text-[15px] text-ink placeholder:text-subtle transition-colors focus:border-brand focus:outline-none;
+  }
+  .label-mono {
+    @apply font-mono text-[11px] uppercase tracking-[0.14em] text-muted;
+  }
+  .prose-lesson p + p {
+    @apply mt-3;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.animate-pop {
+  animation: pop-in 0.22s ease-out both;
+}
+
+/* Tarjeta volteable de vocabulario */
+.flip-scene {
+  perspective: 1400px;
+}
+.flip-card {
+  transform-style: preserve-3d;
+  transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.flip-card.is-flipped {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.flip-back {
+  transform: rotateY(180deg);
+}

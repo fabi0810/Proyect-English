@@ -1,0 +1,247 @@
+{
+"id": "a1-01",
+"level": "A1",
+"title": "Introduction to English",
+"titleEs": "Introducción al inglés",
+"description": "Primer contacto con el idioma: cómo se construye una oración en inglés, saludos y presentaciones, el alfabeto, los números del 0 al 20 y las instrucciones de clase.",
+"objectives": [
+  "Saludar, presentarte y despedirte en situaciones sencillas.",
+  "Reconocer el orden básico de la oración en inglés: sujeto + verbo + complemento.",
+  "Deletrear tu nombre y entender palabras deletreadas.",
+  "Decir y reconocer los números del 0 al 20.",
+  "Comprender y dar instrucciones de clase sencillas (imperativo)."
+],
+"vocabularyCategories": ["basics"],
+"lessons": [
+{
+  "id": "a1-01-l1",
+  "title": "How English Works and Greetings",
+  "titleEs": "Cómo funciona el inglés y los saludos",
+  "objective": "Entender las diferencias básicas entre el inglés y el español y saludar, presentarte y despedirte.",
+  "learn": ["El orden fijo de la oración en inglés (sujeto + verbo + complemento).", "Por qué en inglés el sujeto no se puede omitir.", "Saludos según la hora del día y fórmulas para presentarte."],
+  "why": "Casi todos los errores de los principiantes hispanohablantes vienen de traducir palabra por palabra desde el español. Conocer estas diferencias desde el primer día te ahorra muchos errores después, y los saludos son lo primero que usarás en cualquier conversación.",
+  "theory": [
+    {"type": "text", "title": "El inglés en cinco ideas", "body": "1. **El orden de la oración es fijo**: primero el sujeto (quién), luego el verbo (qué hace) y después el complemento (qué, dónde, cómo).\n2. **El sujeto es obligatorio**: en español decimos «Hablo inglés», pero en inglés hay que decir quién habla: `I speak English`.\n3. **Los sustantivos no tienen género gramatical**: `the` sirve para el, la, los y las.\n4. **Los adjetivos van antes del sustantivo** y no cambian en plural: `a red car`, `two red cars`.\n5. **La escritura no siempre indica la pronunciación**: escucha siempre el audio de las palabras nuevas."},
+    {"type": "glossary", "items": [
+      {"term": "Sujeto", "definition": "la persona o cosa que realiza la acción: *My sister* works."},
+      {"term": "Verbo", "definition": "la palabra que expresa la acción o el estado: My sister *works*."},
+      {"term": "Complemento", "definition": "la información que completa la idea: My sister works *in a bank*."},
+      {"term": "Sustantivo", "definition": "nombre de una persona, cosa, lugar o idea: book, city, love."},
+      {"term": "Adjetivo", "definition": "palabra que describe un sustantivo: big, red, happy."}
+    ]},
+    {"type": "rule", "title": "Orden básico de la oración", "formula": "Sujeto + Verbo + Complemento", "body": "`I` + `speak` + `Spanish`. → I speak Spanish.\n`My brother` + `likes` + `coffee`. → My brother likes coffee.\nEn español podemos cambiar el orden («Le gusta el café a mi hermano»); en inglés, no."},
+    {"type": "examples", "title": "Ejemplos", "items": [
+      {"en": "I speak Spanish.", "es": "Hablo español.", "note": "En español el sujeto «yo» se sobreentiende; en inglés hay que decir **I**."},
+      {"en": "We like music.", "es": "Nos gusta la música."},
+      {"en": "The car is red.", "es": "El coche es rojo."},
+      {"en": "It is a big city.", "es": "Es una ciudad grande.", "note": "**It** es el sujeto para cosas; lo estudiarás en el módulo 2."}
+    ]},
+    {"type": "compare", "title": "Correcto e incorrecto", "items": [
+      {"wrong": "Speak English.", "right": "I speak English.", "why": "Sin sujeto, la frase parece una orden («¡Habla inglés!»). Para decir «Hablo inglés» necesitas **I**."},
+      {"wrong": "Is a big city.", "right": "It is a big city.", "why": "El sujeto es obligatorio, incluso cuando en español no lo decimos. Para cosas se usa **it**."},
+      {"wrong": "a car red", "right": "a red car", "why": "El adjetivo va **antes** del sustantivo."},
+      {"wrong": "Likes coffee my brother.", "right": "My brother likes coffee.", "why": "Primero el sujeto, después el verbo, después el complemento."}
+    ]},
+    {"type": "table", "title": "Saludos y despedidas", "headers": ["Expresión", "Cuándo se usa", "Respuesta típica"], "rows": [
+      ["Hello / Hi", "En cualquier momento (Hi es más informal)", "Hello! / Hi!"],
+      ["Good morning", "Por la mañana (hasta las 12 aprox.)", "Good morning!"],
+      ["Good afternoon", "Por la tarde (12:00–18:00 aprox.)", "Good afternoon!"],
+      ["Good evening", "Al llegar, a partir de las 18:00 aprox.", "Good evening!"],
+      ["How are you?", "Para preguntar cómo está alguien", "I'm fine, thanks. And you?"],
+      ["Nice to meet you.", "La primera vez que conoces a alguien", "Nice to meet you, too."],
+      ["Goodbye / Bye", "Para despedirse", "Goodbye! / Bye! / See you later!"],
+      ["Good night", "Para despedirse por la noche o antes de dormir", "Good night!"]
+    ]},
+    {"type": "warning", "title": "«Good night» no es un saludo", "body": "Si llegas a una fiesta a las 9 de la noche, dices **Good evening** (o Hello). **Good night** solo se usa al despedirse o antes de irse a dormir."},
+    {"type": "dialogue", "title": "Diálogo modelo", "lines": [
+      {"speaker": "Laura", "en": "Hello! I'm Laura. What's your name?", "es": "¡Hola! Soy Laura. ¿Cómo te llamas?"},
+      {"speaker": "Daniel", "en": "Hi, Laura. My name is Daniel.", "es": "Hola, Laura. Me llamo Daniel."},
+      {"speaker": "Laura", "en": "Nice to meet you, Daniel.", "es": "Encantada de conocerte, Daniel."},
+      {"speaker": "Daniel", "en": "Nice to meet you, too. How are you?", "es": "Igualmente. ¿Cómo estás?"},
+      {"speaker": "Laura", "en": "I'm fine, thanks. And you?", "es": "Bien, gracias. ¿Y tú?"},
+      {"speaker": "Daniel", "en": "I'm very well, thank you. See you later!", "es": "Muy bien, gracias. ¡Hasta luego!"}
+    ]},
+    {"type": "tip", "title": "Las contracciones son normales", "body": "I'm = I am, What's = What is. Al hablar y en mensajes informales se usan casi siempre las contracciones. Estudiarás su forma completa en el módulo del verbo to be."}
+  ],
+  "guided": [
+    {"id": "a1-01-l1-g1", "type": "multiple_choice", "topic": "greetings", "skill": "vocabulary", "difficulty": 1, "question": "Son las 9:00 de la mañana. Saludas a tu profesora:", "options": ["Good morning!", {"text": "Good night!", "why": "Good night es una despedida para la noche, no un saludo de la mañana.", "error": "greeting-use"}, {"text": "Good evening!", "why": "Good evening se usa a partir de las 18:00 aproximadamente."}, {"text": "Goodbye!", "why": "Goodbye es una despedida."}], "answer": 0, "explanation": "Por la mañana (hasta mediodía) se saluda con «Good morning»."},
+    {"id": "a1-01-l1-g2", "type": "multiple_choice", "topic": "greetings", "skill": "comprehension", "difficulty": 1, "question": "—Nice to meet you. —___", "options": ["Nice to meet you, too.", {"text": "I'm fine, thanks.", "why": "Esta es la respuesta a «How are you?», no a «Nice to meet you»."}, {"text": "Good night.", "why": "Es una despedida nocturna."}, {"text": "My name is Ana.", "why": "Presentarte después no responde a la fórmula de cortesía."}], "answer": 0, "explanation": "A «Nice to meet you» se responde «Nice to meet you, too» (igualmente)."},
+    {"id": "a1-01-l1-g3", "type": "word_order", "topic": "english-basics", "skill": "construction", "difficulty": 1, "tokens": ["I", "speak", "Spanish"], "clue": "Hablo español.", "errorTag": "word-order", "explanation": "Sujeto (I) + verbo (speak) + complemento (Spanish). En inglés el sujeto «I» es obligatorio."},
+    {"id": "a1-01-l1-g4", "type": "true_false", "topic": "english-basics", "skill": "comprehension", "difficulty": 1, "statement": "En inglés se puede omitir el sujeto, igual que en español: «Speak English» significa «Hablo inglés».", "answer": false, "errorTag": "subject-omitted", "explanation": "Falso. En inglés el sujeto es obligatorio: «Hablo inglés» = I speak English. «Speak English» sin sujeto es una orden: ¡Habla inglés!"},
+    {"id": "a1-01-l1-g5", "type": "matching", "topic": "greetings", "skill": "vocabulary", "difficulty": 1, "pairs": [["Hello", "Hola"], ["Goodbye", "Adiós"], ["Thank you", "Gracias"], ["Please", "Por favor"], ["See you later", "Hasta luego"]], "explanation": "Estas expresiones aparecen en casi todas las conversaciones; apréndelas como bloques."}
+  ],
+  "independent": [
+    {"id": "a1-01-l1-i1", "type": "fill_blank", "topic": "greetings", "skill": "grammar", "difficulty": 1, "text": "—How ___ you? —I'm fine, thanks.", "blanks": [{"answers": ["are"], "feedback": {"is": "@be-agreement|Con «you» se usa «are».", "do": "«How do you do?» es una fórmula muy formal y distinta; aquí se pregunta cómo estás: How are you?"}}], "explanation": "La pregunta fija es «How are you?» (¿Cómo estás?)."},
+    {"id": "a1-01-l1-i2", "type": "multiple_choice", "topic": "english-basics", "skill": "grammar", "difficulty": 1, "question": "¿Qué oración tiene el orden correcto?", "options": ["My brother likes coffee.", {"text": "Likes coffee my brother.", "why": "El sujeto (my brother) debe ir primero.", "error": "word-order"}, {"text": "My brother coffee likes.", "why": "El verbo (likes) va antes del complemento (coffee).", "error": "word-order"}, {"text": "Coffee likes my brother.", "why": "Así significaría que el café quiere a tu hermano.", "error": "word-order"}], "answer": 0, "errorTag": "word-order", "explanation": "Orden fijo: sujeto (My brother) + verbo (likes) + complemento (coffee)."},
+    {"id": "a1-01-l1-i3", "type": "error_identification", "topic": "english-basics", "skill": "grammar", "difficulty": 2, "segments": ["I have", "a", "car red", "at home."], "errorIndex": 2, "correction": ["red car"], "errorTag": "adjective-position", "explanation": "El adjetivo va antes del sustantivo: a red car (un coche rojo)."},
+    {"id": "a1-01-l1-i4", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "greetings", "skill": "translation", "difficulty": 1, "source": "Hola, me llamo Ana.", "answers": ["{Hello|Hi}, {my name is|I'm|I am} Ana."], "keyConcepts": [["hello", "hi"], ["ana"]], "notes": "«Me llamo» no se traduce literalmente («I call myself» no se usa). Se dice **My name is…** o **I'm…**", "explanation": "Hello/Hi + My name is Ana (o I'm Ana)."},
+    {"id": "a1-01-l1-i5", "type": "sentence_building", "topic": "greetings", "skill": "construction", "difficulty": 1, "cue": "Responde a «How are you?»: bien, gracias", "answers": ["I'm fine, thanks.", "{I'm|I am} {fine|good|well|very well|OK}, {thanks|thank you}."], "explanation": "Respuesta habitual: I'm fine, thanks (o I'm good / I'm very well, thank you)."},
+    {"id": "a1-01-l1-i6", "type": "multiple_choice", "topic": "greetings", "skill": "vocabulary", "difficulty": 2, "question": "Son las 11 de la noche y te despides de tu familia para ir a dormir:", "options": ["Good night!", {"text": "Good evening!", "why": "Good evening es un saludo al llegar, no una despedida.", "error": "greeting-use"}, {"text": "Good morning!", "why": "Es un saludo de la mañana."}, {"text": "Nice to meet you!", "why": "Se usa al conocer a alguien por primera vez."}], "answer": 0, "explanation": "Good night se usa para despedirse por la noche o antes de dormir."},
+    {"id": "a1-01-l1-i7", "type": "true_false", "topic": "english-basics", "skill": "comprehension", "difficulty": 1, "statement": "La palabra «the» sirve para el, la, los y las.", "answer": true, "explanation": "Verdadero. Los sustantivos en inglés no tienen género gramatical: the man, the woman, the books."}
+  ],
+  "summary": [
+    "El orden de la oración es fijo: sujeto + verbo + complemento (My brother likes coffee).",
+    "El sujeto es obligatorio: I speak English, It is a big city.",
+    "Los adjetivos van antes del sustantivo: a red car.",
+    "Saluda según la hora: Good morning / Good afternoon / Good evening. Good night es una despedida.",
+    "Nice to meet you → Nice to meet you, too. How are you? → I'm fine, thanks."
+  ],
+  "quiz": [
+    {"id": "a1-01-l1-q1", "type": "multiple_choice", "topic": "greetings", "skill": "vocabulary", "difficulty": 1, "question": "Son las 3 de la tarde. Llegas a una reunión y dices:", "options": ["Good afternoon.", {"text": "Good night.", "why": "Es una despedida nocturna.", "error": "greeting-use"}, {"text": "Good morning.", "why": "Se usa solo por la mañana."}, {"text": "Goodbye.", "why": "Es una despedida."}], "answer": 0, "explanation": "Entre las 12:00 y las 18:00 se saluda con «Good afternoon»."},
+    {"id": "a1-01-l1-q2", "type": "multiple_choice", "topic": "greetings", "skill": "comprehension", "difficulty": 1, "question": "—How are you? —___", "options": ["I'm fine, thank you.", {"text": "Nice to meet you, too.", "why": "Responde a «Nice to meet you», no a «How are you?»."}, {"text": "I'm Daniel.", "why": "Te preguntan cómo estás, no cómo te llamas."}, {"text": "Goodbye.", "why": "Es una despedida."}], "answer": 0, "explanation": "«How are you?» pregunta cómo estás: I'm fine, thank you."},
+    {"id": "a1-01-l1-q3", "type": "word_order", "topic": "greetings", "skill": "construction", "difficulty": 1, "tokens": ["my", "name", "is", "Carlos"], "clue": "Me llamo Carlos.", "explanation": "«Me llamo Carlos» = My name is Carlos (literalmente, «mi nombre es Carlos»)."},
+    {"id": "a1-01-l1-q4", "type": "multiple_choice", "topic": "english-basics", "skill": "grammar", "difficulty": 1, "question": "¿Qué oración es correcta?", "options": ["We like music.", {"text": "Like music we.", "why": "El sujeto (we) va al principio.", "error": "word-order"}, {"text": "We music like.", "why": "El verbo va antes del complemento.", "error": "word-order"}, {"text": "Music like we.", "why": "Orden incorrecto: sujeto + verbo + complemento.", "error": "word-order"}], "answer": 0, "errorTag": "word-order", "explanation": "Sujeto (We) + verbo (like) + complemento (music)."},
+    {"id": "a1-01-l1-q5", "type": "true_false", "topic": "english-basics", "skill": "comprehension", "difficulty": 1, "statement": "En inglés los adjetivos van normalmente antes del sustantivo: «a big house».", "answer": true, "explanation": "Verdadero: a big house (una casa grande), a red car (un coche rojo)."},
+    {"id": "a1-01-l1-q6", "type": "error_correction", "topic": "english-basics", "skill": "grammar", "difficulty": 2, "sentence": "Is a big city.", "answers": ["It is a big city.", "It's a big city."], "errorTag": "subject-omitted", "explanation": "Falta el sujeto. En inglés la oración necesita sujeto; para una cosa se usa «it»: It is a big city."},
+    {"id": "a1-01-l1-q7", "type": "translation", "direction": "en-es", "unit": "expression", "topic": "greetings", "skill": "translation", "difficulty": 1, "source": "Nice to meet you.", "answers": ["{Mucho gusto|Encantado|Encantada|Un placer|Gusto en conocerte|Encantado de conocerte|Encantada de conocerte|Mucho gusto en conocerte|Es un placer conocerte}."], "keyConcepts": [["gusto", "encantado", "encantada", "placer"]], "notes": "Traducción literal: «Bonito conocerte». La natural: **Mucho gusto** o **Encantado/a**.", "explanation": "Fórmula para la primera vez que conoces a alguien: «Mucho gusto» / «Encantado/a»."},
+    {"id": "a1-01-l1-q8", "type": "matching", "topic": "greetings", "skill": "vocabulary", "difficulty": 2, "pairs": [["Good morning", "Buenos días"], ["Good afternoon", "Buenas tardes"], ["Good evening", "Buenas noches (al llegar)"], ["Good night", "Buenas noches (al despedirse)"], ["Goodbye", "Adiós"]], "explanation": "Good evening saluda al llegar por la tarde-noche; Good night despide."},
+    {"id": "a1-01-l1-q9", "type": "fill_blank", "topic": "greetings", "skill": "vocabulary", "difficulty": 1, "text": "Hello! My ___ is Pedro.", "blanks": [{"answers": ["name"]}], "explanation": "My name is… = Me llamo… (mi nombre es…)."},
+    {"id": "a1-01-l1-q10", "type": "multiple_choice", "topic": "greetings", "skill": "comprehension", "difficulty": 2, "question": "Una persona nueva te dice: «Hi, I'm Sam.» ¿Qué respondes?", "options": ["Hi, Sam. I'm Lucía. Nice to meet you.", {"text": "Good night, Sam.", "why": "Es una despedida."}, {"text": "I'm fine, thanks.", "why": "Sam no preguntó cómo estás."}, {"text": "Goodbye, Sam.", "why": "Es una despedida, no una presentación."}], "answer": 0, "explanation": "Saludas, te presentas (I'm…) y usas la fórmula de cortesía Nice to meet you."}
+  ]
+},
+{
+  "id": "a1-01-l2",
+  "title": "The Alphabet, Spelling and Numbers 0–20",
+  "titleEs": "El alfabeto, el deletreo y los números del 0 al 20",
+  "objective": "Deletrear palabras en inglés y usar los números del 0 al 20.",
+  "learn": ["Los nombres de las letras en inglés y las que más confunden a los hispanohablantes.", "Cómo preguntar y responder «¿Cómo se deletrea?».", "Los números del 0 al 20 y su ortografía."],
+  "why": "Deletrear tu nombre, tu correo o una dirección es una de las primeras tareas reales en inglés (hoteles, llamadas, formularios). Los números aparecen en edades, teléfonos, precios y horas.",
+  "theory": [
+    {"type": "text", "title": "Las letras tienen otro nombre", "body": "El alfabeto inglés tiene las mismas 26 letras que el español (sin la ñ), pero **sus nombres suenan diferente**. Se usan para deletrear (*to spell*) nombres, apellidos, correos y direcciones.\nAgrupar las letras por su sonido ayuda mucho a memorizarlas:"},
+    {"type": "table", "title": "Las letras agrupadas por sonido", "headers": ["Sonido", "Letras", "Pista para hispanohablantes"], "rows": [
+      ["/eɪ/", "A, H, J, K", "Como «ei»: A = «ei», J = «yei»"],
+      ["/iː/", "B, C, D, E, G, P, T, V, Z", "Terminan en «i»: E = «i», G = «yi». Z = «zi» en EE. UU. («zed» en Reino Unido)"],
+      ["/e/", "F, L, M, N, S, X", "Empiezan con «e»: F = «ef», L = «el», X = «eks»"],
+      ["/aɪ/", "I, Y", "Como «ai»: I = «ai», Y = «uai»"],
+      ["/oʊ/", "O", "Como «ou»"],
+      ["/uː/", "Q, U, W", "Terminan en «iu»: Q = «kiu», W = «dábel-iu»"],
+      ["/ɑːr/", "R", "Como «ar»"]
+    ], "caption": "La pronunciación en letras españolas es solo orientativa; escucha el audio de cada letra."},
+    {"type": "warning", "title": "Las tres trampas", "body": "**E** se pronuncia /iː/ (como nuestra «i»), **I** se pronuncia /aɪ/ («ai») y **A** se pronuncia /eɪ/ («ei»). También se confunden **G** (/dʒiː/) y **J** (/dʒeɪ/)."},
+    {"type": "examples", "title": "Deletrear", "items": [
+      {"en": "How do you spell your name?", "es": "¿Cómo se deletrea tu nombre?"},
+      {"en": "L-A-U-R-A.", "es": "L-A-U-R-A."},
+      {"en": "Bello: B-E-double L-O.", "es": "Bello: B-E-doble L-O.", "note": "Para letras repetidas se suele decir **double** (doble)."},
+      {"en": "How do you spell it?", "es": "¿Cómo se escribe / se deletrea?"}
+    ]},
+    {"type": "table", "title": "Números del 0 al 20", "headers": ["Número", "Inglés", "Pronunciación orientativa"], "rows": [
+      ["0", "zero", "/ˈzɪroʊ/"], ["1", "one", "/wʌn/"], ["2", "two", "/tuː/"], ["3", "three", "/θriː/"], ["4", "four", "/fɔːr/"], ["5", "five", "/faɪv/"], ["6", "six", "/sɪks/"], ["7", "seven", "/ˈsevən/"], ["8", "eight", "/eɪt/"], ["9", "nine", "/naɪn/"], ["10", "ten", "/ten/"], ["11", "eleven", "/ɪˈlevən/"], ["12", "twelve", "/twelv/"], ["13", "thirteen", "/ˌθɜːrˈtiːn/"], ["14", "fourteen", "/ˌfɔːrˈtiːn/"], ["15", "fifteen", "/ˌfɪfˈtiːn/"], ["16", "sixteen", "/ˌsɪkˈstiːn/"], ["17", "seventeen", "/ˌsevənˈtiːn/"], ["18", "eighteen", "/ˌeɪˈtiːn/"], ["19", "nineteen", "/ˌnaɪnˈtiːn/"], ["20", "twenty", "/ˈtwenti/"]
+    ]},
+    {"type": "exception", "title": "Ortografía irregular", "body": "**three → thirteen** (no «threeteen»), **five → fifteen** (no «fiveteen»), **eight → eighteen** (una sola t). Eleven y twelve no siguen ningún patrón: hay que memorizarlos."},
+    {"type": "tip", "title": "El cero en los teléfonos", "body": "En los números de teléfono el 0 se suele decir **oh**, como la letra O: 3-0-5 = «three oh five». Los números se dicen dígito a dígito."}
+  ],
+  "guided": [
+    {"id": "a1-01-l2-g1", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "vocabulary", "difficulty": 1, "question": "¿Cómo se pronuncia el nombre de la letra «E» en inglés?", "options": ["/iː/, como la «i» española", {"text": "/eɪ/, como «ei»", "why": "/eɪ/ es el nombre de la letra A.", "error": "alphabet-letter"}, {"text": "/aɪ/, como «ai»", "why": "/aɪ/ es el nombre de la letra I.", "error": "alphabet-letter"}, {"text": "/e/, como la «e» española", "why": "Ninguna letra se llama solo /e/; F, L, M, N y S empiezan con ese sonido.", "error": "alphabet-letter"}], "answer": 0, "explanation": "La E se llama /iː/. Es una de las trampas más comunes para hispanohablantes."},
+    {"id": "a1-01-l2-g2", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "listening", "difficulty": 1, "audio": "H", "question": "Escucha. ¿Qué letra es?", "options": ["H", {"text": "A", "why": "La A suena /eɪ/, sin el final /tʃ/."}, {"text": "E", "why": "La E suena /iː/."}, {"text": "I", "why": "La I suena /aɪ/."}], "answer": 0, "explanation": "La H se llama /eɪtʃ/ («eich»)."},
+    {"id": "a1-01-l2-g3", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "listening", "difficulty": 1, "audio": "M. A. R. T. A.", "hideText": true, "question": "Escucha el deletreo. ¿Qué nombre es?", "options": ["Marta", {"text": "Marga", "why": "La cuarta letra es T (/tiː/), no G (/dʒiː/)."}, {"text": "Narta", "why": "La primera letra es M (/em/), no N (/en/)."}, {"text": "María", "why": "Las letras deletreadas son M-A-R-T-A."}], "answer": 0, "explanation": "M (/em/) - A (/eɪ/) - R (/ɑːr/) - T (/tiː/) - A (/eɪ/) = Marta."},
+    {"id": "a1-01-l2-g4", "type": "matching", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 1, "pairs": [["three", "3"], ["thirteen", "13"], ["eight", "8"], ["eighteen", "18"], ["twelve", "12"]], "explanation": "-teen convierte 3–9 en 13–19: three → thirteen, eight → eighteen."},
+    {"id": "a1-01-l2-g5", "type": "fill_blank", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 1, "text": "eleven, twelve, ___, fourteen", "blanks": [{"answers": ["thirteen"], "feedback": {"threeteen": "@number-form|Se escribe «thirteen», no «threeteen»."}}], "explanation": "Después de twelve (12) viene thirteen (13)."}
+  ],
+  "independent": [
+    {"id": "a1-01-l2-i1", "type": "fill_blank", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 1, "text": "5 + 6 = ___ (escríbelo en letras)", "blanks": [{"answers": ["eleven"]}], "explanation": "5 + 6 = 11 = eleven."},
+    {"id": "a1-01-l2-i2", "type": "multiple_choice", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 2, "question": "¿Cuál está bien escrito? (15)", "options": ["fifteen", {"text": "fiveteen", "why": "five cambia a fif- en fifteen.", "error": "number-form"}, {"text": "fivteen", "why": "La forma correcta es fif-teen.", "error": "number-form"}, {"text": "fifeteen", "why": "No lleva e después de fif.", "error": "number-form"}], "answer": 0, "errorTag": "number-form", "explanation": "15 = fifteen. Igual que three → thirteen, five cambia de forma."},
+    {"id": "a1-01-l2-i3", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "comprehension", "difficulty": 1, "question": "¿Cómo preguntas «¿Cómo se deletrea?»", "options": ["How do you spell it?", {"text": "How do you say it?", "why": "Esto pregunta cómo se dice o pronuncia algo."}, {"text": "What do you spell?", "why": "Significaría «¿Qué deletreas?»."}, {"text": "How is spell it?", "why": "La estructura correcta es How do you spell it?"}], "answer": 0, "explanation": "How do you spell it? = ¿Cómo se deletrea / se escribe?"},
+    {"id": "a1-01-l2-i4", "type": "dictation", "topic": "numbers-0-20", "skill": "listening", "difficulty": 2, "prompt": "Escucha el número de teléfono y escríbelo con cifras.", "text": "five five five, two oh one nine", "answers": ["555 2019", "5552019"], "explanation": "Se dice dígito a dígito y el 0 suena «oh»: 555-2019."},
+    {"id": "a1-01-l2-i5", "type": "multiple_choice", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 1, "question": "¿Qué número es «seventeen»?", "options": ["17", {"text": "70", "why": "70 es seventy (lo verás en el módulo 4)."}, {"text": "7", "why": "7 es seven."}, {"text": "16", "why": "16 es sixteen."}], "answer": 0, "explanation": "seven + -teen = seventeen = 17."},
+    {"id": "a1-01-l2-i6", "type": "true_false", "topic": "numbers-0-20", "skill": "comprehension", "difficulty": 1, "statement": "En los números de teléfono, el 0 se suele decir «oh».", "answer": true, "explanation": "Verdadero: 305 se dice «three oh five»."},
+    {"id": "a1-01-l2-i7", "type": "word_order", "topic": "alphabet-spelling", "skill": "construction", "difficulty": 1, "tokens": ["how", "do", "you", "spell", "your", "name"], "punctuation": "?", "clue": "¿Cómo se deletrea tu nombre?", "explanation": "Pregunta fija: How do you spell your name?"}
+  ],
+  "summary": [
+    "Las letras tienen nombres distintos: E = /iː/, I = /aɪ/, A = /eɪ/; G = /dʒiː/ y J = /dʒeɪ/.",
+    "Para pedir el deletreo: How do you spell it? / How do you spell your name?",
+    "Las letras repetidas se deletrean con double: double L.",
+    "13–19 terminan en -teen; ojo con thirteen, fifteen y eighteen.",
+    "En los teléfonos el 0 se dice «oh» y los números van dígito a dígito."
+  ],
+  "quiz": [
+    {"id": "a1-01-l2-q1", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "vocabulary", "difficulty": 1, "question": "La letra «I» en inglés se pronuncia…", "options": ["/aɪ/ («ai»)", {"text": "/iː/ («i»)", "why": "/iː/ es el nombre de la E.", "error": "alphabet-letter"}, {"text": "/eɪ/ («ei»)", "why": "/eɪ/ es el nombre de la A.", "error": "alphabet-letter"}, {"text": "/ɪ/ («i» corta)", "why": "Ese sonido aparece dentro de palabras como «six», pero no es el nombre de la letra."}], "answer": 0, "explanation": "La I se llama /aɪ/, como el pronombre «I» (yo)."},
+    {"id": "a1-01-l2-q2", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "listening", "difficulty": 2, "audio": "G", "hideText": true, "question": "Escucha. ¿Qué letra es?", "options": ["G", {"text": "J", "why": "La J suena /dʒeɪ/ («yei»)."}, {"text": "E", "why": "La E suena /iː/, sin el sonido /dʒ/."}, {"text": "C", "why": "La C suena /siː/."}], "answer": 0, "explanation": "La G se llama /dʒiː/ («yi»); la J, /dʒeɪ/ («yei»)."},
+    {"id": "a1-01-l2-q3", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "listening", "difficulty": 2, "audio": "P. E. D. R. O.", "hideText": true, "question": "Escucha el deletreo. ¿Qué nombre es?", "options": ["Pedro", {"text": "Petro", "why": "La tercera letra es D (/diː/), no T (/tiː/)."}, {"text": "Bedro", "why": "La primera letra es P (/piː/)."}, {"text": "Pedra", "why": "La última letra es O (/oʊ/)."}], "answer": 0, "explanation": "P-E-D-R-O = Pedro."},
+    {"id": "a1-01-l2-q4", "type": "fill_blank", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 1, "text": "eighteen, nineteen, ___", "blanks": [{"answers": ["twenty"]}], "explanation": "Después de 19 (nineteen) viene 20 (twenty)."},
+    {"id": "a1-01-l2-q5", "type": "multiple_choice", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 2, "question": "¿Cuál está bien escrito? (18)", "options": ["eighteen", {"text": "eightteen", "why": "Lleva una sola t: eigh-teen.", "error": "number-form"}, {"text": "eigteen", "why": "Falta la h: eighteen.", "error": "number-form"}, {"text": "eighten", "why": "Termina en -teen.", "error": "number-form"}], "answer": 0, "errorTag": "number-form", "explanation": "18 = eighteen (eight + teen con una sola t)."},
+    {"id": "a1-01-l2-q6", "type": "matching", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 1, "pairs": [["four", "4"], ["fourteen", "14"], ["five", "5"], ["fifteen", "15"], ["zero", "0"]], "explanation": "four → fourteen; five → fifteen (cambia a fif-)."},
+    {"id": "a1-01-l2-q7", "type": "dictation", "topic": "numbers-0-20", "skill": "listening", "difficulty": 1, "prompt": "Escucha y escribe el número (en cifras o en letras).", "text": "twelve", "answers": ["12"], "explanation": "twelve = 12."},
+    {"id": "a1-01-l2-q8", "type": "multiple_choice", "topic": "numbers-0-20", "skill": "vocabulary", "difficulty": 1, "question": "13 se escribe:", "options": ["thirteen", {"text": "threeteen", "why": "three cambia a thir- en thirteen.", "error": "number-form"}, {"text": "thirty", "why": "thirty es 30.", "error": "number-form"}, {"text": "therteen", "why": "Se escribe thir-teen.", "error": "number-form"}], "answer": 0, "errorTag": "number-form", "explanation": "13 = thirteen."},
+    {"id": "a1-01-l2-q9", "type": "translation", "direction": "es-en", "unit": "expression", "topic": "alphabet-spelling", "skill": "translation", "difficulty": 2, "source": "¿Cómo se deletrea?", "answers": ["How do you spell {it|that}?"], "keyConcepts": [["spell"]], "notes": "En inglés la pregunta usa «you» con sentido general: How do you spell it? (literalmente «¿Cómo lo deletreas?»).", "explanation": "How do you spell it? / How do you spell that?"},
+    {"id": "a1-01-l2-q10", "type": "true_false", "topic": "alphabet-spelling", "skill": "comprehension", "difficulty": 1, "statement": "La letra «A» en inglés se llama /eɪ/ («ei»).", "answer": true, "explanation": "Verdadero: A = /eɪ/."}
+  ]
+},
+{
+  "id": "a1-01-l3",
+  "title": "Classroom Language and Imperatives",
+  "titleEs": "Lenguaje de clase e imperativo",
+  "objective": "Entender y dar instrucciones sencillas y usar frases útiles para aprender en inglés.",
+  "learn": ["El imperativo afirmativo y negativo (Open… / Don't…).", "Las instrucciones más comunes de una clase.", "Frases para pedir ayuda: repetir, deletrear, preguntar significados."],
+  "why": "Las instrucciones (imperativo) están en todos los ejercicios, señales y recetas. Las frases de clase te permiten seguir aprendiendo en inglés aunque no entiendas algo.",
+  "theory": [
+    {"type": "rule", "title": "El imperativo", "formula": "Verbo en forma base + complemento  ·  Don't + verbo + complemento", "body": "Sirve para dar instrucciones u órdenes. **No lleva sujeto** y el verbo va en su forma básica (la del diccionario).\n`Open your books.` (Abran sus libros.)\n`Don't use your phone.` (No usen el teléfono.)\nLa misma forma sirve para tú, usted y ustedes."},
+    {"type": "glossary", "items": [{"term": "Forma base", "definition": "el verbo tal como aparece en el diccionario, sin terminaciones: open, write, listen."}, {"term": "Imperativo", "definition": "forma del verbo para dar instrucciones u órdenes: Listen! Don't run!"}]},
+    {"type": "table", "title": "Instrucciones de clase", "headers": ["Instrucción", "Significado"], "rows": [
+      ["Open your books.", "Abran sus libros."], ["Close your books.", "Cierren sus libros."], ["Listen.", "Escuchen."], ["Repeat.", "Repitan."], ["Read the text.", "Lean el texto."], ["Write your name.", "Escriban su nombre."], ["Look at the board.", "Miren la pizarra."], ["Sit down.", "Siéntense."], ["Stand up.", "Pónganse de pie."], ["Work in pairs.", "Trabajen en parejas."], ["Don't use your phone.", "No usen el teléfono."]
+    ]},
+    {"type": "table", "title": "Frases útiles del estudiante", "headers": ["En inglés", "En español"], "rows": [
+      ["Can you repeat that, please?", "¿Puede repetirlo, por favor?"], ["Can you speak slowly, please?", "¿Puede hablar despacio, por favor?"], ["What does «board» mean?", "¿Qué significa «board»?"], ["How do you say «mesa» in English?", "¿Cómo se dice «mesa» en inglés?"], ["I don't understand.", "No entiendo."], ["Sorry, I don't know.", "Lo siento, no lo sé."]
+    ], "caption": "Apréndelas como bloques; su gramática (can, do) la estudiarás más adelante."},
+    {"type": "compare", "items": [
+      {"wrong": "No talk in class.", "right": "Don't talk in class.", "why": "El imperativo negativo se forma con **Don't** + verbo, no con «No»."},
+      {"wrong": "Don't to run.", "right": "Don't run.", "why": "Después de Don't va el verbo en forma base, sin «to»."},
+      {"wrong": "You open the window.", "right": "Open the window.", "why": "Con sujeto parece una descripción («tú abres la ventana»). La orden no lleva sujeto."},
+      {"wrong": "What means «board»?", "right": "What does «board» mean?", "why": "La pregunta necesita «does»; es una frase fija que conviene memorizar."}
+    ]},
+    {"type": "tip", "title": "Suaviza con «please»", "body": "Please puede ir al principio o al final: **Please sit down.** / **Sit down, please.** Sin please, una orden puede sonar brusca."},
+    {"type": "exception", "title": "Let's: sugerencias para el grupo", "body": "**Let's + verbo** (= let us) propone hacer algo juntos: Let's start! (¡Empecemos!) Let's practice. Nunca «Let's to start»."}
+  ],
+  "guided": [
+    {"id": "a1-01-l3-g1", "type": "multiple_choice", "topic": "imperatives", "skill": "grammar", "difficulty": 1, "question": "El profesor quiere que los estudiantes abran el libro:", "options": ["Open your books.", {"text": "You open your books.", "why": "Con sujeto es una descripción, no una instrucción.", "error": "imperative-form"}, {"text": "Opening your books.", "why": "La forma -ing no da instrucciones.", "error": "imperative-form"}, {"text": "To open your books.", "why": "El imperativo no lleva «to».", "error": "imperative-form"}], "answer": 0, "explanation": "Imperativo = verbo en forma base sin sujeto: Open your books."},
+    {"id": "a1-01-l3-g2", "type": "multiple_choice", "topic": "imperatives", "skill": "grammar", "difficulty": 1, "question": "Elige el imperativo negativo correcto:", "options": ["Don't run in the classroom.", {"text": "No run in the classroom.", "why": "La negación del imperativo es Don't, no No.", "error": "imperative-form"}, {"text": "Not run in the classroom.", "why": "Se necesita Don't.", "error": "imperative-form"}, {"text": "Don't to run in the classroom.", "why": "Después de Don't no va «to».", "error": "imperative-form"}], "answer": 0, "explanation": "Don't + verbo en forma base: Don't run."},
+    {"id": "a1-01-l3-g3", "type": "matching", "topic": "classroom-language", "skill": "vocabulary", "difficulty": 1, "pairs": [["Listen", "Escuchen"], ["Repeat", "Repitan"], ["Sit down", "Siéntense"], ["Stand up", "Pónganse de pie"], ["Write", "Escriban"]], "explanation": "Instrucciones básicas de clase."},
+    {"id": "a1-01-l3-g4", "type": "fill_blank", "topic": "imperatives", "skill": "grammar", "difficulty": 1, "text": "___ use your phone in class, please.", "blanks": [{"answers": ["Don't", "Do not"], "feedback": {"no": "@imperative-form", "not": "@imperative-form"}}], "explanation": "Prohibición en imperativo: Don't + verbo."},
+    {"id": "a1-01-l3-g5", "type": "translation", "direction": "es-en", "unit": "expression", "topic": "classroom-language", "skill": "translation", "difficulty": 1, "source": "No entiendo.", "answers": ["I don't understand."], "keyConcepts": [["understand"]], "notes": "En inglés hay que decir el sujeto: **I** don't understand.", "explanation": "No entiendo = I don't understand."}
+  ],
+  "independent": [
+    {"id": "a1-01-l3-i1", "type": "multiple_choice", "topic": "classroom-language", "skill": "comprehension", "difficulty": 2, "question": "Quieres saber qué significa la palabra «board»:", "options": ["What does «board» mean?", {"text": "What means «board»?", "why": "Falta «does»: What does … mean? Es un error muy típico.", "error": "missing-auxiliary"}, {"text": "How do you say «board»?", "why": "Esto pregunta cómo se dice algo, no qué significa."}, {"text": "How do you spell «board»?", "why": "Esto pide el deletreo."}], "answer": 0, "explanation": "Para preguntar el significado: What does «…» mean?"},
+    {"id": "a1-01-l3-i2", "type": "word_order", "topic": "classroom-language", "skill": "construction", "difficulty": 2, "tokens": ["can", "you", "repeat", "that", "please"], "punctuation": "?", "clue": "¿Puede repetirlo, por favor?", "explanation": "Frase fija para pedir que repitan: Can you repeat that, please?"},
+    {"id": "a1-01-l3-i3", "type": "error_correction", "topic": "imperatives", "skill": "grammar", "difficulty": 2, "sentence": "Don't to speak Spanish, please.", "answers": ["Don't speak Spanish, please.", "Please don't speak Spanish."], "errorTag": "imperative-form", "explanation": "Después de Don't el verbo va en forma base, sin «to»: Don't speak."},
+    {"id": "a1-01-l3-i4", "type": "sentence_building", "topic": "imperatives", "skill": "construction", "difficulty": 2, "cue": "Pide con cortesía que todos (everybody) escuchen.", "answers": ["Listen, please.", "Please listen.", "Everybody, listen, please.", "Listen, everybody, please.", "Please listen, everybody.", "Everybody, please listen.", "Listen, please, everybody."], "explanation": "Imperativo (Listen) + please para ser cortés."},
+    {"id": "a1-01-l3-i5", "type": "multiple_choice", "topic": "imperatives", "skill": "grammar", "difficulty": 2, "question": "Let's ___ the lesson.", "options": ["start", {"text": "to start", "why": "Después de Let's no va «to».", "error": "imperative-form"}, {"text": "starting", "why": "Después de Let's va el verbo en forma base."}, {"text": "starts", "why": "No se añade -s después de Let's."}], "answer": 0, "explanation": "Let's + verbo en forma base: Let's start."},
+    {"id": "a1-01-l3-i6", "type": "translation", "direction": "en-es", "unit": "sentence", "topic": "classroom-language", "skill": "translation", "difficulty": 2, "source": "How do you say «ventana» in English?", "answers": ["¿Cómo se dice «ventana» en inglés?", "¿Cómo se dice ventana en inglés?"], "keyConcepts": [["dice", "decir"], ["ingles"]], "notes": "«How do you say…?» usa «you» con sentido impersonal: se traduce «¿Cómo se dice…?», no «¿Cómo dices tú…?».", "explanation": "¿Cómo se dice «ventana» en inglés?"},
+    {"id": "a1-01-l3-i7", "type": "true_false", "topic": "imperatives", "skill": "comprehension", "difficulty": 1, "statement": "«Don't» es la forma negativa del imperativo: Don't run.", "answer": true, "explanation": "Verdadero: Don't + verbo en forma base."}
+  ],
+  "summary": [
+    "El imperativo usa el verbo en forma base sin sujeto: Open your books.",
+    "Negativo: Don't + verbo (Don't run). Nunca «No run» ni «Don't to run».",
+    "Please suaviza las órdenes: Sit down, please.",
+    "Let's + verbo propone algo al grupo: Let's start!",
+    "Frases útiles: Can you repeat that, please? · What does «…» mean? · How do you say «…» in English? · I don't understand."
+  ],
+  "quiz": [
+    {"id": "a1-01-l3-q1", "type": "multiple_choice", "topic": "classroom-language", "skill": "comprehension", "difficulty": 1, "question": "No oíste bien lo que dijo la profesora. ¿Qué le dices?", "options": ["Can you repeat that, please?", {"text": "Repeat you that?", "why": "No es una estructura correcta en inglés."}, {"text": "Do you can repeat?", "why": "Can no se usa con do.", "error": "can-questions"}, {"text": "Can you to repeat?", "why": "Después de can no va «to».", "error": "modal-to"}], "answer": 0, "explanation": "Frase fija: Can you repeat that, please?"},
+    {"id": "a1-01-l3-q2", "type": "multiple_choice", "topic": "imperatives", "skill": "grammar", "difficulty": 1, "question": "Elige la instrucción correcta:", "options": ["Don't close the window.", {"text": "Not close the window.", "why": "La negación del imperativo es Don't.", "error": "imperative-form"}, {"text": "No close the window.", "why": "La negación del imperativo es Don't.", "error": "imperative-form"}, {"text": "Don't closes the window.", "why": "El imperativo usa la forma base, sin -s.", "error": "imperative-form"}], "answer": 0, "explanation": "Don't + forma base: Don't close."},
+    {"id": "a1-01-l3-q3", "type": "fill_blank", "topic": "classroom-language", "skill": "vocabulary", "difficulty": 1, "text": "___ at the board, please.", "blanks": [{"answers": ["Look"], "hint": "mirar"}], "explanation": "Look at the board = Mira(n) la pizarra. Look va con «at»."},
+    {"id": "a1-01-l3-q4", "type": "matching", "topic": "classroom-language", "skill": "vocabulary", "difficulty": 1, "pairs": [["I don't understand.", "No entiendo."], ["Sorry, I don't know.", "Lo siento, no lo sé."], ["Can you speak slowly?", "¿Puede hablar despacio?"], ["What does it mean?", "¿Qué significa?"]], "explanation": "Frases para pedir ayuda en clase."},
+    {"id": "a1-01-l3-q5", "type": "error_correction", "topic": "imperatives", "skill": "grammar", "difficulty": 1, "sentence": "No use your phone.", "answers": ["Don't use your phone."], "errorTag": "imperative-form", "explanation": "Imperativo negativo: Don't use your phone."},
+    {"id": "a1-01-l3-q6", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "imperatives", "skill": "translation", "difficulty": 2, "source": "Abran sus libros, por favor.", "answers": ["Open your books, please.", "Please open your books."], "keyConcepts": [["open"], ["books"]], "notes": "El imperativo inglés es igual para tú, usted y ustedes: Open.", "explanation": "Open your books, please."},
+    {"id": "a1-01-l3-q7", "type": "word_order", "topic": "imperatives", "skill": "construction", "difficulty": 1, "tokens": ["let's", "start", "the", "lesson"], "clue": "Empecemos la lección.", "explanation": "Let's + verbo en forma base: Let's start the lesson."},
+    {"id": "a1-01-l3-q8", "type": "multiple_choice", "topic": "imperatives", "skill": "grammar", "difficulty": 2, "question": "¿Cuál de estas frases es una instrucción (imperativo)?", "options": ["Write your name.", {"text": "You write your name.", "why": "Con sujeto describe lo que haces; no es una instrucción."}, {"text": "I write my name.", "why": "Describe lo que hago yo."}, {"text": "She writes her name.", "why": "Describe lo que hace ella."}], "answer": 0, "explanation": "El imperativo no lleva sujeto: Write your name."},
+    {"id": "a1-01-l3-q9", "type": "true_false", "topic": "imperatives", "skill": "comprehension", "difficulty": 1, "statement": "Para que una instrucción suene más amable se añade «please».", "answer": true, "explanation": "Verdadero: Sit down, please / Please sit down."},
+    {"id": "a1-01-l3-q10", "type": "multiple_choice", "topic": "classroom-language", "skill": "comprehension", "difficulty": 2, "question": "No sabes cómo se dice «mesa» en inglés. Preguntas:", "options": ["How do you say «mesa» in English?", {"text": "What does «mesa» mean?", "why": "Así preguntas qué significa «mesa», pero tú quieres la palabra en inglés."}, {"text": "How do you spell «mesa»?", "why": "Esto pide el deletreo."}, {"text": "Can you repeat «mesa»?", "why": "Esto pide que repitan la palabra."}], "answer": 0, "explanation": "How do you say «…» in English? = ¿Cómo se dice «…» en inglés?"}
+  ]
+}
+],
+"integrative": [
+  {"id": "a1-01-x1", "type": "reading_comprehension", "topic": "classroom-language", "skill": "reading", "difficulty": 2, "title": "First day of class", "passage": "Teacher: Good morning, everybody! I'm Mrs. Park.\nStudent: Good morning! Sorry, how do you spell your name?\nTeacher: P-A-R-K. Park. Now open your books, please. Page twelve.\nStudent: Can you repeat that, please?\nTeacher: Page twelve. And please don't use your phones.", "explanation": "Diálogo de clase con saludos, deletreo, números e instrucciones.", "questions": [
+    {"id": "a1-01-x1-1", "type": "multiple_choice", "topic": "greetings", "skill": "reading", "difficulty": 1, "question": "¿En qué momento del día es la clase?", "options": ["Por la mañana", "Por la tarde", "Por la noche", "No se sabe"], "answer": 0, "explanation": "La profesora dice «Good morning»."},
+    {"id": "a1-01-x1-2", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "reading", "difficulty": 1, "question": "How do you spell the teacher's name?", "options": ["P-A-R-K", "P-A-R-C", "B-A-R-K", "P-E-R-K"], "answer": 0, "explanation": "La profesora deletrea: P-A-R-K."},
+    {"id": "a1-01-x1-3", "type": "multiple_choice", "topic": "numbers-0-20", "skill": "reading", "difficulty": 1, "question": "¿En qué página tienen que abrir el libro?", "options": ["12", "20", "2", "11"], "answer": 0, "explanation": "«Page twelve» = página 12."},
+    {"id": "a1-01-x1-4", "type": "true_false", "topic": "imperatives", "skill": "reading", "difficulty": 1, "statement": "Los estudiantes pueden usar el teléfono.", "answer": false, "explanation": "La profesora dice «please don't use your phones»."}
+  ]},
+  {"id": "a1-01-x2", "type": "multiple_choice", "topic": "greetings", "skill": "comprehension", "difficulty": 2, "question": "Llegas a un hotel a las 20:00. ¿Cuál es el saludo más adecuado?", "options": ["Good evening.", {"text": "Good night.", "why": "Good night es para despedirse.", "error": "greeting-use"}, {"text": "Good afternoon.", "why": "A las 20:00 ya es de noche."}, {"text": "Goodbye.", "why": "Es una despedida."}], "answer": 0, "explanation": "Al llegar por la noche se usa Good evening."},
+  {"id": "a1-01-x3", "type": "fill_blank", "topic": "greetings", "skill": "grammar", "difficulty": 2, "text": "—Hi, ___ name is Leo. —Nice to meet ___, Leo.", "blanks": [{"answers": ["my"], "feedback": {"me": "«Mi nombre» = my name."}}, {"answers": ["you"]}], "explanation": "My name is… / Nice to meet you."},
+  {"id": "a1-01-x4", "type": "error_identification", "topic": "imperatives", "skill": "grammar", "difficulty": 2, "segments": ["Please,", "no", "speak", "Spanish in class."], "errorIndex": 1, "correction": ["don't", "do not"], "errorTag": "imperative-form", "explanation": "El imperativo negativo se forma con don't: Please, don't speak Spanish in class."},
+  {"id": "a1-01-x5", "type": "multiple_choice", "topic": "numbers-0-20", "skill": "listening", "difficulty": 2, "audio": "My phone number is three oh five, nine one two, fourteen.", "hideText": true, "question": "Escucha. ¿Cuál es el número de teléfono?", "options": ["305-912-14", "350-912-14", "305-921-40", "305-912-40"], "answer": 0, "explanation": "three oh five (305), nine one two (912), fourteen (14). Fourteen (14) ≠ forty (40)."},
+  {"id": "a1-01-x6", "type": "translation", "direction": "es-en", "unit": "sentence", "topic": "english-basics", "skill": "translation", "difficulty": 2, "source": "Hablo español.", "answers": ["I speak Spanish."], "keyConcepts": [["speak"], ["spanish"]], "notes": "El sujeto es obligatorio: **I** speak Spanish. Los idiomas llevan mayúscula en inglés.", "errorTag": "subject-omitted", "explanation": "I speak Spanish (con sujeto I y Spanish con mayúscula)."},
+  {"id": "a1-01-x7", "type": "word_order", "topic": "english-basics", "skill": "construction", "difficulty": 2, "tokens": ["my", "sister", "speaks", "English"], "clue": "Mi hermana habla inglés.", "explanation": "Sujeto (My sister) + verbo (speaks) + complemento (English)."},
+  {"id": "a1-01-x8", "type": "multiple_choice", "topic": "alphabet-spelling", "skill": "comprehension", "difficulty": 2, "question": "Tu apellido es «Gallo». ¿Cómo lo deletreas en inglés?", "options": ["G-A-double L-O", {"text": "J-A-double L-O", "why": "La primera letra es G (/dʒiː/), no J (/dʒeɪ/).", "error": "alphabet-letter"}, {"text": "G-E-double L-O", "why": "La segunda letra es A (/eɪ/).", "error": "alphabet-letter"}, {"text": "G-A-L-O", "why": "Gallo lleva dos L: double L."}], "answer": 0, "explanation": "G (/dʒiː/) - A (/eɪ/) - double L - O (/oʊ/)."},
+  {"id": "a1-01-x9", "type": "sentence_building", "topic": "classroom-language", "skill": "construction", "difficulty": 2, "cue": "Pide con cortesía que hablen despacio.", "answers": ["Can you speak slowly, please?", "Please speak slowly.", "Speak slowly, please.", "Can you speak more slowly, please?", "Please speak more slowly."], "explanation": "Can you speak slowly, please? / Speak slowly, please."}
+]
+}
